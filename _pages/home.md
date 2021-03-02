@@ -1,5 +1,5 @@
 ---
-title: "Atmospheric Chemistry and Climate Modeling Group - Home"
+title: "ACCM Group - Home"
 layout: homelay
 excerpt: "Atmospheric Chemistry and Climate Modeling Group at SYSU"
 sitemap: false
