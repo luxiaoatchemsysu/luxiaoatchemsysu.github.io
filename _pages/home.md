@@ -49,7 +49,7 @@ Our research group will be focusing on a wide range of topics on atmospheric che
 
 
 
-See our resear ch here (see [Research](research)).
+See our research here (see [Research](research)).
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
