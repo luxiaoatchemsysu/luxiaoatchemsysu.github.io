@@ -7,14 +7,15 @@ permalink: /
 ---
 **Welcome to the Atmospheric Chemistry and Climate Modeling Group at [School of Atmoshpheric Sciences, Sun Yat-sen University](https://atmos.sysu.edu.cn/)**
 
-This is test version 1.
+The group page is still under construction.
 
 The group is led by Dr. Xiao Lu.
 
 Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:
- - Source, chemistry, transport, and sink of greenhouse gas and air pollutants
+ - Source, chemistry, transport, and sink of air pollutants
+ - Inverse modeling of greenhouse gases
  - Large-scale chemistry-climate interactions
- - Climate-chemistry model development . 
+ - Climate-chemistry model development 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -53,5 +54,5 @@ Our research group will be focusing on a wide range of topics on atmospheric che
 See our research here (see [Research](research)).
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate Postdocs, Master students, and Undergrate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
