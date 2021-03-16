@@ -18,6 +18,16 @@
   education4:
 
 - name: "This could be you !"
+  photo: Pikaqiu.jpg
+  info: Be who you wanna be
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: "This could be you !"
   photo: Minions.jpg
   info: Be who you wanna be
   email:
