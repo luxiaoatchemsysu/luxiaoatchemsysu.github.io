@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Atmospheric Chemisty and Modeling Group at SYSU."
 sitemap: false
 permalink: /allnews.html
 ---
