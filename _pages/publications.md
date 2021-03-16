@@ -7,15 +7,15 @@ permalink: /publications/
 ---
 
 
-# Publications
+<p></p>
 
+(<b>*</b> Corresponding author; Group members are shown in bold )
 
-
-## Full List
+<p></p>
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{{ publi.authors }}: {{ publi.title }}, <b><em>{{  publi.journal }}</em></b>, {{ publi.year }}. <a href="{{ publi.url }}">{{ publi.display }}</a>
+<br /> 
 
 {% endfor %}
