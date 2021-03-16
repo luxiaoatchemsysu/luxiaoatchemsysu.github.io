@@ -1,5 +1,5 @@
 - name: Xiao Lu (卢骁)
-  photo: XiaoLu.jpg
+  photo: XiaoLu1.jpg
   info: Associate professor, started May 2021
   email: xiaolu@g.harvard.edu
   number_educ: 3
@@ -8,7 +8,17 @@
   education3: BS, Sun Yat-sen University
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: Doraemon.jpg
+  info: Be who you wanna be
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: "This could be you !"
+  photo: Pikaqiu.jpg
   info: Be who you wanna be
   email:
   number_educ: 0
