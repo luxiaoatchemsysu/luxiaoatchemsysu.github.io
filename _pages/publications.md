@@ -15,13 +15,13 @@ permalink: /publications/
 
 **2021**
 
-<b>Lu, X. *</b>, Jacob, D. J., Zhang, Y., Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</b></em>, in press, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2020-775/)
+<b>Lu, X. *</b>, Jacob, D. J., Zhang, Y., Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, in press, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2020-775/)
 
-Maasakkers, J. D., Jacob, D. J., Sulprizio, M. P., Scarpelli, T. R., Nesser, H., Sheng, J., Zhang, Y., <b>Lu, X. </b>, Bloom, A. A., Bowman, K. W., Worden, J. R., and Parker, R. J.: 2010–2015 North American methane emissions, sectoral contributions, and trends: a high-resolution inversion of GOSAT satellite observations of atmospheric methane, <b><em>Atmospheric Chemistry and Physics</b></em>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2020-915/)
+Maasakkers, J. D., Jacob, D. J., Sulprizio, M. P., Scarpelli, T. R., Nesser, H., Sheng, J., Zhang, Y., <b>Lu, X. </b>, Bloom, A. A., Bowman, K. W., Worden, J. R., and Parker, R. J.: 2010–2015 North American methane emissions, sectoral contributions, and trends: a high-resolution inversion of GOSAT satellite observations of atmospheric methane, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2020-915/)
 
-Jiang, Z., Li, J., <b>Lu, X. </b>, Gong, C., Zhang, L., and Liao, H.: Impact of Western Pacific Subtropical High on Ozone Pollution over Eastern China, </b></em>Atmospheric Chemistry and Physics</b></em>, 2021.
+Jiang, Z., Li, J., <b>Lu, X. </b>, Gong, C., Zhang, L., and Liao, H.: Impact of Western Pacific Subtropical High on Ozone Pollution over Eastern China, </b></em>Atmospheric Chemistry and Physics</em></b>, 2021.
 
-Zhang, Y., Jacob, D. J., <b>Lu, X. </b>, Maasakkers, J. D., Scarpelli, T. R., Sheng, J.-X., Shen, L., Qu, Z., Sulprizio, M. P., Chang, J., Bloom, A. A., Ma, S., Worden, J., Parker, R. J., and Boesch, H.: Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations, <b><em>Atmospheric Chemistry and Physics</b></em>, 2021.
+Zhang, Y., Jacob, D. J., <b>Lu, X. </b>, Maasakkers, J. D., Scarpelli, T. R., Sheng, J.-X., Shen, L., Qu, Z., Sulprizio, M. P., Chang, J., Bloom, A. A., Ma, S., Worden, J., Parker, R. J., and Boesch, H.: Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021.
 
 **2020**
 
