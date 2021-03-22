@@ -14,7 +14,7 @@ Our research group will be focusing on a wide range of topics on atmospheric che
  - Climate-chemistry model development 
 
 
-Here are some themes that we currently work on:
+Here are some topics that we have done/currently work on:
 
 **[1] Regional ozone air quality**
 
@@ -32,7 +32,8 @@ Here are some themes that we currently work on:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/global-methane-inversion.png){: style="width: 100%; float: center; margin: 10px"}
 
 **[3] Climate-chemistry interactions** 
--**Ozone in the Southern Hemisphere tied to climate variability.** We show that in-situ and satellite observations document increases of tropospheric and surface ozone in the Southern Hemisphere (SH) over 1990-2015, and by comprehensive model simulations we explain the trends are linked to the poleward expansion of the SH Hadley circulation (SHHC). The SHHC poleward expansion allows more downward transport of ozone from the stratosphere to the troposphere at higher latitudes, and also enhances tropospheric ozone production through stronger lifting of tropical ozone precursors to the upper troposphere. Poleward expansion of the SHHC is an expected consequence of greenhouse warming, and the associated increase in tropospheric ozone potentially provides a positive climate feedback amplifying the warming. [Science Bulletin, 2019] (Journal Highlight Article)
+
+**Ozone in the Southern Hemisphere tied to climate variability.** We show that in-situ and satellite observations document increases of tropospheric and surface ozone in the Southern Hemisphere (SH) over 1990-2015, and by comprehensive model simulations we explain the trends are linked to the poleward expansion of the SH Hadley circulation (SHHC). The SHHC poleward expansion allows more downward transport of ozone from the stratosphere to the troposphere at higher latitudes, and also enhances tropospheric ozone production through stronger lifting of tropical ozone precursors to the upper troposphere. Poleward expansion of the SHHC is an expected consequence of greenhouse warming, and the associated increase in tropospheric ozone potentially provides a positive climate feedback amplifying the warming. [Science Bulletin, 2019] (Journal Highlight Article)
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/southern-o3-merged.png){: style="width: 100%; float: center; margin: 10px"}
 
 **Lower tropospheric ozone over India and its linkage to the South Asian monsoon.** We use satellite observations and long-term (1990-2010) GEOS-Chem simulation to explore the seasonal and interannual variability of tropospheric ozone over India and its linkage to the South Asian monsoon. The figure shows that higher ozone concentrations are found in weaker monsoon seasons mainly due to higher ozone net chemical production. The significant increasing ozone trend over India is driven by the increases in emission. [ACP, 2018]
@@ -45,9 +46,6 @@ Here are some themes that we currently work on:
 **[4] Climate-Chemistry model development**
 **Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation.** We develop the BCC-GEOS-Chem model, i.e. GEOS-Chem coupled with the BCC Atmospheric General Circulation Model (BCC-AGCM).  [GMD, 2020] The figure below shows the framework of the model, and the evaluation of BCC-GEOS-Chem simulated tropospheric ozone with satellite observations. I also join the development of the Beijing Climate Center Earth System Model (BCC-ESM) [Wu et al., 2020, GMD] and the WRF-GC (WRF-GC: online coupling of WRF and GEOS-Chem) model [Lin et al., 2020, GMD].
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/BCC-GC.png){: style="width: 100%; float: center; margin: 10px"}
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 100%; float: center; margin: 10px"}
 
 
 
