@@ -9,24 +9,27 @@ permalink: /publications/
 
 <p></p>
 Xiao Lu has published over 30 peer-reviewed research articles (9 as first author at Science Bulletin, Environmental Science & Technology Letters, Atmospheric Chemistry and Physcis, GeoScientific Model Developement etc., including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited paer). [[Check google scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra).
+
 (<b>*</b> Corresponding author; Group members are shown in bold )
 
 **Publication list**
 <p></p>
 
 **In press**
-Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, in press, 2021. [[link]] (https://acp.copernicus.org/articles/21/4339/2021/)
+
+Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, in press, 2021. [[link]](https://acp.copernicus.org/articles/21/4339/2021/)
 
 **Submitted (in open review)**
-Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]] (https://acp.copernicus.org/preprints/acp-2021-170/)
 
-Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]] (https://acp.copernicus.org/preprints/acp-2021-13/)
+Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-170/)
 
-Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2020. [[link]] (https://acp.copernicus.org/preprints/acp-2020-810/)
+Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-13/)
+
+Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2020. [[link]](https://acp.copernicus.org/preprints/acp-2020-810/)
 
 **2021**
 
-<b>Lu, X. *</b>, Jacob, D. J., Zhang, Y., Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, in press, 2021 [[link]](https://acp.copernicus.org/preprints/acp-2020-775/)
+<b>Lu, X. *</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, in press, 2021 [[link]](https://acp.copernicus.org/preprints/acp-2020-775/)
 
 Li, K., Jacob, D. J., Liao, H., Qiu, Y., Shen, L., Zhai, S., Bates, K. H., Sulprizio, M. P., Song, S., <b>Lu, X.</b>, Zhang, Q., Zheng, B., Zhang, Y., Zhang, J., Lee, H. C., and Kuk, S. K.: Ozone pollution in the North China Plain spreading into the late-winter haze season, <b><em>Proceedings of the National Academy of Sciences</em></b>, 118, e2015797118, 2021. [[link]](https://www.pnas.org/content/118/10/e2015797118)
 
