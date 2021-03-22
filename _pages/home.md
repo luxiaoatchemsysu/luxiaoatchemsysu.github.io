@@ -9,7 +9,7 @@ permalink: /
 
 The group page is still under construction.
 
-The group is led by Dr. Xiao Lu.
+The group is led by **Prof. Xiao Lu (xiaolu@g.harvard.edu)**.
 
 Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:
  - Source, chemistry, transport, and sink of air pollutants
