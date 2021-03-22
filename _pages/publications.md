@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <p></p>
-Xiao Lu has published over 30 peer-reviewed research articles (9 as first author at Science Bulletin, Environmental Science & Technology Letters, Atmospheric Chemistry and Physcis, GeoScientific Model Developement etc., including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited paer). [[Check google scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra).
+Xiao Lu has published over 30 peer-reviewed research articles (9 as first author at Science Bulletin, Environmental Science & Technology Letters, Atmospheric Chemistry and Physcis, GeoScientific Model Developement etc., including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited paer). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra).
 
 (<b>*</b> Corresponding author; Group members are shown in bold )
 
