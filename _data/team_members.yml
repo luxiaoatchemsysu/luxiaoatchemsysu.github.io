@@ -6,7 +6,7 @@
   education1: Postdoc (2019-2021), Harvard Univerisity
   education2: PhD (2014-2019), Peking Univerisity
   education3: BS (2010-2014), Sun Yat-sen University
-  education4: CV [Engish]({{ site.url }}{{ site.baseurl }}/downloads/CV_xlu.pdf)
+  education4: CV
 
 - name: "This could be you !"
   photo: Doraemon.jpg
