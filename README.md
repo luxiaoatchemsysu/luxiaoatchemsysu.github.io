@@ -1,5 +1,5 @@
 # Xiao Lu
-Fork the Allan Lab Website.
+This page is forked from the Allan Lab website (much appreciated!). Dr. Lei Zhu's rearch webpage at SUSTech is also a good reference. Feel free to copy for your purpose as well.
 
 # Allan Lab Website
 
