@@ -8,10 +8,21 @@ permalink: /publications/
 
 
 <p></p>
-
+Xiao Lu has published over 30 peer-reviewed research articles (9 as first author at Science Bulletin, Environmental Science & Technology Letters, Atmospheric Chemistry and Physcis, GeoScientific Model Developement etc., including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited paer). [[Check google scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra).
 (<b>*</b> Corresponding author; Group members are shown in bold )
 
+**Publication list**
 <p></p>
+
+**In press**
+Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, in press, 2021. [[link]] (https://acp.copernicus.org/articles/21/4339/2021/)
+
+**Submitted (in open review)**
+Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]] (https://acp.copernicus.org/preprints/acp-2021-170/)
+
+Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]] (https://acp.copernicus.org/preprints/acp-2021-13/)
+
+Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2020. [[link]] (https://acp.copernicus.org/preprints/acp-2020-810/)
 
 **2021**
 
@@ -21,7 +32,7 @@ Li, K., Jacob, D. J., Liao, H., Qiu, Y., Shen, L., Zhai, S., Bates, K. H., Sulpr
 
 DeLang, M. N., Becker, J. S., Chang, K.-L., Serre, M. L., Cooper, O. R., Schultz, M. G., Schröder, S., <b>Lu, X.</b>, Zhang, L., Deushi, M., Josse, B., Keller, C. A., Lamarque, J.-F., Lin, M., Liu, J., Marécal, V., Strode, S. A., Sudo, K., Tilmes, S., Zhang, L., Cleland, S. E., Collins, E. L., Brauer, M., and West, J. J.: Mapping Yearly Fine Resolution Global Surface Ozone through the Bayesian Maximum Entropy Data Fusion of Observations and Model Output for 1990–2017, <b><em>Environmental Science & Technology</em></b>, 2021. [[link]](https://pubs.acs.org/doi/10.1021/acs.est.0c07742)
 
-Maasakkers, J. D., Jacob, D. J., Sulprizio, M. P., Scarpelli, T. R., Nesser, H., Sheng, J., Zhang, Y., <b>Lu, X. </b>, Bloom, A. A., Bowman, K. W., Worden, J. R., and Parker, R. J.: 2010–2015 North American methane emissions, sectoral contributions, and trends: a high-resolution inversion of GOSAT satellite observations of atmospheric methane, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021 [[link]](https://acp.copernicus.org/preprints/acp-2020-915/)
+Maasakkers, J. D., Jacob, D. J., Sulprizio, M. P., Scarpelli, T. R., Nesser, H., Sheng, J., Zhang, Y., <b>Lu, X. </b>, Bloom, A. A., Bowman, K. W., Worden, J. R., and Parker, R. J.: 2010–2015 North American methane emissions, sectoral contributions, and trends: a high-resolution inversion of GOSAT satellite observations of atmospheric methane, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4339-4356, 2021 [[link]](https://acp.copernicus.org/preprints/acp-2020-915/)
 
 Jiang, Z., Li, J., <b>Lu, X. </b>, Gong, C., Zhang, L., and Liao, H.: Impact of Western Pacific Subtropical High on Ozone Pollution over Eastern China, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 2601-2613, 2021 [[link]](https://acp.copernicus.org/articles/21/2601/2021/)
 
