@@ -2,10 +2,11 @@
   photo: XiaoLu1.jpg
   info: Associate professor, started May 2021
   email: xiaolu@g.harvard.edu
-  number_educ: 3
-  education1: Postdoc (2019-2021), Harvard Univerisity, with <a href="http://acmg.seas.harvard.edu/">Daniel Jacob</a>
-  education2: PhD (2014-2019), Peking Univerisity with <a href="http://scholar.pku.edu.cn/acaq/">Lin Zhang</a>
+  number_educ: 4
+  education1: Postdoc (2019-2021), Harvard Univerisity
+  education2: PhD (2014-2019), Peking Univerisity
   education3: BS (2010-2014), Sun Yat-sen University
+  education3: CV
 
 - name: "This could be you !"
   photo: Doraemon.jpg
