@@ -9,7 +9,7 @@ permalink: /joinus/
 
 Please contact xiaolu@g.harvard.edu if you have interests in any position in the group.
 
-**欢迎对相关研究方向感兴趣的同行和同学们（博士后，硕士生，本科生）加入我们！**
+**欢迎对相关研究方向感兴趣的同行（专职科研岗）和同学们（博士后，硕士生，本科生）加入我们！**
 
 **联系方式：**
 xiaolu@g.harvard.edu
