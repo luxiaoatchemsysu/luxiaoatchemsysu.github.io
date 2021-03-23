@@ -44,6 +44,7 @@ Here are some topics that we have done/currently work on:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Climate-O3.png){: style="width: 100%; float: center; margin: 10px"}
 
 **[4] Climate-Chemistry model development**
+
 **Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation.** We develop the BCC-GEOS-Chem model, i.e. GEOS-Chem coupled with the BCC Atmospheric General Circulation Model (BCC-AGCM).  [GMD, 2020] The figure below shows the framework of the model, and the evaluation of BCC-GEOS-Chem simulated tropospheric ozone with satellite observations. I also join the development of the Beijing Climate Center Earth System Model (BCC-ESM) [Wu et al., 2020, GMD] and the WRF-GC (WRF-GC: online coupling of WRF and GEOS-Chem) model [Lin et al., 2020, GMD].
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/BCC-GC.png){: style="width: 100%; float: center; margin: 10px"}
 
