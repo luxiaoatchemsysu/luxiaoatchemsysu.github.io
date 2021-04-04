@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <p></p>
-Xiao Lu has published over 30 peer-reviewed research articles (9 as first author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra).
+**Xiao Lu has published over 30 peer-reviewed research articles (9 as first author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra).**
 
 (<b>*</b> Corresponding author; Group members are shown in bold )
 
@@ -19,7 +19,7 @@ Xiao Lu has published over 30 peer-reviewed research articles (9 as first author
 
 Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, in press, 2021. [[link]](https://acp.copernicus.org/articles/21/4339/2021/)
 
-**In open review**
+**In public review**
 
 Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-170/)
 
@@ -29,7 +29,7 @@ Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, L
 
 **2021**
 
-<b>Lu, X. *</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, in press, 2021 [[link]](https://acp.copernicus.org/preprints/acp-2020-775/)
+<b>Lu, X. *</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4637-4657, 2021 [[link]](https://acp.copernicus.org/articles/21/4637/2021/)
 
 Li, K., Jacob, D. J., Liao, H., Qiu, Y., Shen, L., Zhai, S., Bates, K. H., Sulprizio, M. P., Song, S., <b>Lu, X.</b>, Zhang, Q., Zheng, B., Zhang, Y., Zhang, J., Lee, H. C., and Kuk, S. K.: Ozone pollution in the North China Plain spreading into the late-winter haze season, <b><em>Proceedings of the National Academy of Sciences</em></b>, 118, e2015797118, 2021. [[link]](https://www.pnas.org/content/118/10/e2015797118)
 
@@ -51,7 +51,7 @@ Li, K., Jacob, D. J., Shen, L., <b>Lu, X. </b>, De Smedt, I., and Liao, H.: Incr
 
 Lin, H., Feng, X., Fu, T.-M., Tian, H., Ma, Y., Zhang, L., Jacob, D. J., Yantosca, R. M., Sulprizio, M. P., Lundgren, E. W., Zhuang, J., Zhang, Q., <b>Lu, X. </b>, Zhang, L., Shen, L., Guo, J., Eastham, S. D., and Keller, C. A.: WRF-GC: online coupling of WRF and GEOS-Chem for regional atmospheric chemistry modeling, Part 1: description of the one-way model (v1.0), <b><em>Geoscientific Model Development</em></b>, 2020 [[link]](https://gmd.copernicus.org/articles/13/3241/2020/gmd-13-3241-2020-discussion.html)
 
-Cooper, O. R., Schultz, M. G., Schroeder, S., Chang, K.-L., Gaudel, A., Benítez, G. C., Cuevas, E., Fröhlich, M., Galbally, I. E., Molloy, S., Kubistin, D., <b>Lu, X. </b>, McClure-Begley, A., Nédélec, P., O'Brien, J., Oltmans, S. J., Petropavlovskikh, I., Ries, L., Senik, I., Sjöberg, K., Solberg, S., Spain, G. T., Spangl, W., Steinbacher, M., Tarasick, D., Thouret, V., and Xu, X.: Multi-decadal surface ozone trends at globally distributed remote locations, Elementa-Science of the Anthropocene, 8, 23, 2020 [[link]](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.420/112772/Multi-decadal-surface-ozone-trends-at-globally)
+Cooper, O. R., Schultz, M. G., Schroeder, S., Chang, K.-L., Gaudel, A., Benítez, G. C., Cuevas, E., Fröhlich, M., Galbally, I. E., Molloy, S., Kubistin, D., <b>Lu, X. </b>, McClure-Begley, A., Nédélec, P., O'Brien, J., Oltmans, S. J., Petropavlovskikh, I., Ries, L., Senik, I., Sjöberg, K., Solberg, S., Spain, G. T., Spangl, W., Steinbacher, M., Tarasick, D., Thouret, V., and Xu, X.: Multi-decadal surface ozone trends at globally distributed remote locations, <b><em>Elementa-Science of the Anthropocene</em></b>, 8, 23, 2020 [[link]](https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.420/112772/Multi-decadal-surface-ozone-trends-at-globally)
 
 Gao, M., Gao, J., Zhu, B., Kumar, R., <b>Lu, X. </b>, Song, S., Zhang, Y., Wang, P., Beig, G., Hu, J., Ying, Q., Zhang, H., Sherman, P., and McElroy, M. B.: Ozone Pollution over China and India: Seasonality and Sources, <b><em>Atmospheric Chemistry and Physics</em></b>, 2020 [[link]](https://acp.copernicus.org/articles/20/4399/2020/)
 
