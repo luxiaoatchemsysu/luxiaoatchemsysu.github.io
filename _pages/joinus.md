@@ -5,7 +5,7 @@ excerpt: "Join us"
 sitemap: false
 permalink: /joinus/
 ---
-**We are  looking for passionate Postdocs, Master students, and Undergrate students to join the team**
+**We are  looking for passionate Postdocs, Master students, and Undergrate students to join our team**
 
 Please contact xiaolu@g.harvard.edu if you have interests in any position in the group.
 
@@ -18,15 +18,15 @@ xiaolu@g.harvard.edu
 
 1.全球和区域对流层臭氧的变化趋势和驱动因子
 
-2.我国臭氧和颗粒物污染理化过程和协同控制
+2.中国大气臭氧和细颗粒物的污染理化过程和协同控制
 
-3.气候-陆面过程对大气化学组分的影响和反馈过程
+3.天气-气候-陆面过程对大气化学组分的影响和反馈过程
 
 4.地球系统模型中大气化学数值模式的发展
 
 5.全球大气甲烷的来源和气候效应
 
-6.我国碳源和碳汇的科学估算
+6.基于卫星和地面观测的中国甲烷排放的反演
 
 7.机器学习在大气环境中的应用 
 
