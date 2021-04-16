@@ -8,7 +8,7 @@ permalink: /group/
 
 # Group Members
 
- **We are  looking for new Postdocs, Master students, and Unndergraduate students to join the team** [(see join-us)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new Research Fellow, Postdocs, Master students, and Unndergraduate students to join the team** [(see join-us)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
