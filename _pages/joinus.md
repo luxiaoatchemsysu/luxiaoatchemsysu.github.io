@@ -5,7 +5,7 @@ excerpt: "Join us"
 sitemap: false
 permalink: /joinus/
 ---
-**We are  looking for passionate Postdocs, Master students, and Undergrate students to join our team**
+**We are  looking for passionate Research Fellow, Postdocs, Master students, and Undergrate students to join our team**
 
 Please contact xiaolu@g.harvard.edu if you have interests in any position in the group.
 
