@@ -65,7 +65,7 @@ Yin, H., Sun, Y., Liu, C., <b>Lu, X. </b>, Smale, D., Blumenstock, T., Nagahama,
 
 **2019**
 
-<b>Lu, X. *</b>, Zhang, L., Chen, Y., Zhou, M., Zheng, B., Li, K., Liu, Y., Lin, J., Fu, T.-M., and Zhang, Q.: Exploring 2016–2017 surface ozone pollution over China: source contributions and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 19, 8339-8361, 2019 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html)
+<b>Lu, X. *</b>, Zhang, L.<b>*</b>, Chen, Y., Zhou, M., Zheng, B., Li, K., Liu, Y., Lin, J., Fu, T.-M., and Zhang, Q.: Exploring 2016–2017 surface ozone pollution over China: source contributions and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 19, 8339-8361, 2019 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html)
 
 <b>Lu, X. </b>, Zhang, L., Zhao, Y., Jacob, D., Hu, Y., Hu, L., Gao, M., Liu, X., Petropavlovskikh, I., McClure-Begley, A., and Querel R.: Surface and tropospheric ozone trends in the Southern Hemisphere since 1990: possible linkages to poleward expansion of the Hadley Circulation, <b><em>Science Bulletin</em></b>, 64, 400-409, 2019 <b>[Journal Highlight Article]</b> [[link]](https://doi.org/10.1016/j.scib.2018.12.021)
 
