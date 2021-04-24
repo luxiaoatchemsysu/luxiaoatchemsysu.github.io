@@ -11,7 +11,8 @@ Please contact xiaolu@g.harvard.edu if you have interests in any position in the
 
 **欢迎对大气化学、空气质量、气候变化感兴趣的同行（专职科研岗）和同学们（博士后，硕士生，本科生）加入我们！**
 
-**联系方式：**
+**联系方式**
+
 **邮箱:** xiaolu@g.harvard.edu
 
 **办公地址：** 广东省珠海市香洲区唐家湾镇中山大学珠海校区大气科学学院（海琴2号楼）A209
