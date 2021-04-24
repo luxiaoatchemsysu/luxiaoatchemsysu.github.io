@@ -39,7 +39,7 @@ Here are some topics that we have done/currently work on:
 **Lower tropospheric ozone over India and its linkage to the South Asian monsoon.** We use satellite observations and long-term (1990-2010) GEOS-Chem simulation to explore the seasonal and interannual variability of tropospheric ozone over India and its linkage to the South Asian monsoon. The figure shows that higher ozone concentrations are found in weaker monsoon seasons mainly due to higher ozone net chemical production. The significant increasing ozone trend over India is driven by the increases in emission. [[ACP, 2018]](https://acp.copernicus.org/articles/18/3101/2018/)
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/India-monsoon-ozone.png){: style="width: 100%; float: center; margin: 10px"}
 
-**Interactions between tropospheric ozone and weather/climate** We summarize how tropospheric ozone and weather/climate with each other and highlight the current gaps [[Current Pollution Reports]](https://link.springer.com/article/10.1007%2Fs40726-019-00118-3) (Adopted by 中国大气臭氧防治蓝皮书(Fig 3.6, Page 34).
+**Interactions between tropospheric ozone and weather/climate** We summarize how tropospheric ozone and weather/climate with each other and highlight the current gaps [[Current Pollution Reports]](https://link.springer.com/article/10.1007%2Fs40726-019-00118-3) (Adopted by <a href="https://luxiaoatchemsysu.github.io/downloads/LanPiShu2020.pdf">中国大气臭氧防治蓝皮书(Fig 3.6, Page 34)</a>).
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Climate-O3.png){: style="width: 100%; float: center; margin: 10px"}
 
