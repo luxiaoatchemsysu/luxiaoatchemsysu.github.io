@@ -25,6 +25,8 @@ Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C
 
 Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-13/)
 
+Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Nesser, H. O., Sulprizio, M. P., Maasakkers, J. D., Bloom, A. A., Worden, J. R., Parker, R. J., and Delgado, A. L.: Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-309)
+
 Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2020. [[link]](https://acp.copernicus.org/preprints/acp-2020-810/)
 
 **2021**
@@ -36,6 +38,8 @@ Li, K., Jacob, D. J., Liao, H., Qiu, Y., Shen, L., Zhai, S., Bates, K. H., Sulpr
 DeLang, M. N., Becker, J. S., Chang, K.-L., Serre, M. L., Cooper, O. R., Schultz, M. G., Schröder, S., <b>Lu, X.</b>, Zhang, L., Deushi, M., Josse, B., Keller, C. A., Lamarque, J.-F., Lin, M., Liu, J., Marécal, V., Strode, S. A., Sudo, K., Tilmes, S., Zhang, L., Cleland, S. E., Collins, E. L., Brauer, M., and West, J. J.: Mapping Yearly Fine Resolution Global Surface Ozone through the Bayesian Maximum Entropy Data Fusion of Observations and Model Output for 1990–2017, <b><em>Environmental Science & Technology</em></b>, 2021. [[link]](https://pubs.acs.org/doi/10.1021/acs.est.0c07742)
 
 Maasakkers, J. D., Jacob, D. J., Sulprizio, M. P., Scarpelli, T. R., Nesser, H., Sheng, J., Zhang, Y., <b>Lu, X. </b>, Bloom, A. A., Bowman, K. W., Worden, J. R., and Parker, R. J.: 2010–2015 North American methane emissions, sectoral contributions, and trends: a high-resolution inversion of GOSAT satellite observations of atmospheric methane, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4339-4356, 2021 [[link]](https://acp.copernicus.org/preprints/acp-2020-915/)
+
+Wang, X., Fu, T.-M., Zhang, L., Cao, H., Zhang, Q., Ma, H., Shen, L., Evans, M. J., Ivatt, P. D., <b>Lu, X. </b>, Chen, Y., Zhang, L., Feng, X., Yang, X., Zhu, L., and Henze, D. K.: Sensitivities of Ozone Air Pollution in the Beijing–Tianjin–Hebei Area to Local and Upwind Precursor Emissions Using Adjoint Modeling, <b><em>Environmental Science & Technology</em></b>, 2021. [[link]](http://doi.org/10.1021/acs.est.1c00131)
 
 Jiang, Z., Li, J., <b>Lu, X. </b>, Gong, C., Zhang, L., and Liao, H.: Impact of Western Pacific Subtropical High on Ozone Pollution over Eastern China, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 2601-2613, 2021 [[link]](https://acp.copernicus.org/articles/21/2601/2021/)
 
