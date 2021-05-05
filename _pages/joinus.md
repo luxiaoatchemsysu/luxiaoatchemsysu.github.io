@@ -13,7 +13,9 @@ Please contact xiaolu@g.harvard.edu if you have interests in any position in the
 
 **联系方式**
 
-**邮箱:** xiaolu@g.harvard.edu
+**学院教师主页：** http://atmos.sysu.edu.cn/teacher/2887
+
+**邮箱:** luxiao25@mail.sysu.edu.cn
 
 **办公地址：** 广东省珠海市香洲区唐家湾镇中山大学珠海校区大气科学学院（海琴2号楼）A209
 
