@@ -7,9 +7,7 @@ permalink: /
 ---
 **Welcome to the Atmospheric Chemistry and Climate Modeling Group at [School of Atmoshpheric Sciences, Sun Yat-sen University](https://atmos.sysu.edu.cn/)**
 
-The group page is still under construction.
-
-The group is led by **Prof. Xiao Lu (xiaolu@g.harvard.edu)**.
+The group is led by **Prof. Xiao Lu (luxiao25@mail.sysu.edu.cn)**.
 
 Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:
  - Source, chemistry, transport, and sink of air pollutants
