@@ -7,7 +7,7 @@ permalink: /joinus/
 ---
 **We are  looking for passionate Research Fellow, Postdocs, Master students, and Undergrate students to join our team**
 
-Please contact xiaolu@g.harvard.edu if you have interests in any position in the group.
+Please contact luxiao25@mail.sysu.edu.cn if you have interests in any position in the group.
 
 **欢迎对大气化学、空气质量、气候变化感兴趣的同行（专职科研岗）和同学们（博士后，硕士生，本科生）加入我们！**
 
