@@ -15,10 +15,6 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**In press**
-
-Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, in press, 2021. [[link]](https://acp.copernicus.org/articles/21/4339/2021/)
-
 **In public review**
 
 Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-170/)
@@ -44,6 +40,10 @@ Wang, X., Fu, T.-M., Zhang, L., Cao, H., Zhang, Q., Ma, H., Shen, L., Evans, M. 
 Jiang, Z., Li, J., <b>Lu, X. </b>, Gong, C., Zhang, L., and Liao, H.: Impact of Western Pacific Subtropical High on Ozone Pollution over Eastern China, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 2601-2613, 2021 [[link]](https://acp.copernicus.org/articles/21/2601/2021/)
 
 Zhang, Y., Jacob, D. J., <b>Lu, X. </b>, Maasakkers, J. D., Scarpelli, T. R., Sheng, J.-X., Shen, L., Qu, Z., Sulprizio, M. P., Chang, J., Bloom, A. A., Ma, S., Worden, J., Parker, R. J., and Boesch, H.: Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 3643–3666,2021 [[link]](https://acp.copernicus.org/articles/21/3643/2021/acp-21-3643-2021.html)
+
+Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, 21, 6365-6387, 2021. [[link]](https://doi.org/10.5194/acp-21-6365-2021)
+
+Shen, L., Zavala-Araiza, D., Gautam, R., Omara, M., Scarpelli, T., Sheng, J., Sulprizio, M. P., Zhuang, J., Zhang, Y., Qu, Z., <b>Lu, X.</b>, Hamburg, S. P., and Jacob, D. J.: Unravelling a large methane emission discrepancy in Mexico using satellite observations, <b><emRemote Sensing of Environment</em></b>, 260, 112461, 2021.  [[link]](http://doi.org/10.1016/j.rse.2021.112461)
 
 **2020**
 
