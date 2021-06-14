@@ -13,11 +13,21 @@
   photo: HaolinWang.jpg
   info: Ph.D. candidate (co-supervised)
   email: wanghlin25@mail2.sysu.edu.cn
-  number_educ: 3
+  number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
   education3: Reseach interest： ozone air quality 
-  education4:
+  education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
+
+- name: Hao Yin (殷昊)
+  photo: 
+  info: Ph.D. candidate (co-supervised)
+  email: 
+  number_educ: 3
+  education1: Ph.D. candidate
+  education2: BS
+  education3: Reseach interest： Remote sensing and modeling of air pollutants
+
 
 - name: "This could be you !"
   photo: Doraemon.jpg
