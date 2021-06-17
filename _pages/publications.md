@@ -23,11 +23,12 @@ Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm
 
 Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Nesser, H. O., Sulprizio, M. P., Maasakkers, J. D., Bloom, A. A., Worden, J. R., Parker, R. J., and Delgado, A. L.: Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-309)
 
-Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2020. [[link]](https://acp.copernicus.org/preprints/acp-2020-810/)
 
 **2021**
 
 <b>Lu, X. *</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4637-4657, 2021 [[link]](https://acp.copernicus.org/articles/21/4637/2021/)
+
+<b> Wang, H. </b>, Wu, K., Liu, Y., Sheng, B., <b>Lu, X.</b>, He, Y., Xie, J., Wang, H., and Fan, S.: Role of Heat Wave‐Induced Biogenic VOC Enhancements in Persistent Ozone Episodes Formation in Pearl River Delta, <b><em>Journal of Geophysical Research</em></b>, 126, e2020JD034317, 2021 [[link]](https://doi.org/10.1029/2020JD034317)
 
 Li, K., Jacob, D. J., Liao, H., Qiu, Y., Shen, L., Zhai, S., Bates, K. H., Sulprizio, M. P., Song, S., <b>Lu, X.</b>, Zhang, Q., Zheng, B., Zhang, Y., Zhang, J., Lee, H. C., and Kuk, S. K.: Ozone pollution in the North China Plain spreading into the late-winter haze season, <b><em>Proceedings of the National Academy of Sciences</em></b>, 118, e2015797118, 2021. [[link]](https://www.pnas.org/content/118/10/e2015797118)
 
@@ -44,6 +45,8 @@ Zhang, Y., Jacob, D. J., <b>Lu, X. </b>, Maasakkers, J. D., Scarpelli, T. R., Sh
 Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X.</b>, Vigouroux, C., Zheng, B., Wang, W., Jones, N., Shan, C., Tian, Y., Hu, Q., and Liu, J.: Mapping the drivers of formaldehyde (HCHO) variability from 2015–2019 over eastern China: insights from FTIR observation and GEOS-Chem model simulation, <b><em>Atmospheric Chemistry and Physic</em></b>, 21, 6365-6387, 2021. [[link]](https://doi.org/10.5194/acp-21-6365-2021)
 
 Shen, L., Zavala-Araiza, D., Gautam, R., Omara, M., Scarpelli, T., Sheng, J., Sulprizio, M. P., Zhuang, J., Zhang, Y., Qu, Z., <b>Lu, X.</b>, Hamburg, S. P., and Jacob, D. J.: Unravelling a large methane emission discrepancy in Mexico using satellite observations, <b><em>Remote Sensing of Environment</em></b>, 260, 112461, 2021.  [[link]](http://doi.org/10.1016/j.rse.2021.112461)
+
+Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO in the urban areas over the Himalayas and Tibetan Plateau, <b><emAtmospheric Chemistry and Physic</em></b>, 21, 9201-9222, 2021. [[link]](https://acp.copernicus.org/articles/21/9201/2021/)
 
 **2020**
 
