@@ -46,7 +46,7 @@ Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X
 
 Shen, L., Zavala-Araiza, D., Gautam, R., Omara, M., Scarpelli, T., Sheng, J., Sulprizio, M. P., Zhuang, J., Zhang, Y., Qu, Z., <b>Lu, X.</b>, Hamburg, S. P., and Jacob, D. J.: Unravelling a large methane emission discrepancy in Mexico using satellite observations, <b><em>Remote Sensing of Environment</em></b>, 260, 112461, 2021.  [[link]](http://doi.org/10.1016/j.rse.2021.112461)
 
-Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO in the urban areas over the Himalayas and Tibetan Plateau, <b><emAtmospheric Chemistry and Physic</em></b>, 21, 9201-9222, 2021. [[link]](https://acp.copernicus.org/articles/21/9201/2021/)
+Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO in the urban areas over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physic</em></b>, 21, 9201-9222, 2021. [[link]](https://acp.copernicus.org/articles/21/9201/2021/)
 
 **2020**
 
