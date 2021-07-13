@@ -16,7 +16,7 @@
   number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
-  education3: Reseach interest： ozone air quality 
+  education3: Reseach interest： Tropospheric ozone trends 
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
 
 - name: Hao Yin (殷昊)
@@ -28,6 +28,15 @@
   education2: BS (2013-2017), Hefei University of Technology
   education3: Reseach interest： Remote sensing and modeling of air pollutants
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HYin.pdf">CV</a>
+
+- name: Cheng He (何成)
+  photo: ChengHe.jpg
+  info: Master student (co-supervised)
+  email: hech58@mail2.sysu.edu.cn
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2016-2020), Chengdu University of Information Technology
+  education3: Reseach interest： Ozone air quality 
 
 - name: "This could be you !"
   photo: Doraemon.jpg
