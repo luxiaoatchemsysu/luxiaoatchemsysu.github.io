@@ -22,6 +22,8 @@ Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Ness
 
 **2021**
 
+<b>Lu, X.*</b>, Ye, X., Zhou, M., Zhao, Y., Weng, H., Kong, H., Li, K., Gao, M., Zheng, B., Lin, J., Zhou, F., Zhang, Q., Wu, D., Zhang, L., and Zhang, Y.: The underappreciated role of agricultural soil nitrogen oxide emissions in ozone pollution regulation in North China, <b><em>Nature Communications</em></b>, 12, 2021 [[link]](https://www.nature.com/articles/s41467-021-25147-9)
+
 <b>Lu, X. *</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4637-4657, 2021 [[link]](https://acp.copernicus.org/articles/21/4637/2021/)
 
 <b> Wang, H. </b>, Wu, K., Liu, Y., Sheng, B., <b>Lu, X.</b>, He, Y., Xie, J., Wang, H., and Fan, S.: Role of Heat Wave‐Induced Biogenic VOC Enhancements in Persistent Ozone Episodes Formation in Pearl River Delta, <b><em>Journal of Geophysical Research</em></b>, 126, e2020JD034317, 2021 [[link]](https://doi.org/10.1029/2020JD034317)
