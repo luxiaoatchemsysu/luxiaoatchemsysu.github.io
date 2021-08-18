@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <p></p>
-**Xiao Lu has published over 30 peer-reviewed research articles (9 as first author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 2 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 30 peer-reviewed research articles (10 as first author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 3 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; Group members are shown in bold )
 
@@ -16,10 +16,6 @@ permalink: /publications/
 <p></p>
 
 **In public review**
-
-Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-170/)
-
-Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-13/)
 
 Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Nesser, H. O., Sulprizio, M. P., Maasakkers, J. D., Bloom, A. A., Worden, J. R., Parker, R. J., and Delgado, A. L.: Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-309)
 
@@ -47,6 +43,10 @@ Sun, Y., Yin, H., Liu, C., Zhang, L., Cheng, Y., Palm, M., Notholt, J., <b>Lu, X
 Shen, L., Zavala-Araiza, D., Gautam, R., Omara, M., Scarpelli, T., Sheng, J., Sulprizio, M. P., Zhuang, J., Zhang, Y., Qu, Z., <b>Lu, X.</b>, Hamburg, S. P., and Jacob, D. J.: Unravelling a large methane emission discrepancy in Mexico using satellite observations, <b><em>Remote Sensing of Environment</em></b>, 260, 112461, 2021.  [[link]](http://doi.org/10.1016/j.rse.2021.112461)
 
 Sun, Y., Yin, H., Cheng, Y., Zhang, Q., Zheng, B., Notholt, J., <b>Lu, X.</b>, Liu, C., Tian, Y., and Liu, J.: Quantifying variability, source, and transport of CO in the urban areas over the Himalayas and Tibetan Plateau, <b><em>Atmospheric Chemistry and Physic</em></b>, 21, 9201-9222, 2021. [[link]](https://acp.copernicus.org/articles/21/9201/2021/)
+
+Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C., Zhou, Q., Wang, Y., Zhang, Q., Carmichael, G. R., and Hu, J.: Reduced light absorption of black carbon (BC) and its influence on BC-boundary-layer interactions during APEC Blue, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-170/)
+
+Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-13/)
 
 **2020**
 
