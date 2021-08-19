@@ -58,7 +58,7 @@ Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm
 
 <b>Lu, X. </b>, Zhang, L., Wu, T., Long, M., Wang, J., Jacob, D., Zhang F., Zhang, J., Eastham, S., Hu, L., Zhu, L., Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, <b><em>Geoscientific Model Development</em></b>, 13, 3817-3838, 2020 [[link]](https://gmd.copernicus.org/articles/13/3817/2020/gmd-13-3817-2020.html)
 
-<b>Lu, X. </b>, Zhang, L., Wang, X., Gao, M., Li, K., Zhang, Y., Yue, X., and Zhang, Y.: Rapid increases in warm-season surface ozone and resulting health impact over China since 2013, <b><em>Environmental Science & Technology Letters</em></b>, 7, 240-247, 2020 [[link]](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00171)
+<b>Lu, X. </b>, Zhang, L., Wang, X., Gao, M., Li, K., Zhang, Y., Yue, X., and Zhang, Y.: Rapid increases in warm-season surface ozone and resulting health impact over China since 2013, <b><em>Environmental Science & Technology Letters</em></b>, 7, 240-247, 2020 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00171)
 
 Li, K., Jacob, D. J., Shen, L., <b>Lu, X. </b>, De Smedt, I., and Liao, H.: Increases in surface ozone pollution in China from 2013 to 2019: anthropogenic and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 20, 11423-11433, 2020 [[link]](https://acp.copernicus.org/articles/20/11423/2020/acp-20-11423-2020.html)
 
