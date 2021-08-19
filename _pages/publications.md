@@ -17,9 +17,9 @@ permalink: /publications/
 
 **In public review**
 
-<b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: Evaluation of national methane emission inventories and sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, Atmospheric Chemistry and Physics Discussions, 2021 [[link]](http://doi.org/10.5194/acp-2021-671)
+<b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: Evaluation of national methane emission inventories and sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021 [[link]](http://doi.org/10.5194/acp-2021-671)
 
-Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, Atmospheric Chemistry and Physics Discussions, 2021 [[link]](http://doi.org/10.5194/acp-2021-554)
+Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021 [[link]](http://doi.org/10.5194/acp-2021-554)
 
 Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Nesser, H. O., Sulprizio, M. P., Maasakkers, J. D., Bloom, A. A., Worden, J. R., Parker, R. J., and Delgado, A. L.: Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-309)
 
