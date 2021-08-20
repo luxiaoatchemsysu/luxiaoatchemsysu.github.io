@@ -23,6 +23,8 @@ Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface
 
 Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Nesser, H. O., Sulprizio, M. P., Maasakkers, J. D., Bloom, A. A., Worden, J. R., Parker, R. J., and Delgado, A. L.: Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-309)
 
+Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, H.: An integrated analysis of contemporary methane emissions and concentration trends over China using in situ, satellite observations, and model simulations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-464)
+
 
 **2021**
 
