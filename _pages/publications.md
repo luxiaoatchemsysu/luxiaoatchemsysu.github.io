@@ -56,6 +56,13 @@ Gao, M., Yang, Y., Liao, H., Zhu, B., Zhang, Y., Liu, Z., <b>Lu, X.</b>, Wang, C
 
 Sun, Y., Yin, H., Liu, C., Mahieu, E., Notholt, J., Té, Y., <b>Lu, X.</b>, Palm, M., Wang, W., Shan, C., Hu, Q., Qin, M., Tian, Y., and Zheng, B.: Reduction in C2H6  from 2015 to 2020 over Hefei, eastern China  points to air quality improvement in China, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021. [[link]](https://acp.copernicus.org/preprints/acp-2021-13/)
 
+Liu, M., van der A, R., van Weele, M., Eskes, H., <b>Lu, X.</b>, Veefkind, P., de Laat, J., Kong, H., Wang, J., Sun, J., Ding, J., Zhao, Y., and Weng, H.: A New Divergence Method to Quantify Methane Emissions Using Observations of Sentinel‐5P TROPOMI, <b><em>Geophysical Research Letters</em></b>, 48, 2021.  [[link]](http://doi.org/10.1029/2021gl094151)
+
+Ma, S., Worden, J. R., Bloom, A. A., Zhang, Y., Poulter, B., Cusworth, D. H., Yin, Y., Pandey, S., Maasakkers, J. D., <b>Lu, X.</b>, Shen, L., Sheng, J., Frankenberg, C., Miller, C. E., and Jacob, D. J.: Satellite Constraints on the Latitudinal Distribution and Temperature Sensitivity of Wetland Methane Emissions, <b><em>AGU Advances</em></b>, 2, 2021. [[link]](http://doi.org/10.1029/2021av000408)
+
+Qu, Z., Jacob, D. J., Shen, L., <b>Lu, X.</b>, Zhang, Y., Scarpelli, T. R., Nesser, H., Sulprizio, M. P., Maasakkers, J. D., Bloom, A. A., Worden, J. R., Parker, R. J., and Delgado, A. L.: Global distribution of methane emissions: a comparative inverse analysis of observations from the TROPOMI and GOSAT satellite instruments, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 14159-14175, 2021.[[link]](http://doi.org/10.5194/acp-21-14159-2021)
+
+
 **2020**
 
 <b>Lu, X. </b>, Zhang, L., Wu, T., Long, M., Wang, J., Jacob, D., Zhang F., Zhang, J., Eastham, S., Hu, L., Zhu, L., Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, <b><em>Geoscientific Model Development</em></b>, 13, 3817-3838, 2020 [[link]](https://gmd.copernicus.org/articles/13/3817/2020/gmd-13-3817-2020.html)
