@@ -16,6 +16,8 @@ permalink: /publications/
 <p></p>
 
 **In public review**
+<p></p>
+
 Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021 [[link]](http://doi.org/10.5194/acp-2021-554)
 
 Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., and Gordon, D.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021,   [[link]](http://doi.org/10.5194/acp-2021-911)
@@ -30,7 +32,7 @@ Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, 
 
 <b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: Evaluation of national methane emission inventories and sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics </em></b>, 2021 (in press) [[link]](http://doi.org/10.5194/acp-2021-671)
 
-<b>Yin, H.</b>, <b>Lu, X.*</b>, Sun, Y.<b>*</b>, Li, K., Gao, M., Zheng, B., and Liu, C.: Unprecedented decline in summertime surface ozone over eastern China in 2020 comparably attributable to anthropogenic emission reductions and meteorology, <em>Environmental Research Letters</em></b>, 2021 [[link]](http://doi.org/10.1088/1748-9326/ac3e22)
+<b>Yin, H.</b>, <b>Lu, X.*</b>, Sun, Y.<b>*</b>, Li, K., Gao, M., Zheng, B., and Liu, C.: Unprecedented decline in summertime surface ozone over eastern China in 2020 comparably attributable to anthropogenic emission reductions and meteorology, <b><em>Environmental Research Letters</em></b>, 2021 [[link]](http://doi.org/10.1088/1748-9326/ac3e22)
 
 Sun, Y., <b>Yin, H.*</b>, <b>Lu, X.*</b>, Notholt, J., Palm, M., Liu, C., Tian, Y., and Zheng, B.: The drivers and health risks of the unexpected surface ozone enhancements over the Sichuan basin, China in 2020, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021 (in press) [[link]](http://doi.org/10.5194/acp-2021-664)
 
