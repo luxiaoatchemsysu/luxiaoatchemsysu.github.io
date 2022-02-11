@@ -15,14 +15,16 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**In public review**
-<p></p>
 
-Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021 [[link]](http://doi.org/10.5194/acp-2021-554)
+**2022**
 
-Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., and Gordon, D.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021,   [[link]](http://doi.org/10.5194/acp-2021-911)
+<b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: evaluation of national methane emission inventories and 2010–2017 sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics </em></b>, 22, 395-418, 2022 [[link]](https://doi.org/10.5194/acp-22-395-2022)
 
-Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, H.: An integrated analysis of contemporary methane emissions and concentration trends over China using in situ, satellite observations, and model simulations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2021. [[link]](http://doi.org/10.5194/acp-2021-464)
+Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, H.: An integrated analysis of contemporary methane emissions and concentration trends over China using in situ, satellite observations, and model simulations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 1229–1249, 2022. [[link]](https://doi.org/10.5194/acp-22-1229-2022)
+
+Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics</em></b>, in press, 2022 [[link]](http://doi.org/10.5194/acp-2021-554)
+
+Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., and Gordon, D.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics </em></b>, in press, 2022   [[link]](http://doi.org/10.5194/acp-2021-911)
 
 **2021**
 
@@ -30,15 +32,13 @@ Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, 
 
 <b>Lu, X.*</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4637-4657, 2021 [[link]](https://acp.copernicus.org/articles/21/4637/2021/)
 
-<b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: Evaluation of national methane emission inventories and sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics </em></b>, 2021 (in press) [[link]](http://doi.org/10.5194/acp-2021-671)
-
 <b>Yin, H.</b>, <b>Lu, X.*</b>, Sun, Y.<b>*</b>, Li, K., Gao, M., Zheng, B., and Liu, C.: Unprecedented decline in summertime surface ozone over eastern China in 2020 comparably attributable to anthropogenic emission reductions and meteorology, <b><em>Environmental Research Letters</em></b>, 2021 [[link]](http://doi.org/10.1088/1748-9326/ac3e22)
 
-Sun, Y., <b>Yin, H.*</b>, <b>Lu, X.*</b>, Notholt, J., Palm, M., Liu, C., Tian, Y., and Zheng, B.: The drivers and health risks of the unexpected surface ozone enhancements over the Sichuan basin, China in 2020, <b><em>Atmospheric Chemistry and Physics</em></b>, 2021 (in press) [[link]](http://doi.org/10.5194/acp-2021-664)
+Sun, Y., <b>Yin, H.*</b>, <b>Lu, X.*</b>, Notholt, J., Palm, M., Liu, C., Tian, Y., and Zheng, B.: The drivers and health risks of the unexpected surface ozone enhancements over the Sichuan basin, China in 2020, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 18589-18608, 2021  [[link]](http://doi.org/10.5194/acp-2021-664)
 
 <b>Wang, H.</b>, Wu, K., Liu, Y., Sheng, B., <b>Lu, X.</b>, He, Y., Xie, J., Wang, H., and Fan, S.: Role of Heat Wave‐Induced Biogenic VOC Enhancements in Persistent Ozone Episodes Formation in Pearl River Delta, <b><em>Journal of Geophysical Research</em></b>, 126, e2020JD034317, 2021 [[link]](https://doi.org/10.1029/2020JD034317)
 
-Chen, Y., Zhang, L., Henze, D. K., Zhao, Y., Lu, X., Winiwarter, W., Guo, Y., Liu, X., Wen, Z., Pan, Y., and Song, Y.: Interannual variation of reactive nitrogen emissions and their impacts on PM2.5 air pollution in China during 2005-2015, <b><em>Environmental Research Letters</em></b>, http://doi.org/10.1088/1748-9326/ac3695, 2021.
+Chen, Y., Zhang, L., Henze, D. K., Zhao, Y., <b>Lu, X.</b>, Winiwarter, W., Guo, Y., Liu, X., Wen, Z., Pan, Y., and Song, Y.: Interannual variation of reactive nitrogen emissions and their impacts on PM2.5 air pollution in China during 2005-2015, <b><em>Environmental Research Letters</em></b>, http://doi.org/10.1088/1748-9326/ac3695, 2021.
 
 DeLang, M. N., Becker, J. S., Chang, K.-L., Serre, M. L., Cooper, O. R., Schultz, M. G., Schröder, S., <b>Lu, X.</b>, Zhang, L., Deushi, M., Josse, B., Keller, C. A., Lamarque, J.-F., Lin, M., Liu, J., Marécal, V., Strode, S. A., Sudo, K., Tilmes, S., Zhang, L., Cleland, S. E., Collins, E. L., Brauer, M., and West, J. J.: Mapping Yearly Fine Resolution Global Surface Ozone through the Bayesian Maximum Entropy Data Fusion of Observations and Model Output for 1990–2017, <b><em>Environmental Science & Technology</em></b>, 55, 4389-4398, 2021. [[link]](https://pubs.acs.org/doi/10.1021/acs.est.0c07742)
 
