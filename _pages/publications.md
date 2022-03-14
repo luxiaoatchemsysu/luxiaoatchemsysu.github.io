@@ -16,6 +16,8 @@ permalink: /publications/
 <p></p>
 
 **In public review**
+
+
 Varon, D. J., Jacob, D. J., Sulprizio, M., Estrada, L., Downs, W. B., Shen, L., Hancock, S. E., Nesser, H., Qu, Z., Penn, E., Chen, Z., <b>Lu, X.</b>, Lorente, A., Tewari, A., and Randles, C. A.: Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations, Geosci. Model Dev. Discuss., 2022, [[link]](http://doi.org/10.5194/gmd-2022-45)
 
 Shen, L., Gautam, R., Omara, M., Zavala-Araiza, D., Maasakkers, J., Scarpelli, T., Lorente, A., Lyon, D., Sheng, J., Varon, D., Nesser, H., Qu, Z., <b>Lu, X.</b>, Sulprizio, M., Hamburg, S., and Jacob, D.: Satellite quantification of oil and natural gas methane emissions in the US and Canada including contributions from individual basins, Atmospheric Chemistry and Physics Discussions, 2022, [[link]](http://doi.org/10.5194/acp-2022-155)
@@ -32,7 +34,7 @@ Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, 
 
 Tian, Y., Liu, C., Sun, Y., Borsdorff, T., Landgraf, J., <b>Lu, X.</b>, Palm, M., and Notholt, J.: Satellite Observations Reveal a Large CO Emission Discrepancy From Industrial Point Sources Over China, <b><em>Geophysical Research Letters</em></b>, 49, 2022,  [[link]](http://doi.org/10.1029/2021gl097312)
 
-Zhou, C., Gao, M., Li, J., Bai, K., Tang, X., <b>Lu, X.</b>, Liu, C., Wang, Z., and Guo, Y.: Optimal Planning of Air Quality-Monitoring Sites for Better Depiction of PM2.5 Pollution across China, ACS Environmental Au, 2022,  [[link]](http://doi.org/10.1021/acsenvironau.1c00051)
+Zhou, C., Gao, M., Li, J., Bai, K., Tang, X., <b>Lu, X.</b>, Liu, C., Wang, Z., and Guo, Y.: Optimal Planning of Air Quality-Monitoring Sites for Better Depiction of PM2.5 Pollution across China, <b><em>ACS Environmental Au</em></b>, 2022,  [[link]](http://doi.org/10.1021/acsenvironau.1c00051)
 
 
 **2021 (20)**
