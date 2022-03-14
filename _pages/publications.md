@@ -15,18 +15,27 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
+**In public review**
+Varon, D. J., Jacob, D. J., Sulprizio, M., Estrada, L., Downs, W. B., Shen, L., Hancock, S. E., Nesser, H., Qu, Z., Penn, E., Chen, Z., <b>Lu, X.</b>, Lorente, A., Tewari, A., and Randles, C. A.: Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations, Geosci. Model Dev. Discuss., 2022, [[link]](http://doi.org/10.5194/gmd-2022-45)
 
-**2022**
+Shen, L., Gautam, R., Omara, M., Zavala-Araiza, D., Maasakkers, J., Scarpelli, T., Lorente, A., Lyon, D., Sheng, J., Varon, D., Nesser, H., Qu, Z., <b>Lu, X.</b>, Sulprizio, M., Hamburg, S., and Jacob, D.: Satellite quantification of oil and natural gas methane emissions in the US and Canada including contributions from individual basins, Atmospheric Chemistry and Physics Discussions, 2022, [[link]](http://doi.org/10.5194/acp-2022-155)
+
+**2022 (6)**
 
 <b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: evaluation of national methane emission inventories and 2010–2017 sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics </em></b>, 22, 395-418, 2022 [[link]](https://doi.org/10.5194/acp-22-395-2022)
 
-Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, H.: An integrated analysis of contemporary methane emissions and concentration trends over China using in situ, satellite observations, and model simulations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 1229–1249, 2022. [[link]](https://doi.org/10.5194/acp-22-1229-2022)
+Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, H.: An integrated analysis of contemporary methane emissions and concentration trends over China using in situ, satellite observations, and model simulations, <b><em>Atmospheric Chemistry and Physics </em></b>, 22, 1229–1249, 2022. [[link]](https://doi.org/10.5194/acp-22-1229-2022)
 
-Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics</em></b>, in press, 2022 [[link]](http://doi.org/10.5194/acp-2021-554)
+Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics </em></b>, 22, 2625-2638, http://doi.org/10.5194/acp-22-2625-2022, 2022.
 
-Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., and Gordon, D.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics </em></b>, in press, 2022   [[link]](http://doi.org/10.5194/acp-2021-911)
+Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., Gordon, D., and Worden, J. R.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics </em></b>, 22, 3235-3249, 2022 [[link]](http://doi.org/10.5194/acp-22-3235-2022).
 
-**2021**
+Tian, Y., Liu, C., Sun, Y., Borsdorff, T., Landgraf, J., <b>Lu, X.</b>, Palm, M., and Notholt, J.: Satellite Observations Reveal a Large CO Emission Discrepancy From Industrial Point Sources Over China, <b><em>Geophysical Research Letters</em></b>, 49, 2022,  [[link]](http://doi.org/10.1029/2021gl097312)
+
+Zhou, C., Gao, M., Li, J., Bai, K., Tang, X., <b>Lu, X.</b>, Liu, C., Wang, Z., and Guo, Y.: Optimal Planning of Air Quality-Monitoring Sites for Better Depiction of PM2.5 Pollution across China, ACS Environmental Au, 2022,  [[link]](http://doi.org/10.1021/acsenvironau.1c00051)
+
+
+**2021 (20)**
 
 <b>Lu, X.</b>, Ye, X., Zhou, M., Zhao, Y., Weng, H., Kong, H., Li, K., Gao, M., Zheng, B., Lin, J., Zhou, F., Zhang, Q., Wu, D., Zhang, L., and Zhang, Y.: The underappreciated role of agricultural soil nitrogen oxide emissions in ozone pollution regulation in North China, <b><em>Nature Communications</em></b>, 12, 2021 [[link]](https://www.nature.com/articles/s41467-021-25147-9)
 
@@ -69,7 +78,7 @@ Wang, X., Fu, T.-M., Zhang, L., Cao, H., Zhang, Q., Ma, H., Shen, L., Evans, M. 
 Zhang, Y., Jacob, D. J., <b>Lu, X. </b>, Maasakkers, J. D., Scarpelli, T. R., Sheng, J.-X., Shen, L., Qu, Z., Sulprizio, M. P., Chang, J., Bloom, A. A., Ma, S., Worden, J., Parker, R. J., and Boesch, H.: Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 3643–3666,2021 [[link]](https://acp.copernicus.org/articles/21/3643/2021/acp-21-3643-2021.html)
 
 
-**2020**
+**2020 (8)**
 
 <b>Lu, X. </b>, Zhang, L., Wu, T., Long, M., Wang, J., Jacob, D., Zhang F., Zhang, J., Eastham, S., Hu, L., Zhu, L., Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, <b><em>Geoscientific Model Development</em></b>, 13, 3817-3838, 2020 [[link]](https://gmd.copernicus.org/articles/13/3817/2020/gmd-13-3817-2020.html)
 
@@ -87,7 +96,7 @@ Wu, T., Zhang, F., Zhang, J., Jie, W., Zhang, Y., Wu, F., Li, L., Yan, J., Liu, 
 
 Yin, H., Sun, Y., Liu, C., <b>Lu, X. </b>, Smale, D., Blumenstock, T., Nagahama, T., Wang, W., Tian, Y., Hu, Q., Shan, C., Zhang, H., and Liu, J.: Ground-based FTIR observation of hydrogen chloride (HCl) over Hefei, China, and comparisons with GEOS-Chem model data and other ground-based FTIR stations data, <b><em>Optics Express</em></b>, 28, 8041, 2020 [[link]](https://doi.org/10.1364/OE.384377)
 
-**2019**
+**2019 (7)**
 
 <b>Lu, X. *</b>, Zhang, L.<b>*</b>, Chen, Y., Zhou, M., Zheng, B., Li, K., Liu, Y., Lin, J., Fu, T.-M., and Zhang, Q.: Exploring 2016–2017 surface ozone pollution over China: source contributions and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 19, 8339-8361, 2019 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html)
 
@@ -103,7 +112,7 @@ Zhao, Y., Zhang, L., Zhou, M., Chen, D., <b>Lu, X. </b>, Tao, W., Liu, J., Tian,
   
 Zhou, M., Zhang, L., Chen, D., Gu, Y., Fu, T.-M., Gao, M., Zhao, Y., <b>Lu, X. </b>, and Zhao, B., The impact of aerosol-radiation interactions on the effectiveness of emission control measures, <b><em>Environmental Research Letters</em></b>, 14, 024002, 2019 [[link]](https://iopscience.iop.org/article/10.1088/1748-9326/aaf27d)
 
-**2018**
+**2018 (4)**
 
 <b>Lu, X. </b>, Hong, J., Zhang, L., Cooper, O. R., Schultz, M. G., Xu, X., Wang, T., Gao, M., Zhao, Y., and Zhang, Y.: Severe Surface Ozone Pollution in China: A Global Perspective, <b><em>Environmental Science & Technology Letters</em></b>, 5, 487-494, 2018. <b>[ESI 0.1% Hot Paper] [ESI 1% Highly Cited Paper]</b> [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.8b00366)
 
@@ -113,11 +122,11 @@ Gao, M., Ding, Y., Song, S., <b>Lu, X. </b>, Chen, X., and McElroy, M. B.: Secul
 
 Gao, M., Beig, G., Song, S., Zhang, H., Hu, J., Ying, Q., Liang, F., Liu, Y., Wang, H., <b>Lu, X. </b>, Zhu, T., Carmichael, G. R., Nielsen, C. P., and McElroy, M. B.: The impact of power generation emissions on ambient PM2.5 pollution and human health in China and India, <b><em>Environmental International</em></b>, 121, 250-259, 2018 [[link]](https://www.sciencedirect.com/science/article/pii/S0160412018313369)
 
-**2017**
+**2017 (1)**
 
 Gao, M., Liu, Z., Wang, Y., <b>Lu, X. </b>, Ji, D., Wang, L., Li, M., Wang, Z., Zhang, Q., and Carmichael, G. R.: Distinguishing the roles of meteorology, emission control measures, regional transport, and co-benefits of reduced aerosol feedbacks in “APEC Blue”, <b><em>Atmospheric Environment</em></b>, 167, 476-486, 2017 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1352231017305678)
 
-**2016**
+**2016 (2)**
 
 <b>Lu, X. </b>, Zhang, L., Yue, X., Zhang, J., Jaffe, D. A., Stohl, A., Zhao, Y., and Shao, J.: Wildfire influences on the variability and trend of summer surface ozone in the mountainous western United States, <b><em>Atmospheric Chemistry and Physics</em></b>, 16, 14687-14702, 2016 [[link]](https://acp.copernicus.org/articles/16/14687/2016/)
 
