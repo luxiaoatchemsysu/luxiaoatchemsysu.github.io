@@ -28,7 +28,7 @@ Shen, L., Gautam, R., Omara, M., Zavala-Araiza, D., Maasakkers, J., Scarpelli, T
 
 Tan, H., Zhang, L., <b>Lu, X.</b>, Zhao, Y., Yao, B., Parker, R. J., and Boech, H.: An integrated analysis of contemporary methane emissions and concentration trends over China using in situ, satellite observations, and model simulations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 1229–1249, 2022. [[link]](https://doi.org/10.5194/acp-22-1229-2022)
 
-Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 2625-2638, http://doi.org/10.5194/acp-22-2625-2022, 2022.
+Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface ozone impacts on major crop production in China from 2010 to 2017, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 2625-2638,  2022 [[link]](http://doi.org/10.5194/acp-22-2625-2022)
 
 Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., Gordon, D., and Worden, J. R.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 3235-3249, 2022 [[link]](http://doi.org/10.5194/acp-22-3235-2022).
 
