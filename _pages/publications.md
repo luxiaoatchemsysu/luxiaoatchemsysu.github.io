@@ -10,13 +10,14 @@ permalink: /publications/
 <p></p>
 **Xiao Lu has published over 40 peer-reviewed research articles (13 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 3 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
-(<b>*</b> Corresponding author; Group members are shown in bold )
+(<b>*</b> Corresponding author; Group members are shown in <b>bold</b> )
 
 **Publication list**
 <p></p>
 
 **In public review**
-<b>He, C.</b>, <b>Lu, X.*</b>, Wang, H., Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.: Unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
+
+<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.: Unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
 
 Varon, D. J., Jacob, D. J., Sulprizio, M., Estrada, L., Downs, W. B., Shen, L., Hancock, S. E., Nesser, H., Qu, Z., Penn, E., Chen, Z., <b>Lu, X.</b>, Lorente, A., Tewari, A., and Randles, C. A.: Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations, <b><em>Geosci. Model Dev. Discuss.</em></b>, 2022, [[link]](http://doi.org/10.5194/gmd-2022-45)
 
