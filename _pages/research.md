@@ -24,6 +24,8 @@ Here are some topics that we have done/currently work on:
 
 **Natural versus anthropogenic sources contributing to ozone pollution in China.** We use high-resolution chemical transport model simulations to quantify the natural and anthropogenic sources contributing to surface ozone over China, and explore how unfavorable weather patterns lead to severe ozone pollution  [[ACP, 2019]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html). In particular, we find that the presence of intensity soil NOx emissions in the North China Plain significantly reduces the sensitivity of ozone to anthropogenic emissions [[Nature Communications, 2021]](https://www.nature.com/articles/s41467-021-25147-9)
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/soil NOx.png){: style="width: 100%; float: center; margin: 10px"}
+
 Reference:
 
 <b>Lu, X.</b>, Ye, X., Zhou, M., Zhao, Y., Weng, H., Kong, H., Li, K., Gao, M., Zheng, B., Lin, J., Zhou, F., Zhang, Q., Wu, D., Zhang, L., and Zhang, Y.: The underappreciated role of agricultural soil nitrogen oxide emissions in ozone pollution regulation in North China, <b><em>Nature Communications</em></b>, 12, 2021 [[link]](https://www.nature.com/articles/s41467-021-25147-9)
