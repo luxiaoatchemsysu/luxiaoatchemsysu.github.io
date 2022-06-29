@@ -36,8 +36,7 @@
   number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2016-2020), Chengdu University of Information Technology
-  education3: Reseach interest： Ozone air quality
-  Papers: <a href="https://acp.copernicus.org/preprints/acp-2022-310/">2022ACPD</a>
+  education3: Reseach interest： Ozone air quality <a href="https://acp.copernicus.org/preprints/acp-2022-310/">2022ACPD</a>
 
 - name: Nanxi Liu (刘南希)
   photo: Doraemon.jpg
@@ -47,8 +46,6 @@
   education1: Master student, Sun Yat-sen University
   education2: BS (2017-2021), Chengdu University of Information Technology
   education3: Reseach interest： Air Pollution
-  education3:
-
 
 - name: Jingyu Li (李婧宇)
   photo: Doraemon.jpg
