@@ -47,6 +47,7 @@ Reference:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/global-methane-inversion.png){: style="width: 100%; float: center; margin: 10px"}
 
 Reference:
+
 <b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: evaluation of national methane emission inventories and 2010–2017 sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 395-418, 2022 [[link]](https://doi.org/10.5194/acp-22-395-2022)
 
 <b>Lu, X.*</b>, Jacob, D. J., Zhang, Y.<b>*</b> , Maasakkers, J. D., Sulprizio, M. P., Shen, L., Qu, Z., Scarpelli, T. R., Nesser, H., Yantosca, R. M., Sheng, J., Andrews, A., Parker, R. J., Boech, H., Bloom, A. A., and Ma, S.: Global methane budget and trend, 2010–2017: complementarity of inverse analyses using in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 4637-4657, 2021 [[link]](https://acp.copernicus.org/articles/21/4637/2021/)
@@ -65,6 +66,7 @@ Reference:
 
 
 Reference:
+
 <b>Lu, X. </b>, Zhang, L., Zhao, Y., Jacob, D., Hu, Y., Hu, L., Gao, M., Liu, X., Petropavlovskikh, I., McClure-Begley, A., and Querel R.: Surface and tropospheric ozone trends in the Southern Hemisphere since 1990: possible linkages to poleward expansion of the Hadley Circulation, <b><em>Science Bulletin</em></b>, 64, 400-409, 2019 <b>[Journal Highlight Article]</b> [[link]](https://doi.org/10.1016/j.scib.2018.12.021)
 
 <b>Lu, X. </b>, Zhang, L., Shen, L.: Meteorology and Climate Influences on Tropospheric Ozone: a Review of Natural Sources, Chemistry, and Transport Patterns, <b><em>Current Pollution Reports</em></b>, 5, 238-260, 2019 [[link]](https://link.springer.com/article/10.1007%2Fs40726-019-00118-3)
@@ -77,5 +79,6 @@ Reference:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/BCC-GC.png){: style="width: 100%; float: center; margin: 10px"}
 
 Reference:
+
 <b>Lu, X. </b>, Zhang, L., Wu, T., Long, M., Wang, J., Jacob, D., Zhang F., Zhang, J., Eastham, S., Hu, L., Zhu, L., Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, <b><em>Geoscientific Model Development</em></b>, 13, 3817-3838, 2020 [[link]](https://gmd.copernicus.org/articles/13/3817/2020/gmd-13-3817-2020.html)
 ### ... will be more.
