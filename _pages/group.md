@@ -106,4 +106,6 @@ permalink: /group/
 
 ## Group Photos
 June 2022
-
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2022summer2.png){: style="width: 100%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2022summer3.png){: style="width: 100%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2022summer4.png){: style="width: 100%; float: center; margin: 10px"}
