@@ -33,30 +33,31 @@
   photo: ChengHe.jpg
   info: Master student (co-supervised)
   email: hech58@mail2.sysu.edu.cn
+  number_educ: 4
+  education1: Ph.D. candidate, Sun Yat-sen University
+  education2: BS (2016-2020), Chengdu University of Information Technology
+  education3: Reseach interest： Ozone air quality
+  Papers: <a href="https://acp.copernicus.org/preprints/acp-2022-310/">2022ACPD</a>
+
+- name: Nanxi Liu (刘南希)
+  photo: Doraemon.jpg
+  info: Master student
+  email:
   number_educ: 3
   education1: Master student, Sun Yat-sen University
-  education2: BS (2016-2020), Chengdu University of Information Technology
-  education3: Reseach interest： Ozone air quality 
+  education2: BS (2017-2021), Chengdu University of Information Technology
+  education3: Reseach interest： Air Pollution
+  education3:
+
 
 - name: Jingyu Li (李婧宇)
   photo: Doraemon.jpg
-  info: Undergraduate student
+  info: Master student
   email:
-  number_educ: 2
-  education1: 2018-present, Sun Yat-sen University
-  education2: Reseach interest： Climate-chemistry interactions 
-  education3:
-  education4:
-
-- name: Meng Qu (曲梦)
-  photo: Doraemon.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 2
-  education1: 2018-present, Sun Yat-sen University
-  education2: Reseach interest： Greenhouse gases
-  education3:
-  education4:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2021-2022), Sun Yat-sen University
+  education3: Reseach interest： Climate-chemistry interactions 
 
 - name: Jiayin Su (苏嘉茵)
   photo: Doraemon.jpg
