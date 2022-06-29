@@ -8,10 +8,10 @@ permalink: /research/
 
 # Research
 **Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:**
- **- Source, chemistry, transport, and sink of air pollutants**
- **- Inverse modeling of greenhouse gases**
- **- Large-scale chemistry-climate interactions**
- **- Climate-chemistry model development**
+ - **Source, chemistry, transport, and sink of air pollutants**
+ - **Inverse modeling of greenhouse gases**
+ - **Large-scale chemistry-climate interactions**
+ - **Climate-chemistry model development**
 
 
 Here are some topics that we have done/currently work on:
