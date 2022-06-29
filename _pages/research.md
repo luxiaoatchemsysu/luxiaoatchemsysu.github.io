@@ -66,7 +66,7 @@ Reference:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/southern-o3-merged.png){: style="width: 100%; float: center; margin: 10px"}
 
 **Lower tropospheric ozone over India and its linkage to the South Asian monsoon.** We use satellite observations and multi-decadal model simulation to explore the variability of tropospheric ozone over India and its linkage to the South Asian monsoon. The figure shows that higher ozone concentrations are found in weaker monsoon seasons mainly due to higher ozone net chemical production. [[ACP, 2018]](https://acp.copernicus.org/articles/18/3101/2018/)
-![]({{ site.url }}{{ site.baseurl }}/images/respic/India-monsoon-ozone.png){: style="width: 70%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/India-monsoon-ozone.png){: style="width: 85%; float: center; margin: 10px"}
 
 **Interactions between tropospheric ozone and weather/climate** We summarize how tropospheric ozone and weather/climate with each other and highlight the current gaps [[Current Pollution Reports, 2019]](https://link.springer.com/article/10.1007%2Fs40726-019-00118-3) (Adopted by <a href="https://luxiaoatchemsysu.github.io/downloads/LanPiShu2020.pdf">中国大气臭氧防治蓝皮书(Fig 3.6, Page 34)</a>).
 
