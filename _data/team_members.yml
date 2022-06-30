@@ -13,33 +13,36 @@
   photo: HaolinWang.jpg
   info: Ph.D. candidate (co-supervised)
   email: wanghlin25@mail2.sysu.edu.cn
-  number_educ: 4
+  number_educ: 5
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
   education3: Reseach interest： Tropospheric ozone trends 
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
+  education5: Papers: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a>  
 
 - name: Hao Yin (殷昊)
   photo: HaoYin.jpg
   info: Ph.D. candidate (co-supervised)
   email: yhyh95@mail.ustc.edu.cn
-  number_educ: 4
+  number_educ: 5
   education1: Ph.D. candidate, Hefei Institutes of Physical Science, Chinese Academy of Sciences
   education2: BS (2013-2017), Hefei University of Technology
   education3: Reseach interest： Remote sensing and modeling of air pollutants
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HYin.pdf">CV</a>
+  education5: Papers: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac3e22">ERL2021</a>  
 
 - name: Cheng He (何成)
   photo: ChengHe.jpg
   info: Master student (co-supervised)
   email: hech58@mail2.sysu.edu.cn
-  number_educ: 3
+  number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2016-2020), Chengdu University of Information Technology
-  education3: Reseach interest： Ozone air quality, inverse modeling of GHGs <a href="https://acp.copernicus.org/preprints/acp-2022-310/">2022ACPD</a>
+  education3: Reseach interest： Ozone air quality, inverse modeling of GHGs 
+  education4: <a href="https://acp.copernicus.org/preprints/acp-2022-310/">ACPD2022</a>
 
 - name: Nanxi Liu (刘南希)
-  photo: Doraemon.jpg
+  photo: NanxiLiu.jpg
   info: Master student
   email:
   number_educ: 3
