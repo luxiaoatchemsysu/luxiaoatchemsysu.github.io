@@ -25,6 +25,8 @@ Varon, D. J., Jacob, D. J., Sulprizio, M., Estrada, L., Downs, W. B., Shen, L., 
 
 Shen, L., Gautam, R., Omara, M., Zavala-Araiza, D., Maasakkers, J., Scarpelli, T., Lorente, A., Lyon, D., Sheng, J., Varon, D., Nesser, H., Qu, Z., <b>Lu, X.</b>, Sulprizio, M., Hamburg, S., and Jacob, D.: Satellite quantification of oil and natural gas methane emissions in the US and Canada including contributions from individual basins, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022, [[link]](http://doi.org/10.5194/acp-2022-155)
 
+Chen, Z., Jacob, D., Nesser, H., Sulprizio, M., Lorente, A., Varon, D., <b>Lu, X.</b>, Shen, L., Qu, Z., Penn, E., and Yu, X.: Methane emissions from China: a high-resolution inversion of TROPOMI satellite observations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022, [[link]](http://doi.org/10.5194/acp-2022-303)
+
 **2022 (9+)**
 
 <b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: evaluation of national methane emission inventories and 2010–2017 sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 395-418, 2022 [[link]](https://doi.org/10.5194/acp-22-395-2022)
@@ -33,7 +35,7 @@ Liu, L., Xu, W., Lu, X., Zhong, B., Guo, Y., <b>Lu, X.</b>, Zhao, Y., He, W., Wa
 
 Shen, A., Liu, Y., <b>Lu, X.</b>, Wang, X., Chang, M., Zhang, J., Tian, C., and Fan, Q.: Sulfur deposition in the Beijing-Tianjin-Hebei region, China: Spatiotemporal characterization and regional source attributions, <b><em>Atmos. Environ.</em></b>, 286, 119225,2022 [[link]](http://doi.org/10.1016/j.atmosenv.2022.119225)
 
-Xiao, X., Xu, Y., Zhang, X., Wang, F., <b>Lu, X.</b>, Cai, Z., Brasseur, G., and Gao, M.: Amplified Upward Trend of the Joint Occurrences of Heat and Ozone Extremes in China over 2013–20, Bulletin of the American Meteorological Society, 103, E1330-E1342, 2022, [[link]](http://doi.org/10.1175/bams-d-21-0222.1)
+Xiao, X., Xu, Y., Zhang, X., Wang, F., <b>Lu, X.</b>, Cai, Z., Brasseur, G., and Gao, M.: Amplified Upward Trend of the Joint Occurrences of Heat and Ozone Extremes in China over 2013–20, <b><em>Bulletin of the American Meteorological Society</em></b>, 103, E1330-E1342, 2022, [[link]](http://doi.org/10.1175/bams-d-21-0222.1)
 
 Zhou, C., Gao, M., Li, J., Bai, K., Tang, X., <b>Lu, X.</b>, Liu, C., Wang, Z., and Guo, Y.: Optimal Planning of Air Quality-Monitoring Sites for Better Depiction of PM2.5 Pollution across China, <b><em>ACS Environmental Au</em></b>, 2022,  [[link]](http://doi.org/10.1021/acsenvironau.1c00051)
 
