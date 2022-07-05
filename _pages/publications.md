@@ -17,7 +17,7 @@ permalink: /publications/
 
 **In public review**
 
-<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.: Unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
+<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.*: Unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
 
 Varon, D. J., Jacob, D. J., Sulprizio, M., Estrada, L., Downs, W. B., Shen, L., Hancock, S. E., Nesser, H., Qu, Z., Penn, E., Chen, Z., <b>Lu, X.</b>, Lorente, A., Tewari, A., and Randles, C. A.: Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations, <b><em>Geosci. Model Dev. Discuss.</em></b>, 2022, [[link]](http://doi.org/10.5194/gmd-2022-45)
 
