@@ -17,7 +17,9 @@ permalink: /publications/
 
 **In public review**
 
-<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.*: Unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
+<b>Wang, H.</b>, <b>Lu, X.*</b>, Jacob, D. J., Cooper, O. R., Chang, K.-L., Li, K., Gao, M., Liu, Y., Sheng, B., Wu, K., Wu, T., Zhang, J., Sauvage, B., Nédélec, P., Blot, R., and Fan, S.<b>*</b>: Global tropospheric ozone trends, attributions, and radiative impacts in 1995–2017: an integrated analysis using aircraft (IAGOS) observations, ozonesonde, and multi-decadal chemical model simulations, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>,2022, [[link]](http://doi.org/10.5194/acp-2022-381)
+
+<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: Unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics Discussions</em></b>, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
 
 Varon, D. J., Jacob, D. J., Sulprizio, M., Estrada, L., Downs, W. B., Shen, L., Hancock, S. E., Nesser, H., Qu, Z., Penn, E., Chen, Z., <b>Lu, X.</b>, Lorente, A., Tewari, A., and Randles, C. A.: Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations, <b><em>Geosci. Model Dev. Discuss.</em></b>, 2022, [[link]](http://doi.org/10.5194/gmd-2022-45)
 
