@@ -33,7 +33,7 @@ Li, D., Shindell, D., Ding, D., <b>Lu, X.</b>, Zhang, L., and Zhang, Y.: Surface
 
 Liu, L., Xu, W., Lu, X., Zhong, B., Guo, Y., <b>Lu, X.</b>, Zhao, Y., He, W., Wang, S., Zhang, X., Liu, X., and Vitousek, P.: Exploring global changes in agricultural ammonia emissions and their contribution to nitrogen deposition since 1980, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 119, e2121998119, 2022 [[link]](http://doi.org/10.1073/pnas.2121998119)
 
-Qu, Z., Jacob, D. J., Zhang, Y., Shen, L., Varon, D. J., <b>Lu, X.</b>, Scarpelli, T., Bloom, A., Worden, J., and Parker, R. J.: Attribution of the 2020 surge in atmospheric methane by inverse analysis of GOSAT observations, <b><em>Environmental Research Letters</em></b>, 17, 094003, http://doi.org/10.1088/1748-9326/ac8754, 2022.
+Qu, Z., Jacob, D. J., Zhang, Y., Shen, L., Varon, D. J., <b>Lu, X.</b>, Scarpelli, T., Bloom, A., Worden, J., and Parker, R. J.: Attribution of the 2020 surge in atmospheric methane by inverse analysis of GOSAT observations, <b><em>Environmental Research Letters</em></b>, 17, 094003, 2022  [[link]](http://doi.org/10.1088/1748-9326/ac8754)
 
 Scarpelli, T. R., Jacob, D. J., Grossman, S., <b>Lu, X.</b>, Qu, Z., Sulprizio, M. P., Zhang, Y., Reuland, F., Gordon, D., and Worden, J. R.: Updated Global Fuel Exploitation Inventory (GFEI) for methane emissions from the oil, gas, and coal sectors: evaluation with inversions of atmospheric methane observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 3235-3249, 2022 [[link]](http://doi.org/10.5194/acp-22-3235-2022).
 
