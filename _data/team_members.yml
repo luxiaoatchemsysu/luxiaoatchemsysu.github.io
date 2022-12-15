@@ -18,7 +18,7 @@
   education2: BS (2015-2019), Chengdu University of Information Technology
   education3: Reseach interest： Tropospheric ozone trends 
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
-  education5: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://acp.copernicus.org/preprints/acp-2022-381/">ACPD2022</a>    
+  education5: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://acp.copernicus.org/preprints/acp-2022-381/">ACP2022</a>    
 
 - name: Hao Yin (殷昊)
   photo: HaoYin.jpg
@@ -39,7 +39,21 @@
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2016-2020), Chengdu University of Information Technology
   education3: Reseach interest： Ozone air quality, inverse modeling of GHGs 
-  education4: <a href="https://acp.copernicus.org/preprints/acp-2022-310/">ACPD2022</a>
+  education4: <a href="https://acp.copernicus.org/preprints/acp-2022-310/">ACP2022</a>
+
+- name: Guowen He (何国文)
+  photo: Guowen He.jpg
+  info: Ph.D. candidate (co-supervised)
+  email: 
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
+
+- name: Ke Yin (尹柯)
+  photo: Ke Yin.jpg
+  info: Ph.D. candidate (co-supervised)
+  email: 
+  number_educ: 1
+  education1: Ph.D. candidate, Sun Yat-sen University
 
 - name: Nanxi Liu (刘南希)
   photo: NanxiLiu.jpg
@@ -59,8 +73,17 @@
   education2: BS (2021-2022), Sun Yat-sen University
   education3: Reseach interest： Climate-chemistry interactions 
 
+- name: Xiaodong Huang (黄晓东)
+  photo: Xiaodong Huang.jpg
+  info: Master student
+  email:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2021-2022), Sun Yat-sen University
+  education3: Reseach interest：Greenhouse gases
+
 - name: Jiayin Su (苏嘉茵)
-  photo: Doraemon.jpg
+  photo: Jiayin Su.jpg
   info: Undergraduate student
   email:
   number_educ: 2
@@ -89,23 +112,13 @@
   education3:
   education4:
 
-- name: Shichen Xie (谢世晨)
-  photo: Doraemon.jpg
+- name: Shuai Li (李帅)
+  photo: Shuai Li.jpg
   info: Undergraduate student
   email:
   number_educ: 2
   education1: 2019-present, Sun Yat-sen University
-  education2: Reseach interest： Greenhouse gases
-  education3:
-  education4:
-
-- name: Lujia Yi (易卢珈)
-  photo: Doraemon.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 2
-  education1: 2019-present, Sun Yat-sen University
-  education2: Reseach interest： Greenhouse gases
+  education2: Reseach interest： Modeling of atmospheric chemistry
   education3:
   education4:
 
