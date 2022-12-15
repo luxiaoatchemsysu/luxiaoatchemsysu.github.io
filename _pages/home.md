@@ -10,8 +10,7 @@ permalink: /
 The group is led by **Prof. Xiao Lu (luxiao25@mail.sysu.edu.cn)**.
 
 Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:
- - Source, chemistry, transport, and sink of air pollutants
- - Inverse modeling of greenhouse gases
+ - Source, chemistry, transport, and sink of air pollutants and greenhouse gases
  - Large-scale chemistry-climate interactions
  - Climate-chemistry model development 
 
@@ -21,19 +20,27 @@ Our research group will be focusing on a wide range of topics on atmospheric che
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/china-ozone-observation-estl-new.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He2022ACP.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Climate-O3.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Wang2022ACP.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/southern-o3-diagram.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Climate-O3.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/china-ozone-observation-estl-new.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
