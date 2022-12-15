@@ -16,6 +16,7 @@ permalink: /publications/
 <p></p>
 
 **2022 (18)**
+
 <b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
 
 <b>Wang, H.</b>, <b>Lu, X.*</b>, Jacob, D. J., Cooper, O. R., Chang, K.-L., Li, K., Gao, M., Liu, Y., Sheng, B., Wu, K., Wu, T., Zhang, J., Sauvage, B., Nédélec, P., Blot, R., and Fan, S.<b>*</b>: Global tropospheric ozone trends, attributions, and radiative impacts in 1995–2017: an integrated analysis using aircraft (IAGOS) observations, ozonesonde, and multi-decadal chemical model simulations, <b><em>Atmospheric Chemistry and Physics</em></b>,22, 13753-13782, 2022, [[link]](http://doi.org/10.5194/acp-2022-381) 
