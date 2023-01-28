@@ -158,6 +158,7 @@ Gao, M., Liu, Z., Wang, Y., <b>Lu, X. </b>, Ji, D., Wang, L., Li, M., Wang, Z., 
 Zhang, L., Shao, J., <b>Lu, X. </b>, Zhao, Y., Hu, Y., Henze, D. K., Liao, H., Gong, S., and Zhang, Q.: Sources and Processes Affecting Fine Particulate Matter Pollution over North China: An Adjoint Analysis of the Beijing APEC Period, <b><em>Environmental Science & Technology</em></b>, 50, 8731-8740, 2016 [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.est.6b03010)
 
 **In Chinese**
+  
 （通讯作者）何成，何国文，刘晨曦， 等.2023.广州暖季夜间臭氧增加事件的特征及一次水平输送个例分析［J］.环境科学学报，43（1）：76-86
 HE Cheng，HE Guowen，LIU Chenxi，et al.2023.Characteristics of nocturnal ozone enhancement events and a case study of horizontal transport in Guangzhou during warm season［J］.Acta Scientiae Circumstantiae，43（1）：76-86
   
