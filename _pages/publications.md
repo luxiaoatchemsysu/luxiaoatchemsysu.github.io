@@ -8,12 +8,18 @@ permalink: /publications/
 
 
 <p></p>
-**Xiao Lu has published over 60 peer-reviewed research articles (15 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 60 peer-reviewed research articles (19 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; Group members are shown in <b>bold</b> )
 
 **Publication list**
 <p></p>
+
+**2023 (2)**
+
+Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y.: Increased night-time oxidation over China despite widespread decrease across the globe, Nature Geoscience, 2023, [[link]](http://doi.org/10.1038/s41561-022-01122-x)
+
+Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, Environmental Research Letters, 18, 2023, [[link]](http://doi.org/10.1088/1748-9326/acaee0)
 
 **2022 (18)**
 
