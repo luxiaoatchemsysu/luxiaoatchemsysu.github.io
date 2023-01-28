@@ -21,6 +21,7 @@ Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi
 
 Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, Environmental Research Letters, 18, 2023, [[link]](http://doi.org/10.1088/1748-9326/acaee0)
 
+
 **2022 (18)**
 
 <b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
@@ -156,3 +157,26 @@ Gao, M., Liu, Z., Wang, Y., <b>Lu, X. </b>, Ji, D., Wang, L., Li, M., Wang, Z., 
 
 Zhang, L., Shao, J., <b>Lu, X. </b>, Zhao, Y., Hu, Y., Henze, D. K., Liao, H., Gong, S., and Zhang, Q.: Sources and Processes Affecting Fine Particulate Matter Pollution over North China: An Adjoint Analysis of the Beijing APEC Period, <b><em>Environmental Science & Technology</em></b>, 50, 8731-8740, 2016 [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.est.6b03010)
 
+**In Chinese**
+（通讯作者）何成，何国文，刘晨曦， 等.2023.广州暖季夜间臭氧增加事件的特征及一次水平输送个例分析［J］.环境科学学报，43（1）：76-86
+HE Cheng，HE Guowen，LIU Chenxi，et al.2023.Characteristics of nocturnal ozone enhancement events and a case study of horizontal transport in Guangzhou during warm season［J］.Acta Scientiae Circumstantiae，43（1）：76-86
+  
+（通讯作者）何国文，何成，王海潮， 等.2023.环珠江口近地面夜间臭氧上升现象：基于垂直观测的两个个例研究［J］.环境科学学报，43（1）：87-96
+HE Guowen，HE Cheng，WANG Haichao，et al.2023.Nocturnal ground-level ozone enhancement over the Pearl River Estuary： Two case studies based on vertical observations［J］.Acta Scientiae Circumstantiae，43（1）：87-96
+ 
+（通讯作者）刘南希，何成，刘晨曦， 等.2023.2015—2021年广州市臭氧和PM2.5复合污染特征及天气分型研究［J］.环境科学学报，43（1）：42-53
+LIU Nanxi，HE Cheng，LIU Chenxi，et al.2023.Study on characteristics and weather classification of ozone and PM2.5 complex pollution in Guangzhou from 2015 to 2021［J］.Acta Scientiae Circumstantiae，43（1）：42-53
+  
+范绍佳，王海潮，卢骁， 等.2023.20世纪90年代以来粤港澳大湾区臭氧污染研究进展［J］.环境科学学报，43（1）：1-18
+FAN Shaojia，WANG Haichao，LU Xiao，et al.2023.Progresses on ozone pollution in the Guangdong-Hong Kong-Macao Greater Bay Area since 1990s［J］.Acta Scientiae Circumstantiae，43（1）：1-18
+  
+王一鸣，何国文，许欣祺， 等.2023.我国中东部不同地区冬季颗粒物垂直分布的车载移动观测［J］.环境科学学报，43（1）：264-274
+WANG Yiming，HE Guowen，XU Xinqi，et al.2023.Vehicle-based mobile observation of wintertime vertical distribution of particulate matter in different regions of central and eastern China［J］.Acta Scientiae Circumstantiae，43（1）：264-274
+  
+汪海恒，沈傲，许亦非，等.2022.粤北地区一次臭氧污染过程分析及数值模拟［J］.环境科学学报，42（10）：49-61
+WANG Haiheng，SHEN Ao，XU Yifei，et al.2022.Analysis and numerical simulation of an ozone pollution process in northern Guangdong province［J］.
+Acta Scientiae Circumstantiae，42（10）：49-61
+  
+周慧娴，沈傲，崔寅平，等.2022.区域氮干沉降分布特征的数值模拟［J］.环境科学学报，42（10）：129-137
+ZHOU Huixian，SHEN Ao，CUI Yinping，et al.2022.Numerical simulation of distribution characteristics of regional nitrogen dry deposition［J］.Acta
+Scientiae Circumstantiae，42（10）：129-137
