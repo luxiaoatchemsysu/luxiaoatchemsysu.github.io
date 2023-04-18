@@ -15,22 +15,30 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**2023 (2)**
+**2023 (6)**
+
+<b>Lu, X.</b>; Jacob, D. J.; Zhang, Y.; Shen, L.; Sulprizio, M. P.; Maasakkers, J. D.; Varon, D. J.; Qu, Z.; Chen, Z.; Hmiel, B.; Parker, R. J.; Boesch, H.; <b>Wang, H.</b>; <b>He, C.</b>; Fan, S., Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics. <b><em>Proc. Natl. Acad. Sci. U. S. A. 120, (17), e2217900120, 2023, [[link]](https://doi.org/10.1073/pnas.2217900120)
 
 Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y.: Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023, [[link]](http://doi.org/10.1038/s41561-022-01122-x)
 
-Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, <b><em>Environmental Research Letters</em></b>, 18, 2023, [[link]](http://doi.org/10.1088/1748-9326/acaee0)
+Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, <b><em>Environmental Research Letters</em></b>, 18, 2023 [[link]](http://doi.org/10.1088/1748-9326/acaee0)
+
+Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S., Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552.2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
+
+Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q., A quantitative assessment and process analysis of the contribution from meteorological conditions in an O3 pollution episode in Guangzhou, China. <b><em>Atmos. Environ.</em></b>, 303, 2023 [[link]](https://doi.org/10.1016/j.atmosenv.2023.119757)
+
+Liu, L.; Xu, W.; Wen, Z.; Liu, P.; Xu, H.; Liu, S.; <b>Lu, X.</b>; Zhong, B.; Guo, Y.; Lu, X.; Zhao, Y.; Zhang, X.; Wang, S.; Vitousek, P. M.; Liu, X., Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2221459120, 2023 [[link]](https://doi.org/10.1073/pnas.2221459120)
 
 
 **2022 (18)**
 
-<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022,  [[link]](http://doi.org/10.5194/acp-2022-310)
+<b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022  [[link]](http://doi.org/10.5194/acp-2022-310)
 
-<b>Wang, H.</b>, <b>Lu, X.*</b>, Jacob, D. J., Cooper, O. R., Chang, K.-L., Li, K., Gao, M., Liu, Y., Sheng, B., Wu, K., Wu, T., Zhang, J., Sauvage, B., Nédélec, P., Blot, R., and Fan, S.<b>*</b>: Global tropospheric ozone trends, attributions, and radiative impacts in 1995–2017: an integrated analysis using aircraft (IAGOS) observations, ozonesonde, and multi-decadal chemical model simulations, <b><em>Atmospheric Chemistry and Physics</em></b>,22, 13753-13782, 2022, [[link]](http://doi.org/10.5194/acp-2022-381) 
+<b>Wang, H.</b>, <b>Lu, X.*</b>, Jacob, D. J., Cooper, O. R., Chang, K.-L., Li, K., Gao, M., Liu, Y., Sheng, B., Wu, K., Wu, T., Zhang, J., Sauvage, B., Nédélec, P., Blot, R., and Fan, S.<b>*</b>: Global tropospheric ozone trends, attributions, and radiative impacts in 1995–2017: an integrated analysis using aircraft (IAGOS) observations, ozonesonde, and multi-decadal chemical model simulations, <b><em>Atmospheric Chemistry and Physics</em></b>,22, 13753-13782, 2022 [[link]](http://doi.org/10.5194/acp-2022-381) 
 
 <b>Lu, X.*</b>, Jacob, D. J., Wang, H., Maasakkers, J. D., Zhang, Y., Scarpelli, T. R., Shen, L., Qu, Z., Sulprizio, M. P., Nesser, H., Bloom, A. A., Ma, S., Worden, J. R., Fan, S., Parker, R. J., Boesch, H., Gautam, R., Gordon, D., Moran, M. D., Reuland, F., and Villasana, C. A. O.: Methane emissions in the United States, Canada, and Mexico: evaluation of national methane emission inventories and 2010–2017 sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 395-418, 2022 [[link]](https://doi.org/10.5194/acp-22-395-2022)
 
-Chen, Z., Jacob, D. J., Nesser, H., Sulprizio, M. P., Lorente, A., Varon, D. J., <b>Lu, X.</b>, Shen, L., Qu, Z., Penn, E., and Yu, X.: Methane emissions from China: a high-resolution inversion of TROPOMI satellite observations, <b><em>Atmos. Chem. Phys.</em></b>, 22, 10809-10826, 2022,  [[link]](http://doi.org/10.5194/acp-22-10809-2022)
+Chen, Z., Jacob, D. J., Nesser, H., Sulprizio, M. P., Lorente, A., Varon, D. J., <b>Lu, X.</b>, Shen, L., Qu, Z., Penn, E., and Yu, X.: Methane emissions from China: a high-resolution inversion of TROPOMI satellite observations, <b><em>Atmos. Chem. Phys.</em></b>, 22, 10809-10826, 2022  [[link]](http://doi.org/10.5194/acp-22-10809-2022)
 
 Jin, Y., Ma, Y., Zhang, M., Liu, Y., Lu, X., Liu, B., Jin, S., Shen, A., Zhang, J., and Fan, Q.: Aerosol Characteristics during the COVID-19 Lockdown in China: Optical Properties, Vertical Distribution, and Potential Source, <b><em>Remote Sensing</em></b>, 14, 3336 2022  [[link]](http://doi.org/10.3390/rs14143336)
 
