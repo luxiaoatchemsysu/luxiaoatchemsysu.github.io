@@ -17,7 +17,7 @@ permalink: /publications/
 
 **2023 (6)**
 
-<bLu, X.*</b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
+<b>Lu, X.*</b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
 Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y., Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023 [[link]](http://doi.org/10.1038/s41561-022-01122-x)
 
