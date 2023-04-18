@@ -17,17 +17,17 @@ permalink: /publications/
 
 **2023 (6)**
 
-<b>Lu, X.*</b>; Jacob, D. J.*; Zhang, Y.; Shen, L.; Sulprizio, M. P.; Maasakkers, J. D.; Varon, D. J.; Qu, Z.; Chen, Z.; Hmiel, B.; Parker, R. J.; Boesch, H.; <b>Wang, H.</b>; <b>He, C.</b>; Fan, S., Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2217900120, 2023 [[link]](https://doi.org/10.1073/pnas.2217900120)
+<bLu, X.*</b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
-Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y.: Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023 [[link]](http://doi.org/10.1038/s41561-022-01122-x)
+Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y., Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023 [[link]](http://doi.org/10.1038/s41561-022-01122-x)
 
 Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, <b><em>Environmental Research Letters</em></b>, 18, 2023 [[link]](http://doi.org/10.1088/1748-9326/acaee0)
 
-Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S., Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552.2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
+Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552.2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
-Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q., A quantitative assessment and process analysis of the contribution from meteorological conditions in an O3 pollution episode in Guangzhou, China. <b><em>Atmos. Environ.</em></b>, 303, 2023 [[link]](https://doi.org/10.1016/j.atmosenv.2023.119757)
+Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q.: A quantitative assessment and process analysis of the contribution from meteorological conditions in an O3 pollution episode in Guangzhou, China. <b><em>Atmos. Environ.</em></b>, 303, 2023 [[link]](https://doi.org/10.1016/j.atmosenv.2023.119757)
 
-Liu, L.; Xu, W.; Wen, Z.; Liu, P.; Xu, H.; Liu, S.; <b>Lu, X.</b>; Zhong, B.; Guo, Y.; Lu, X.; Zhao, Y.; Zhang, X.; Wang, S.; Vitousek, P. M.; Liu, X., Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2221459120, 2023 [[link]](https://doi.org/10.1073/pnas.2221459120)
+Liu, L.; Xu, W.; Wen, Z.; Liu, P.; Xu, H.; Liu, S.; <b>Lu, X.</b>; Zhong, B.; Guo, Y.; Lu, X.; Zhao, Y.; Zhang, X.; Wang, S.; Vitousek, P. M.; Liu, X.: Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2221459120, 2023 [[link]](https://doi.org/10.1073/pnas.2221459120)
 
 
 **2022 (18)**
