@@ -17,7 +17,7 @@ permalink: /publications/
 
 **2023 (6)**
 
-<b>Lu, X.*</b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
+<b>Lu, X.* </b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
 Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y., Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023 [[link]](http://doi.org/10.1038/s41561-022-01122-x)
 
@@ -29,6 +29,13 @@ Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q.: A
 
 Liu, L.; Xu, W.; Wen, Z.; Liu, P.; Xu, H.; Liu, S.; <b>Lu, X.</b>; Zhong, B.; Guo, Y.; Lu, X.; Zhao, Y.; Zhang, X.; Wang, S.; Vitousek, P. M.; Liu, X.: Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2221459120, 2023 [[link]](https://doi.org/10.1073/pnas.2221459120)
 
+Chen, Z., Jacob, D. J., Gautam, R., Omara, M., Stavins, R. N., Stowe, R. C., Nesser, H., Sulprizio, M. P., Lorente, A., Varon, D. J., <b>Lu, X.</b>, Shen, L., Qu, Z., Pendergrass, D. C., and Hancock, S.: Satellite quantification of methane emissions and oil–gas methane intensities from individual countries in the Middle East and North Africa: implications for climate action, Atmos. Chem. Phys., 23, 5945-5967, 10.5194/acp-23-5945-2023, 2023.
+
+Gao, M., Wang, F., Ding, Y., Wu, Z., Xu, Y., <b>Lu, X.</b>, Wang, Z., Carmichael, G. R., and McElroy, M. B.: Large-scale climate patterns offer preseasonal hints on the co-occurrence of heat wave and O3 pollution in China, Proc. Natl. Acad. Sci. U. S. A., 120, e2218274120, 10.1073/pnas.2218274120, 2023.
+
+Zhang, X., Zhou, C., Zhang, Y., <b>Lu, X.</b>, Xiao, X., Wang, F., Song, J., Guo, Y., Leung, K. K. M., Cao, J., and Gao, M.: Where to place methane monitoring sites in China to better assist carbon management, npj Climate and Atmospheric Science, 6, 10.1038/s41612-023-00359-6, 2023a.
+
+Zhang, Y., Wang, H., <b>Lu, X.</b>, Li, L., He, Y., Wang, H., He, G., He, C., Wang, J., and Fan, S.: Evolution of summer surface ozone pollution patterns in China during 2015–2020, Atmospheric Research, 291, 10.1016/j.atmosres.2023.106836, 2023b.
 
 **2022 (18)**
 
