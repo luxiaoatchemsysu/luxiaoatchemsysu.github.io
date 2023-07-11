@@ -16,9 +16,9 @@
   number_educ: 5
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
-  education3: Reseach interest： Tropospheric ozone trends 
+  education3: Research interest： Tropospheric ozone trends 
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
-  education5: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://acp.copernicus.org/preprints/acp-2022-381/">ACP2022</a>    
+  education5: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://acp.copernicus.org/preprints/acp-2022-381/">ACP2022</a> <a href="https://www.nature.com/articles/s41561-022-01122-x">NG2023</a>   
 
 - name: Hao Yin (殷昊)
   photo: HaoYin.jpg
@@ -27,7 +27,7 @@
   number_educ: 5
   education1: Ph.D. candidate, Hefei Institutes of Physical Science, Chinese Academy of Sciences
   education2: BS (2013-2017), Hefei University of Technology
-  education3: Reseach interest： Remote sensing and modeling of air pollutants
+  education3: Research interest： Remote sensing and modeling of air pollutants
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HYin.pdf">CV</a>
   education5: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac3e22">ERL2021</a>  
 
@@ -38,7 +38,7 @@
   number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2016-2020), Chengdu University of Information Technology
-  education3: Reseach interest： Ozone air quality, inverse modeling of GHGs 
+  education3: Research interest： Ozone air quality, inverse modeling of GHGs 
   education4: <a href="https://acp.copernicus.org/preprints/acp-2022-310/">ACP2022</a>
 
 - name: Guowen He (何国文)
@@ -47,7 +47,8 @@
   email: 
   number_educ: 1
   education1: Ph.D. candidate, Sun Yat-sen University
-
+  education2: <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1043/">ACPD2023</a>
+  
 - name: Ke Yin (尹柯)
   photo: Ke Yin.jpg
   info: Ph.D. candidate (co-supervised)
@@ -62,7 +63,7 @@
   number_educ: 3
   education1: Master student, Sun Yat-sen University
   education2: BS (2017-2021), Chengdu University of Information Technology
-  education3: Reseach interest： Air Pollution
+  education3: Research interest： Air Pollution
 
 - name: Jingyu Li (李婧宇)
   photo: JingyuLi.jpg
@@ -71,7 +72,7 @@
   number_educ: 3
   education1: Master student, Sun Yat-sen University
   education2: BS (2021-2022), Sun Yat-sen University
-  education3: Reseach interest： Climate-chemistry interactions 
+  education3: Research interest： Climate-chemistry interactions 
 
 - name: Xiaodong Huang (黄晓东)
   photo: Xiaodong Huang.jpg
@@ -80,46 +81,27 @@
   number_educ: 3
   education1: Master student, Sun Yat-sen University
   education2: BS (2021-2022), Sun Yat-sen University
-  education3: Reseach interest：Greenhouse gases
+  education3: Research interest：Greenhouse gases
 
 - name: Jiayin Su (苏嘉茵)
   photo: Jiayin Su.jpg
-  info: Undergraduate student
+  info: Ph.D. student (co-supervised)
   email:
-  number_educ: 2
+  number_educ: 3
   education1: 2019-present, Sun Yat-sen University
-  education2: Reseach interest： Modeling of atmospheric chemistry
-  education3:
+  education2: BS (2019-2023), Sun Yat-sen University
+  education3: Research interest： Modeling of atmospheric chemistry
   education4:
 
-- name: Ruize Sun (孙瑞泽)
-  photo: RuizeSun.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 2
-  education1: 2019-present, Sun Yat-sen University
-  education2: Reseach interest： Modeling of atmospheric chemistry
-  education3:
-  education4:
-
-- name: Wanshan Tan (谭婉珊)
-  photo: WanshanTan.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 2
-  education1: 2019-present, Sun Yat-sen University
-  education2: Reseach interest： Modeling of atmospheric chemistry
-  education3:
-  education4:
 
 - name: Shuai Li (李帅)
   photo: Shuai Li.jpg
-  info: Undergraduate student
+  info: Master student
   email:
-  number_educ: 2
-  education1: 2019-present, Sun Yat-sen University
-  education2: Reseach interest： Modeling of atmospheric chemistry
-  education3:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2019-2023), Sun Yat-sen University
+  education3: Research interest： Modeling of atmospheric chemistry
   education4:
 
 - name: "This could be you !"
