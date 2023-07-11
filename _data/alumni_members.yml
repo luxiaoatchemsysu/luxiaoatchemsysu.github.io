@@ -1,3 +1,23 @@
+- name: Ruize Sun (孙瑞泽)
+  photo: RuizeSun.jpg
+  duration: Undergraduate student, 2021-2023
+  email:
+  number_educ: 2
+  education1: BS(2019-2023), SYSU 
+  education2: now Ph.D. student at PKU
+  education3:
+  education4:
+
+- name: Wanshan Tan (谭婉珊)
+  photo: WanshanTan.jpg
+  duration: Undergraduate student, 2021-2023
+  email:
+  number_educ: 2
+  education1: BS(2019-2023), SYSU 
+  education2: now Ph.D. student at PKU
+  education3:
+  education4:
+  
 - name: Meng Qu (曲梦)
   photo: MengQu.jpg
   duration: Undergraduate student, 2021-2022
@@ -17,17 +37,3 @@
   education2: now master student at CAS
   education3: 
 
-- name: Shichen Xie (谢世晨)
-  photo: Doraemon.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 1
-  education1: 2019-present, Sun Yat-sen University
-
-
-- name: Lujia Yi (易卢珈)
-  photo: Doraemon.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 1
-  education1: 2019-present, Sun Yat-sen University
