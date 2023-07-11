@@ -120,6 +120,13 @@ permalink: /group/
 {% endif %}
 
 ## Group Photos
+**June 2023**
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2023summer1.jpg){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2023summer2.jpg){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2023summer3.jpg){: style="width: 80%; float: center; margin: 10px"}
+
+
 **June 2022**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2022summer3.JPG){: style="width: 80%; float: center; margin: 10px"}
