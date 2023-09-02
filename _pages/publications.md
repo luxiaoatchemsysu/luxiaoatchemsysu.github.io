@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <p></p>
-**Xiao Lu has published over 70 peer-reviewed research articles (20 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 70 peer-reviewed research articles (21 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
@@ -19,21 +19,33 @@ permalink: /publications/
 
 <b>Lu, X.* </b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
-Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y., Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023 [[link]](http://doi.org/10.1038/s41561-022-01122-x)
+Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi, Z., Aikin, K., Fan, S., Brown, S. S., and Zhang, Y., Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023. [[link]](http://doi.org/10.1038/s41561-022-01122-x)
 
-Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, <b><em>Environmental Research Letters</em></b>, 18, 2023 [[link]](http://doi.org/10.1088/1748-9326/acaee0)
+<b>Tan, W., Wang, H., Su, J., Sun, R., He, C., Lu, X.*</b>, Lin, J., Xue, C., Wang, H., Liu, Y., Liu, L., Zhang, L., Wu, D., Mu, Y., and Fan, S.: Soil Emissions of Reactive Nitrogen Accelerate Summertime Surface Ozone Increases in the North China Plain, <b><em>Environ. Sci. Technol.</em></b>, 57, 12782-12793,  2023.[[link]](http://doi.org/10.1021/acs.est.3c01823)
 
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
-
-Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q.: A quantitative assessment and process analysis of the contribution from meteorological conditions in an O3 pollution episode in Guangzhou, China. <b><em>Atmos. Environ.</em></b>, 303, 2023 [[link]](https://doi.org/10.1016/j.atmosenv.2023.119757)
-
-Liu, L.; Xu, W.; Wen, Z.; Liu, P.; Xu, H.; Liu, S.; <b>Lu, X.</b>; Zhong, B.; Guo, Y.; Lu, X.; Zhao, Y.; Zhang, X.; Wang, S.; Vitousek, P. M.; Liu, X.: Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2221459120, 2023 [[link]](https://doi.org/10.1073/pnas.2221459120)
-
-Shen, A., Liu, Y., <b>Lu, X.</b>, Xu, Y., Jin, Y., Wang, H., Zhang, J., Wang, X., Chang, M., and Fan, Q.: Modeling regional nitrogen cycle in the atmosphere: Present situation and its response to the future emissions control strategy, <b><em>Sci. Total Environ.</em></b>, 891, 164379, 2023 [[link]](https://doi.org/10.1016/j.scitotenv.2023.164379)
 
 Chen, Z., Jacob, D. J., Gautam, R., Omara, M., Stavins, R. N., Stowe, R. C., Nesser, H., Sulprizio, M. P., Lorente, A., Varon, D. J., <b>Lu, X.</b>, Shen, L., Qu, Z., Pendergrass, D. C., and Hancock, S.: Satellite quantification of methane emissions and oil–gas methane intensities from individual countries in the Middle East and North Africa: implications for climate action, <b><em>Atmos. Chem. Phys.</em></b>, 23, 5945-5967, 2023 [[link]](https://doi.org/10.5194/acp-23-5945-2023), 2023.
 
 Gao, M., Wang, F., Ding, Y., Wu, Z., Xu, Y., <b>Lu, X.</b>, Wang, Z., Carmichael, G. R., and McElroy, M. B.: Large-scale climate patterns offer preseasonal hints on the co-occurrence of heat wave and O3 pollution in China, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2218274120, 2023 [[link]](https://doi.org/10.1073/pnas.2218274120)
+
+Hu, H., Wang, H., Lu, K., Wang, J., Zheng, Z., Xu, X., Zhai, T., Chen, X., <b>Lu, X.</b>, Fu, W., Li, X., Zeng, L., Hu, M., Zhang, Y., and Fan, S.: Variation and trend of nitrate radical reactivity towards volatile organic compounds in Beijing, China, <b><em>Atmos. Chem. Phys.</em></b>, 23, 8211-8223, 2023.[[link]](http://doi.org/10.5194/acp-23-8211-2023)
+
+Liu, C., He, C., Wang, Y., He, G., Liu, N., Miao, S., Wang, H., <b>Lu, X.</b>, and Fan, S.: Characteristics and mechanism of a persistent ozone pollution event in Pearl River Delta induced by typhoon and subtropical high, <b><em>Atmos. Environ.</em></b>, 310,2023.[[link]] (http://doi.org/10.1016/j.atmosenv.2023.119964)
+
+Liu, L.; Xu, W.; Wen, Z.; Liu, P.; Xu, H.; Liu, S.; <b>Lu, X.</b>; Zhong, B.; Guo, Y.; <b>Lu, X.</b>; Zhao, Y.; Zhang, X.; Wang, S.; Vitousek, P. M.; Liu, X.: Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers. <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, (17), e2221459120, 2023 [[link]](https://doi.org/10.1073/pnas.2221459120)
+
+Lyu, X., Li, K., Guo, H., Morawska, L., Zhou, B., Zeren, Y., Jiang, F., Chen, C., Goldstein, A. H., Xu, X., Wang, T., <b>Lu, X.</b>, Zhu, T., Querol, X., Chatani, S., Latif, M. T., Schuch, D., Sinha, V., Kumar, P., Mullins, B., Seguel, R., Shao, M., Xue, L., Wang, N., Chen, J., Gao, J., Chai, F., Simpson, I., Sinha, B., and Blake, D. R.: A synergistic ozone-climate control to address emerging ozone pollution challenges, <b><em>One Earth</em></b>, 6, 964-977, 2023.[[link]](http://doi.org/10.1016/j.oneear.2023.07.004)
+
+Shen, A., Liu, Y., <b>Lu, X.</b>, Xu, Y., Jin, Y., Wang, H., Zhang, J., Wang, X., Chang, M., and Fan, Q.: Modeling regional nitrogen cycle in the atmosphere: Present situation and its response to the future emissions control strategy, <b><em>Sci. Total Environ.</em></b>, 891, 164379, 2023 [[link]](https://doi.org/10.1016/j.scitotenv.2023.164379)
+
+Shen, L., Jacob, D. J., Gautam, R., Omara, M., Scarpelli, T. R., Lorente, A., Zavala-Araiza, D., <b>Lu, X.</b>, Chen, Z., and Lin, J.: National quantifications of methane emissions from fuel exploitation using high resolution inversions of satellite observations, <b><em>Nat Commun</em></b>, 14, 4948,  2023.[[link]](http://doi.org/10.1038/s41467-023-40671-6)
+
+Varon, D. J., Jacob, D. J., Hmiel, B., Gautam, R., Lyon, D. R., Omara, M., Sulprizio, M., Shen, L., Pendergrass, D., Nesser, H., Qu, Z., Barkley, Z. R., Miles, N. L., Richardson, S. J., Davis, K. J., Pandey, S., <b>Lu, X.</b>, Lorente, A., Borsdorff, T., Maasakkers, J. D., and Aben, I.: Continuous weekly monitoring of methane emissions from the Permian Basin by inversion of TROPOMI satellite observations, <b><em>Atmos. Chem. Phys.</em></b>, 23, 7503-7520, 2023.[[link]](http://doi.org/10.5194/acp-23-7503-2023)
+
+Xia, Y., Xie, F., and <b>Lu, X.</b>: Enhancement of Arctic surface ozone during the 2020–2021 winter associated with the sudden stratospheric warming, <b><em>Environmental Research Letters</em></b>, 18, 2023 [[link]](http://doi.org/10.1088/1748-9326/acaee0)
+
+Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q.: A quantitative assessment and process analysis of the contribution from meteorological conditions in an O3 pollution episode in Guangzhou, China. <b><em>Atmos. Environ.</em></b>, 303, 2023 [[link]](https://doi.org/10.1016/j.atmosenv.2023.119757)
 
 Zhang, X., Zhou, C., Zhang, Y., <b>Lu, X.</b>, Xiao, X., Wang, F., Song, J., Guo, Y., Leung, K. K. M., Cao, J., and Gao, M.: Where to place methane monitoring sites in China to better assist carbon management, <b><em>npj Climate and Atmospheric Science</em></b>, 6, 2023 [[link]](https://doi.org/10.1038/s41612-023-00359-6)
 
