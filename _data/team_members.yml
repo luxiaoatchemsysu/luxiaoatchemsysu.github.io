@@ -20,17 +20,6 @@
   education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
   education5: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://acp.copernicus.org/preprints/acp-2022-381/">ACP2022</a> <a href="https://www.nature.com/articles/s41561-022-01122-x">NG2023</a>   
 
-- name: Hao Yin (殷昊)
-  photo: HaoYin.jpg
-  info: Ph.D. candidate (co-supervised)
-  email: yhyh95@mail.ustc.edu.cn
-  number_educ: 5
-  education1: Ph.D. candidate, Hefei Institutes of Physical Science, Chinese Academy of Sciences
-  education2: BS (2013-2017), Hefei University of Technology
-  education3: Research interest： Remote sensing and modeling of air pollutants
-  education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HYin.pdf">CV</a>
-  education5: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac3e22">ERL2021</a>  
-
 - name: Cheng He (何成)
   photo: ChengHe2.JPG
   info: Ph.D. candidate (co-supervised)
@@ -76,7 +65,7 @@
 
 - name: Xiaodong Huang (黄晓东)
   photo: Xiaodong Huang.jpg
-  info: Master student
+  info: Master student (co-supervised)
   email:
   number_educ: 3
   education1: Master student, Sun Yat-sen University
@@ -104,6 +93,24 @@
   education3: Research interest： Modeling of atmospheric chemistry
   education4:
 
+- name: Yangyang Cao (曹扬杨)
+  photo: 
+  info: Master student (co-supervised)
+  email:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2019-2023), Sun Yat-sen University
+  education3: Research interest： Greenhouse gas
+  education4:
+
+  - name: Siyi Liu (刘思怡)
+  photo: SiyiLiu.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student (2020-), Sun Yat-sen University
+  education2: Research interest： Aerosol chemistry
+  
 - name: "This could be you !"
   photo: Pikaqiu.jpg
   info: Be who you wanna be
