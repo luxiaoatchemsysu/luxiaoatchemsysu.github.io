@@ -34,16 +34,19 @@
   photo: Guowen He.jpg
   info: Ph.D. candidate (co-supervised)
   email: 
-  number_educ: 2
+  number_educ: 3
   education1: Ph.D. candidate, Sun Yat-sen University
-  education2: <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1043/">ACPD2023</a>
+  education2: Research interest： Ozone air quality
+  education3: <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1043/">ACP2023</a>
   
 - name: Ke Yin (尹柯)
   photo: Ke Yin.jpg
   info: Ph.D. candidate (co-supervised)
   email: 
-  number_educ: 1
+  number_educ: 2
   education1: Ph.D. candidate, Sun Yat-sen University
+  education2: BS (2015-2019), Chengdu University of Information Technology
+  education3: Research interest： Air Pollution and solar energy
 
 - name: Nanxi Liu (刘南希)
   photo: NanxiLiu.jpg
@@ -52,7 +55,7 @@
   number_educ: 3
   education1: Master student, Sun Yat-sen University
   education2: BS (2017-2021), Chengdu University of Information Technology
-  education3: Research interest： Air Pollution
+  education3: Research interest： Air pollution meteorology
 
 - name: Jingyu Li (李婧宇)
   photo: JingyuLi.jpg
@@ -70,7 +73,7 @@
   number_educ: 3
   education1: Master student, Sun Yat-sen University
   education2: BS (2018-2022), Sun Yat-sen University
-  education3: Research interest：Greenhouse gases
+  education3: Research interest：Greenhouse gas inverse modeling
 
 - name: Jiayin Su (苏嘉茵)
   photo: Jiayin Su.jpg
@@ -94,7 +97,7 @@
   education4:
 
 - name: Yangyang Cao (曹扬杨)
-  photo: 
+  photo: YangyangCao.jpg
   info: Master student (co-supervised)
   email:
   number_educ: 3
