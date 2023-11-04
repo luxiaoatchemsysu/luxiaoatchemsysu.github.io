@@ -197,7 +197,7 @@ Gao, M., Liu, Z., Wang, Y., <b>Lu, X. </b>, Ji, D., Wang, L., Li, M., Wang, Z., 
 
 Zhang, L., Shao, J., <b>Lu, X. </b>, Zhao, Y., Hu, Y., Henze, D. K., Liao, H., Gong, S., and Zhang, Q.: Sources and Processes Affecting Fine Particulate Matter Pollution over North China: An Adjoint Analysis of the Beijing APEC Period, <b><em>Environmental Science & Technology</em></b>, 50, 8731-8740, 2016 [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.est.6b03010)
 
-**In Chinese**
+**In Chinese (8)** 
   
 （通讯作者）何成，何国文，刘晨曦， 等.2023.广州暖季夜间臭氧增加事件的特征及一次水平输送个例分析［J］.环境科学学报，43（1）：76-86
 HE Cheng，HE Guowen，LIU Chenxi，et al.2023.Characteristics of nocturnal ozone enhancement events and a case study of horizontal transport in Guangzhou during warm season［J］.Acta Scientiae Circumstantiae，43（1）：76-86
@@ -221,3 +221,5 @@ Acta Scientiae Circumstantiae，42（10）：49-61
 周慧娴，沈傲，崔寅平，等.2022.区域氮干沉降分布特征的数值模拟［J］.环境科学学报，42（10）：129-137
 ZHOU Huixian，SHEN Ao，CUI Yinping，et al.2022.Numerical simulation of distribution characteristics of regional nitrogen dry deposition［J］.Acta
 Scientiae Circumstantiae，42（10）：129-137
+
+许亦非, 崔寅平, 朱溢啸, 沈傲, 晋银保, 汪海恒, 刘一鸣, 卢骁, 樊琦. 广东省区域臭氧污染过程三维输送特征分析与定量来源解析[J]. 中国环境科学, 2023, 43(5): 2119-2127. XU Yi-fei, CUI Yin-ping, ZHU Yi-xiao, SHEN Ao, JIN Yin-bao, WANG Hai-heng, LIU Yi-ming, LU Xiao, FAN Qi. Microbial community characteristics and mechanism of pollutant migration and diffusion in uranium tailings reservoir area. CHINA ENVIRONMENTAL SCIENCECE, 2023, 43(5): 2119-2127.
