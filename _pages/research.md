@@ -17,7 +17,7 @@ Our main analytical tools are numerical models, including global-scale chemical 
 
 Here are some topics that we have done/currently work on:
 
-**——————————————————————————————1. Source, chemistry, transport, and sink of air pollutants——————————————————————————————**
+**—————————————————————1. Source, chemistry, transport, and sink of air pollutants——————————————————**
 
 **(1) Ozone trends from surface to troposphere**
 
@@ -62,7 +62,7 @@ Liu, N. et al. Rising frequency of ozone-favorable synoptic weather patterns con
 
 He, C. et al., X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022  [[link]](http://doi.org/10.5194/acp-2022-310)
 
-**2. -----------Greenhouse gases budgets from bottom-up and top-down methods-----------------**
+**—————————————————————2.Greenhouse gases budgets from bottom-up and top-down methods—————————————————————**
 
 **(1) Global budgets and trends of methane**
 
@@ -93,7 +93,7 @@ Reference
 He et al. submitted
 
 
-**----------3. Chemistry-Climate-Ecosystem interactions and model development-------------**
+**—————————————————————3. Chemistry-Climate-Ecosystem interactions and model development—————————————————————**
 
 **(1) Climate variability impacts on atmospheric chemistry**
 
