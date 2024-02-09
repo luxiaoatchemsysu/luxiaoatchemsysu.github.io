@@ -63,7 +63,7 @@ He, G. et al. Nighttime ozone in the lower boundary layer: insights from 3-year 
 
 Liu, N. et al. Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2023.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
-He, C. et al., X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022  [[link]](http://doi.org/10.5194/acp-2022-310)
+He, C. et al. The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022  [[link]](http://doi.org/10.5194/acp-2022-310)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-HeCACP2022.jpg){: style="width: 80%; float: center; margin: 10px"}
 
@@ -112,7 +112,7 @@ Lu, X. et al. Surface and tropospheric ozone trends in the Southern Hemisphere s
 
 Lu, X. et al. Meteorology and Climate Influences on Tropospheric Ozone: a Review of Natural Sources, Chemistry, and Transport Patterns, <b><em>Current Pollution Reports</em></b>, 2019 [[link]](https://link.springer.com/article/10.1007%2Fs40726-019-00118-3)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/southern-o3-merged.png){: style="width: 100%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/southern-o3-merged.png){: style="width: 90%; float: center; margin: 10px"}
 
 **(2) Atmospheric components feedback on meteorology, carbon cycle, and energy**
 
