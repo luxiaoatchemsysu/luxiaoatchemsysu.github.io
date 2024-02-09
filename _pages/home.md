@@ -10,9 +10,9 @@ permalink: /
 The group is led by **Prof. Xiao Lu (luxiao25@mail.sysu.edu.cn)**.
 
 Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:
- - Source, chemistry, transport, and sink of air pollutants and greenhouse gases
- - Large-scale chemistry-climate interactions
- - Climate-chemistry model development 
+- Source, chemistry, transport, and sink of air pollutants
+- Greenhouse gases budgets from bottom-up and top-down methods
+- Chemistry-Climate-Ecosystem interactions and model development
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
