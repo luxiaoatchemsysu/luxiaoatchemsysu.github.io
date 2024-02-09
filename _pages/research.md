@@ -17,7 +17,7 @@ Our main analytical tools are numerical models, including global-scale chemical 
 
 Here are some topics that we have done/currently work on:
 
-**----------1. Source, chemistry, transport, and sink of air pollutants----------**
+**——————————————————————————————1. Source, chemistry, transport, and sink of air pollutants——————————————————————————————**
 
 **(1) Ozone trends from surface to troposphere**
 
