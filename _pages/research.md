@@ -9,9 +9,12 @@ permalink: /research/
 
 # Research
 **Our research group focuses on a wide range of topics on atmospheric chemistry, greenhouse gases, and climate change, including:**
-- **Source, chemistry, transport, and sink of air pollutants 大气污染物（活性氮、臭氧、细颗粒物）的排放、化学、传输、沉降过程**
-- **Greenhouse gases budgets from bottom-up and top-down methods温室气体收支：结合自上而下及自下而上方法**
-- **Chemistry-Climate-Ecosystem interactions and model development地球系统中的气候-大气化学-生态植被相互作用机理与模式发展**
+- **Source, chemistry, transport, and sink of air pollutants**
+- **大气污染物（活性氮、臭氧、细颗粒物）的排放、化学、传输、沉降过程**
+- **Greenhouse gases budgets from bottom-up and top-down methods**
+- **温室气体收支：结合自上而下及自下而上方法**
+- **Chemistry-Climate-Ecosystem interactions and model development**
+- **地球系统中的气候-大气化学-生态植被相互作用机理与模式发展**
 
 Our main analytical tools are numerical models, including global-scale chemical transport model (GEOS-Chem) and climate-chemistry-ecosystem interactive earth system models (BCC-ESM, CESM), regional air quality models (GEOS-Chem, WRF-Chem, WRF-CMAQ), atmospheric dispersion models (FLEXPART, WRF-FLEXPART), and inverse modeling. We are now combining machine learning and chemical models in several applications (e.g. prediction of air quality/short-lived oxidants).
 
@@ -49,7 +52,7 @@ Lu, X. et al. The underappreciated role of agricultural soil nitrogen oxide emis
 
 Lu, X. et al. Exploring 2016–2017 surface ozone pollution over China: source contributions and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 2019 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/soil NOx.png){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/soil NOx.png){: style="width: 60%; float: center; margin: 10px"}
 
 **(3) Meteorological influences on the evolution and structure of air pollutants**
 
@@ -61,6 +64,8 @@ He, G. et al. Nighttime ozone in the lower boundary layer: insights from 3-year 
 Liu, N. et al. Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2023.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
 He, C. et al., X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022  [[link]](http://doi.org/10.5194/acp-2022-310)
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-HeCACP2022.jpg){: style="width: 80%; float: center; margin: 10px"}
 
 **——————————————————2.Greenhouse gases budgets from bottom-up and top-down methods——————————————————**
 
@@ -83,6 +88,8 @@ Reference
 Lu, X. et al. Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
 Lu, X.et al. Methane emissions in the United States, Canada, and Mexico: evaluation of national methane emission inventories and 2010–2017 sectoral trends by inverse analysis of in situ (GLOBALVIEWplus CH4 ObsPack) and satellite (GOSAT) atmospheric observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 2022 [[link]](https://doi.org/10.5194/acp-22-395-2022)
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-LuPNAS2023.png){: style="width: 90%; float: center; margin: 10px"}
 
 **(3) Improving estimate of point source of greenhouse gases**
 
