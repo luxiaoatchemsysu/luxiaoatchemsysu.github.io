@@ -52,7 +52,7 @@ Lu, X. et al. The underappreciated role of agricultural soil nitrogen oxide emis
 
 Lu, X. et al. Exploring 2016–2017 surface ozone pollution over China: source contributions and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 2019 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-soilNOx.png){: style="width: 70%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-soilNOx.png){: style="width: 80%; float: center; margin: 10px"}
 
 **(3) Meteorological influences on the evolution and structure of air pollutants**
 
