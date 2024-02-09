@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <p></p>
-**ACCM group has published 8 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
+**ACCM group has published 8 peer-reviewed research articles in SCI jounrals (team members as first/corresponding author) since its born from May 2021.**
 
 **Xiao Lu has published over 80 peer-reviewed research articles (23 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
@@ -17,7 +17,19 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**2023 (21)**
+**2024 (5)**
+
+Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
+
+Huang, M., Tao, S., Zhu, K., Feng, H., <b>Lu, X.</b>, Hang, J., and Wang, X.: Applicability of evaluation metrics/schemes for human health burden attributable to regional ozone pollution: A case study in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), South China, <b><em>Sci. Total Environ.</em></b>, 914, 169910, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2024.169910)
+
+Jin, Y., Liu, Y., <b>Lu, X.</b>, Chen, X., Shen, A., Wang, H., Cui, Y., Xu, Y., Li, S., Liu, J., Zhang, M., Ma, Y., and Fan, Q.: Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia, <b><em>Atmos. Chem. Phys.</em></b>, 24, 367-395, 2024 [[link]](https://doi.org/10.5194/acp-24-367-2024)
+
+Ye, X., Zhang, L., Wang, X., <b>Lu, X.</b>, Jiang, Z., Lu, N., Li, D., and Xu, J.: Spatial and temporal variations of surface background ozone in China analyzed with the grid-stretching capability of GEOS-Chem High Performance, <b><em>Sci. Total Environ.</em></b>, 169909, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2024.169909)
+
+Zhu, Y., Liu, Y., Li, S., Wang, H., <b>Lu, X.</b>, Wang, H., Shen, C., Chen, X., Chan, P., Shen, A., Wang, H., Jin, Y., Xu, Y., Fan, S., and Fan, Q.: Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions, <b><em>Sci. Total Environ.</em></b>, 906, 167485, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2023.167485)
+
+**2023 (19)**
 
 <b>Lu, X.* </b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
@@ -30,8 +42,6 @@ Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi
 <b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2023.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
 Becker, J. S., DeLang, M. N., Chang, K.-L., Serre, M. L., Cooper, O. R., Wang, H., Schultz, M. G., Schröder, S., <b>Lu, X.</b>, Zhang, L., Deushi, M., Josse, B., Keller, C. A., Lamarque, J.-F., Lin, M., Liu, J., Marécal, V., Strode, S. A., Sudo, K., Tilmes, S., Zhang, L., Brauer, M., and West, J. J.: Using Regionalized Air Quality Model Performance and Bayesian Maximum Entropy data fusion to map global surface ozone concentration,  <b><em>Elem Sci Anth</em></b>, 11, 2023.[[link]](http://doi.org/10.1525/elementa.2022.00025)
-
-Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
 Chen, Z., Jacob, D. J., Gautam, R., Omara, M., Stavins, R. N., Stowe, R. C., Nesser, H., Sulprizio, M. P., Lorente, A., Varon, D. J., <b>Lu, X.</b>, Shen, L., Qu, Z., Pendergrass, D. C., and Hancock, S.: Satellite quantification of methane emissions and oil–gas methane intensities from individual countries in the Middle East and North Africa: implications for climate action, <b><em>Atmos. Chem. Phys.</em></b>, 23, 5945-5967, 2023 [[link]](https://doi.org/10.5194/acp-23-5945-2023), 2023.
 
@@ -58,8 +68,6 @@ Xu, Y.; Shen, A.; Jin, Y.; Liu, Y.; <b>Lu, X.</b>; Fan, S.; Hong, Y.; Fan, Q.: A
 Zhang, X., Zhou, C., Zhang, Y., <b>Lu, X.</b>, Xiao, X., Wang, F., Song, J., Guo, Y., Leung, K. K. M., Cao, J., and Gao, M.: Where to place methane monitoring sites in China to better assist carbon management, <b><em>npj Climate and Atmospheric Science</em></b>, 6, 2023 [[link]](https://doi.org/10.1038/s41612-023-00359-6)
 
 Zhang, Y., Wang, H., <b>Lu, X.</b>, Li, L., He, Y., Wang, H., He, G., He, C., Wang, J., and Fan, S.: Evolution of summer surface ozone pollution patterns in China during 2015–2020, <b><em>Atmospheric Research</em></b>, 291, 2023 [[link]](https://doi.org/10.1016/j.atmosres.2023.106836)
-
-Zhu, Y., Liu, Y., Li, S., <b>Wang, H., Lu, X.</b>, Wang, H., Shen, C., Chen, X., Chan, P., Shen, A., Wang, H., Jin, Y., Xu, Y., Fan, S., and Fan, Q.: Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions, <b><em>Sci. Total Environ.</em></b>, 906, 167485, 2023. [[link]](https://doi.org/10.1016/j.scitotenv.2023.167485)
 
 
 **2022 (18)**
