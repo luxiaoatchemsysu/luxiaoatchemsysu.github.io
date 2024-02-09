@@ -123,7 +123,8 @@ Reference
 Sun et al. submitted
 
 **(3) Climate-chemistry model development**
-Chemistry plays an indispensable role in investigations of the atmosphere and earth system; however, many climate models either ignore or greatly simplify atmospheric chemistry, limiting both their accuracy and their scope. We developed the BCC-GEOS-Chem model, i.e. GEOS-Chem coupled with the BCC Atmospheric General Circulation Model (BCC-AGCM), and evaluated the model with in-situ and satellite observations. We are continuously updating the BCC-GEOS-Chem model, with much improved applicability for research studies and air quality predictions.
+
+Chemistry plays an indispensable role in evolution of the atmosphere and earth system; however, many climate models either ignore or greatly simplify atmospheric chemistry, limiting both their accuracy and their scope. We developed the BCC-GEOS-Chem model, i.e. GEOS-Chem coupled with the BCC Atmospheric General Circulation Model (BCC-AGCM), and evaluated the model with in-situ and satellite observations. We are continuously updating the BCC-GEOS-Chem model, with much improved applicability for research studies and air quality predictions.
 
 Reference
 
