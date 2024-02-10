@@ -2,11 +2,13 @@
   photo: XiaoLu1.jpg
   info: Associate Professor, started May 2021
   email: xiaolu@g.harvard.edu
-  number_educ: 3
+  number_educ: 5
   education1: Postdoc (2019-2021), Harvard Univerisity
   education2: PhD (2014-2019), Peking Univerisity
   education3: BS (2010-2014), Sun Yat-sen University
-
+  education4: Co-chair of <a href="https://igacproject.org/east-asia-focus-working-group">TOAR East Asia WG</a>
+  education5: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_xlu.pdf">CV</a>
+  
 - name: Haolin Wang (王浩霖)
   photo: HaolinWang.jpg
   info: Ph.D. candidate (co-supervised)
@@ -41,7 +43,7 @@
   photo: Ke Yin.jpg
   info: Ph.D. candidate (co-supervised)
   email: 
-  number_educ: 3
+  number_educ: 2
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
   education3: Research interest： Air Pollution and solar energy
