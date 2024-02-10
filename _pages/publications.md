@@ -17,7 +17,9 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**2024 (5)**
+**2024 (6)**
+
+<b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2025.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
@@ -29,7 +31,7 @@ Ye, X., Zhang, L., Wang, X., <b>Lu, X.</b>, Jiang, Z., Lu, N., Li, D., and Xu, J
 
 Zhu, Y., Liu, Y., Li, S., Wang, H., <b>Lu, X.</b>, Wang, H., Shen, C., Chen, X., Chan, P., Shen, A., Wang, H., Jin, Y., Xu, Y., Fan, S., and Fan, Q.: Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions, <b><em>Sci. Total Environ.</em></b>, 906, 167485, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2023.167485)
 
-**2023 (19)**
+**2023 (18)**
 
 <b>Lu, X.* </b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
@@ -38,8 +40,6 @@ Wang, H.#, <b>Wang, H.#</b>, <b>Lu, X.#</b>, Lu, K., Zhang, L., Tham, Y. J., Shi
 <b>Tan, W., Wang, H., Su, J., Sun, R., He, C., Lu, X.*</b>, Lin, J., Xue, C., Wang, H., Liu, Y., Liu, L., Zhang, L., Wu, D., Mu, Y., and Fan, S.: Soil Emissions of Reactive Nitrogen Accelerate Summertime Surface Ozone Increases in the North China Plain, <b><em>Environ. Sci. Technol.</em></b>, 57, 12782-12793,  2023.[[link]](http://doi.org/10.1021/acs.est.3c01823)
 
 <b>He, G., He, C.</b>, Wang, H.,<b> Lu, X.* </b>, Pei, C., Qiu, X., Liu, C., Wang, Y., <b>Liu, N.</b>, Zhang, J., Lei, L., Liu, Y., Wang, H., Deng, T., Fan, Q., and Fan, S.*: Nighttime ozone in the lower boundary layer: insights from 3-year tower-based measurements in South China and regional air quality modeling, <b><em>Atmos. Chem. Phys.</em></b>, 23, 13107-13124, 2023.[[link]](http://doi.org/10.5194/acp-23-13107-2023)
-
-<b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2023.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
 Becker, J. S., DeLang, M. N., Chang, K.-L., Serre, M. L., Cooper, O. R., Wang, H., Schultz, M. G., Schröder, S., <b>Lu, X.</b>, Zhang, L., Deushi, M., Josse, B., Keller, C. A., Lamarque, J.-F., Lin, M., Liu, J., Marécal, V., Strode, S. A., Sudo, K., Tilmes, S., Zhang, L., Brauer, M., and West, J. J.: Using Regionalized Air Quality Model Performance and Bayesian Maximum Entropy data fusion to map global surface ozone concentration,  <b><em>Elem Sci Anth</em></b>, 11, 2023.[[link]](http://doi.org/10.1525/elementa.2022.00025)
 
