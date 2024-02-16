@@ -59,6 +59,7 @@ Lu, X. et al. Exploring 2016–2017 surface ozone pollution over China: source c
 Meteorological factors (temperature, boundary layer, weather patterns) also modulate the evolution and structure of air pollutants. Our recent studies focus on the ozone sensitivity to temperature, weather patterns causing high ozone pollution, and nighttime ozone enhancement events caused by increasing vertical mixing.
 
 Reference
+
 He, G. et al. Nighttime ozone in the lower boundary layer: insights from 3-year tower-based measurements in South China and regional air quality modeling, <b><em>Atmos. Chem. Phys.</em></b>, 2023.[[link]](http://doi.org/10.5194/acp-23-13107-2023)
 
 Liu, N. et al. Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2023.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
@@ -91,9 +92,9 @@ Lu, X.et al. Methane emissions in the United States, Canada, and Mexico: evaluat
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-LuPNAS2023.png){: style="width: 90%; float: center; margin: 10px"}
 
-**(3) Improving estimate of point source of greenhouse gases**
+**(3) Improving estimate of point-source greenhouse gases emissions**
 
-We have developed new methods for quantifying CO2 emissions of point-source power plants from satellite observations. 
+We have developed new methods for quantifying CO2 emissions from point-source power plants using satellite observations. 
 
 Reference
 
