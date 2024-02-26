@@ -2,10 +2,10 @@
   photo: RuizeSun.jpg
   duration: Undergraduate student, 2021-2023
   email:
-  number_educ: 2
+  number_educ: 3
   education1: BS(2019-2023), SYSU 
   education2: now Ph.D. student at PKU
-  education3:
+  education3: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ad2aba">ERL2024</a>
   education4:
 
 - name: Wanshan Tan (谭婉珊)
@@ -29,7 +29,7 @@
   education4:
 
 - name: Fengyi Zhang (张丰翼)
-  photo: Minions.jpg
+  photo: FengyiZhang.jpg
   duration: Undergraduate student, 2021 - 2022
   email: 
   number_educ: 2
