@@ -12,12 +12,11 @@
   photo: HaolinWang.jpg
   info: Ph.D. candidate (co-supervised)
   email: wanghlin25@mail2.sysu.edu.cn
-  number_educ: 5
+  number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
   education3: Research interest： Tropospheric ozone trends 
-  education4: <a href="https://luxiaoatchemsysu.github.io/downloads/CV_HLWang.pdf">CV</a>
-  education5: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://doi.org/10.5194/acp-22-13753-2022">ACP2022</a> <a href="https://www.nature.com/articles/s41561-022-01122-x">NG2023</a>   
+  education4: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://doi.org/10.5194/acp-22-13753-2022">ACP2022</a> <a href="https://www.nature.com/articles/s41561-022-01122-x">NG2023</a>   
 
 - name: Cheng He (何成)
   photo: ChengHe2.JPG
@@ -75,6 +74,24 @@
   education2: BS (2018-2022), Sun Yat-sen University
   education3: Research interest：Greenhouse gas inverse modeling
 
+- name: Ganquan Zeng  (曾淦泉)
+  photo: Minions.jpg
+  info: Master student
+  email:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2018-2022), Jinan University
+  education3: Research interest：Machine Learning in Atmospheric Chemistry
+
+- name: Han Xiao  (肖涵)
+  photo: HanXiao.jpg
+  info: Master student
+  email:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2018-2022)
+  education3: Research interest：Wetland methane emissions
+
 - name: Jiayin Su (苏嘉茵)
   photo: Jiayin Su.jpg
   info: Ph.D. student (co-supervised)
@@ -112,7 +129,15 @@
   email:
   number_educ: 2
   education1: Undergraduate student (2020-), Sun Yat-sen University
-  education2: Research interest： Aerosol chemistry
+  education2: Research interest： Aerosol chemistry and air quality
+
+- name: Xiyao Bai (白熙瑶)
+  photo: XiyaoBai.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student (2020-), Sun Yat-sen University
+  education2: Research interest： Greenhouse gas
   
 - name: "This could be you !"
   photo: Pikaqiu.jpg
