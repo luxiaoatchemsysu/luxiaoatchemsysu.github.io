@@ -10,7 +10,7 @@ permalink: /publications/
 <p></p>
 **ACCM group has published 13 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
 
-**Xiao Lu has published over 90 peer-reviewed research articles (25 as first/corresponding author, 22 SCI, including PNAS (1), Nature Communications (1), and Nature Geoscience (1), 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 90 peer-reviewed research articles (25 as first/corresponding author, 22 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(4)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
@@ -19,7 +19,7 @@ permalink: /publications/
 
 **2024 (10)**
 
-<b>Sun, R.</b>, <b>Lu, X.* </b>, Gao, M.*, Du, Y., Lin, H., Wright, C., <b>He, C., and Yin, K.</b>: The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, Environmental Research Letters, 19, 2024. [[link]](http://doi.org/10.1088/1748-9326/ad2aba).
+<b>Sun, R.</b>, <b>Lu, X.* </b>, Gao, M.*, Du, Y., Lin, H., Wright, C., <b>He, C., and Yin, K.</b>: The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, <b><em>Environmental Research Letters</em></b>, 19, 2024. [[link]](http://doi.org/10.1088/1748-9326/ad2aba).
 
 <b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2025.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
