@@ -30,13 +30,13 @@ Our research group will be focusing on a wide range of topics on atmospheric che
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
-       <div class="item">
+       <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sun2024ERL.jpg" alt="Slide 0" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiuNX2024JES.jpg" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/HeGW2023ACP.jpg" alt="Slide 2" />
         </div>
         <div class="item">
@@ -45,7 +45,7 @@ Our research group will be focusing on a wide range of topics on atmospheric che
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2023PNAS.jpg" alt="Slide 4" />
         </div>
-                <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He2022ACP.jpg" alt="Slide 5" />
         </div>
         <div class="item">
