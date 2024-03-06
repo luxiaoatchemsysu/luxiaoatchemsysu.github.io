@@ -8,20 +8,22 @@ permalink: /publications/
 
 
 <p></p>
-**ACCM group has published 8 peer-reviewed research articles in SCI jounrals (team members as first/corresponding author) since its born from May 2021.**
+**ACCM group has published 13 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
 
-**Xiao Lu has published over 90 peer-reviewed research articles (25 as first/corresponding author, including 1 journal highlight article, 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 90 peer-reviewed research articles (25 as first/corresponding author, 22 SCI, including PNAS (1), Nature Communications (1), and Nature Geoscience (1), 1 ESI 0.1% hot paper, and 4 ESI 1% highly cited papers). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
 **Publication list**
 <p></p>
 
-**2024 (9)**
+**2024 (10)**
 
 <b>Sun, R.</b>, <b>Lu, X.* </b>, Gao, M.*, Du, Y., Lin, H., Wright, C., <b>He, C., and Yin, K.</b>: The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, Environmental Research Letters, 19, 2024. [[link]](http://doi.org/10.1088/1748-9326/ad2aba).
 
 <b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2025.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
+
+Zhang, X., <b>Lu, X. * </b>, Wang, F., Zhou, W., Wang, P., and Gao, M.*: Enhanced Late Spring Ozone in Southern China by Early Onset of the South China Sea Summer Monsoon, <b><em>J. Geophys. Res.</em></b>, 129, 2024.[[link]](http://doi.org/10.1029/2023jd039029)
 
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
@@ -29,9 +31,9 @@ Huang, M., Tao, S., Zhu, K., Feng, H., <b>Lu, X.</b>, Hang, J., and Wang, X.: Ap
 
 Jin, Y., Liu, Y., <b>Lu, X.</b>, Chen, X., Shen, A., Wang, H., Cui, Y., Xu, Y., Li, S., Liu, J., Zhang, M., Ma, Y., and Fan, Q.: Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia, <b><em>Atmos. Chem. Phys.</em></b>, 24, 367-395, 2024 [[link]](https://doi.org/10.5194/acp-24-367-2024)
 
-Qin, Y., Wang, H., Wang, Y., <b>Lu, X.</b>, Tang, H., Zhang, J., Li, L., and Fan, S.: Wildfires in Southeast Asia pollute the atmosphere in the northern South China Sea, Sci Bull (Beijing), 2024.[[link]](http://doi.org/10.1016/j.scib.2024.02.026)
+Qin, Y., Wang, H., Wang, Y., <b>Lu, X.</b>, Tang, H., Zhang, J., Li, L., and Fan, S.: Wildfires in Southeast Asia pollute the atmosphere in the northern South China Sea, <b><em>Sci Bull</em></b>, 2024.[[link]](http://doi.org/10.1016/j.scib.2024.02.026)
 
-Wang, Y., Wang, H., Qin, Y., Xu, X., He, G., Liu, N., Miao, S., <b>Lu, X.</b>, Wang, H., and Fan, S.: Measurement report: Nocturnal subsidence behind the cold front enhances surface particulate matter in plains regions: observations from the mobile multi-lidar system, Atmos. Chem. Phys., 24, 2267-2285, 2024.[[link]](http://doi.org/10.5194/acp-24-2267-2024)
+Wang, Y., Wang, H., Qin, Y., Xu, X., He, G., Liu, N., Miao, S., <b>Lu, X.</b>, Wang, H., and Fan, S.: Measurement report: Nocturnal subsidence behind the cold front enhances surface particulate matter in plains regions: observations from the mobile multi-lidar system, <b><em>Atmos. Chem. Phys.</em></b>, 24, 2267-2285, 2024.[[link]](http://doi.org/10.5194/acp-24-2267-2024)
 
 Ye, X., Zhang, L., Wang, X., <b>Lu, X.</b>, Jiang, Z., Lu, N., Li, D., and Xu, J.: Spatial and temporal variations of surface background ozone in China analyzed with the grid-stretching capability of GEOS-Chem High Performance, <b><em>Sci. Total Environ.</em></b>, 169909, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2024.169909)
 
