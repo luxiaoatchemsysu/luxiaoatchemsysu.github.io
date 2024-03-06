@@ -119,9 +119,11 @@ Lu, X. et al. Meteorology and Climate Influences on Tropospheric Ozone: a Review
 
 We are studying how atmospheric components may feedback on meteorology, carbon cycle, and energy use. Our recent work investigates how shipping-induced aerosol modulate lightning activity over the oceans.
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-SunRZERL.png){: style="width: 90%; float: center; margin: 10px"}
+
 Reference
 
-Sun et al. submitted
+Sun et al. The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, <b><em>Environmental Research Letters</em></b>, 2024[[link]](http://doi.org/10.1088/1748-9326/ad2aba)
 
 **(3) Climate-chemistry model development**
 
