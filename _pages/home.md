@@ -30,29 +30,26 @@ Our research group will be focusing on a wide range of topics on atmospheric che
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
+       <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sun2024ERL.jpg" alt="Slide 0" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiuNX2024JES.jpg" alt="Slide 1" />
+        </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/HeGW2023ACP.jpg" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/HeGW2023ACP.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TanWS2023EST.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TanWS2023EST.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2023PNAS.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2023PNAS.jpg" alt="Slide 4" />
         </div>
                 <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He2022ACP.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He2022ACP.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Wang2022ACP.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/southern-o3-diagram.png" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Climate-O3.png" alt="Slide 6" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/china-ozone-observation-estl-new.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Wang2022ACP.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
