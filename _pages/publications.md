@@ -29,7 +29,7 @@ Zhang, X., <b>Lu, X. * </b>, Wang, F., Zhou, W., Wang, P., and Gao, M.*: Enhance
 
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
-He, Y., Fan, S., Wang, Y., Liu, Y., <b>Lu, X.</b>, Wang, H., He, C., Mai, C., and Du, Y.: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China,  <b><em>Sci. Total Environ./em></b>, 927, 171874, 2024. [[link]](http://doi.org/10.1016/j.scitotenv.2024.171874).
+He, Y., Fan, S., Wang, Y., Liu, Y., <b>Lu, X.</b>, Wang, H., He, C., Mai, C., and Du, Y.: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China,  <b><em>Sci. Total Environ.</em></b>, 927, 171874, 2024. [[link]](http://doi.org/10.1016/j.scitotenv.2024.171874).
 
 Huang, M., Tao, S., Zhu, K., Feng, H., <b>Lu, X.</b>, Hang, J., and Wang, X.: Applicability of evaluation metrics/schemes for human health burden attributable to regional ozone pollution: A case study in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), South China, <b><em>Sci. Total Environ.</em></b>, 914, 169910, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2024.169910)
 
