@@ -17,15 +17,9 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**2024 (10)**
+**2024 (14)**
 
-<b>He, C.</b>, <b>Lu, X.* </b>, Zhang, Y., Liu, Z., Jiang, F., Sun, Y., Gao, M., Liu, Y., Lin, H., Yang, J., Lin, X., Wang, Y., Hu, C., and Fan, S.*: Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ./em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
-
-He, Y., Fan, S., Wang, Y., Liu, Y., <b>Lu, X.</b>, Wang, H., He, C., Mai, C., and Du, Y.: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China,  <b><em>Sci. Total Environ./em></b>, 927, 171874, 2024. [[link]](http://doi.org/10.1016/j.scitotenv.2024.171874).
-
-Nesser, H., Jacob, D. J., Maasakkers, J. D., Lorente, A., Chen, Z., <b>Lu, X.</b>, Shen, L., Qu, Z., Sulprizio, M. P., Winter, M., Ma, S., Bloom, A. A., Worden, J. R., Stavins, R. N., and Randles, C. A.: High-resolution US methane emissions inferred from an inversion of 2019 TROPOMI satellite data: contributions from individual states, urban areas, and landfills,  <b><em>Atmos. Chem. Phys., 24, 5069-5091, 2024. [[link]](http://doi.org/10.5194/acp-24-5069-2024).
-
-Shah, V., Keller, C. A., Knowland, K. E., Christiansen, A., Hu, L., Wang, H., <b>Lu, X.</b>, Alexander, B., and Jacob, D. J.: Particulate Nitrate Photolysis as a Possible Driver of Rising Tropospheric Ozone,  <b><em>Geophys. Res. Lett./em></b>, 51, 2024. [[link]](http://doi.org/10.1029/2023gl107980).
+<b>He, C.</b>, <b>Lu, X.* </b>, Zhang, Y., Liu, Z., Jiang, F., Sun, Y., Gao, M., Liu, Y., Lin, H., Yang, J., Lin, X., Wang, Y., Hu, C., and Fan, S.*: Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ.</em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
 
 <b>Sun, R.</b>, <b>Lu, X.* </b>, Gao, M.*, Du, Y., Lin, H., Wright, C., <b>He, C., and Yin, K.</b>: The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, <b><em>Environmental Research Letters</em></b>, 19, 2024. [[link]](http://doi.org/10.1088/1748-9326/ad2aba).
 
@@ -35,11 +29,17 @@ Zhang, X., <b>Lu, X. * </b>, Wang, F., Zhou, W., Wang, P., and Gao, M.*: Enhance
 
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
+He, Y., Fan, S., Wang, Y., Liu, Y., <b>Lu, X.</b>, Wang, H., He, C., Mai, C., and Du, Y.: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China,  <b><em>Sci. Total Environ./em></b>, 927, 171874, 2024. [[link]](http://doi.org/10.1016/j.scitotenv.2024.171874).
+
 Huang, M., Tao, S., Zhu, K., Feng, H., <b>Lu, X.</b>, Hang, J., and Wang, X.: Applicability of evaluation metrics/schemes for human health burden attributable to regional ozone pollution: A case study in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), South China, <b><em>Sci. Total Environ.</em></b>, 914, 169910, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2024.169910)
 
 Jin, Y., Liu, Y., <b>Lu, X.</b>, Chen, X., Shen, A., Wang, H., Cui, Y., Xu, Y., Li, S., Liu, J., Zhang, M., Ma, Y., and Fan, Q.: Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia, <b><em>Atmos. Chem. Phys.</em></b>, 24, 367-395, 2024 [[link]](https://doi.org/10.5194/acp-24-367-2024)
 
+Nesser, H., Jacob, D. J., Maasakkers, J. D., Lorente, A., Chen, Z., <b>Lu, X.</b>, Shen, L., Qu, Z., Sulprizio, M. P., Winter, M., Ma, S., Bloom, A. A., Worden, J. R., Stavins, R. N., and Randles, C. A.: High-resolution US methane emissions inferred from an inversion of 2019 TROPOMI satellite data: contributions from individual states, urban areas, and landfills,  <b><em>Atmos. Chem. Phys., 24, 5069-5091, 2024. [[link]](http://doi.org/10.5194/acp-24-5069-2024).
+
 Qin, Y., Wang, H., Wang, Y., <b>Lu, X.</b>, Tang, H., Zhang, J., Li, L., and Fan, S.: Wildfires in Southeast Asia pollute the atmosphere in the northern South China Sea, <b><em>Sci Bull</em></b>, 2024.[[link]](http://doi.org/10.1016/j.scib.2024.02.026)
+
+Shah, V., Keller, C. A., Knowland, K. E., Christiansen, A., Hu, L., Wang, H., <b>Lu, X.</b>, Alexander, B., and Jacob, D. J.: Particulate Nitrate Photolysis as a Possible Driver of Rising Tropospheric Ozone,  <b><em>Geophys. Res. Lett./em></b>, 51, 2024. [[link]](http://doi.org/10.1029/2023gl107980).
 
 Wang, Y., Wang, H., Qin, Y., Xu, X., He, G., Liu, N., Miao, S., <b>Lu, X.</b>, Wang, H., and Fan, S.: Measurement report: Nocturnal subsidence behind the cold front enhances surface particulate matter in plains regions: observations from the mobile multi-lidar system, <b><em>Atmos. Chem. Phys.</em></b>, 24, 2267-2285, 2024.[[link]](http://doi.org/10.5194/acp-24-2267-2024)
 
