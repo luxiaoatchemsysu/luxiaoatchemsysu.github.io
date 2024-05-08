@@ -8,9 +8,9 @@ permalink: /publications/
 
 
 <p></p>
-**ACCM group has published 13 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
+**ACCM group has published 14 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
 
-**Xiao Lu has published over 90 peer-reviewed research articles (25 as first/corresponding author, 22 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(4)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 90 peer-reviewed research articles (26 as first/corresponding author, 23 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(4)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
@@ -18,6 +18,14 @@ permalink: /publications/
 <p></p>
 
 **2024 (10)**
+
+<b>He, C.</b>, <b>Lu, X.* </b>, Zhang, Y., Liu, Z., Jiang, F., Sun, Y., Gao, M., Liu, Y., Lin, H., Yang, J., Lin, X., Wang, Y., Hu, C., and Fan, S.*: Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ./em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
+
+He, Y., Fan, S., Wang, Y., Liu, Y., <b>Lu, X.</b>, Wang, H., He, C., Mai, C., and Du, Y.: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China,  <b><em>Sci. Total Environ./em></b>, 927, 171874, 2024. [[link]](http://doi.org/10.1016/j.scitotenv.2024.171874).
+
+Nesser, H., Jacob, D. J., Maasakkers, J. D., Lorente, A., Chen, Z., <b>Lu, X.</b>, Shen, L., Qu, Z., Sulprizio, M. P., Winter, M., Ma, S., Bloom, A. A., Worden, J. R., Stavins, R. N., and Randles, C. A.: High-resolution US methane emissions inferred from an inversion of 2019 TROPOMI satellite data: contributions from individual states, urban areas, and landfills,  <b><em>Atmos. Chem. Phys., 24, 5069-5091, 2024. [[link]](http://doi.org/10.5194/acp-24-5069-2024).
+
+Shah, V., Keller, C. A., Knowland, K. E., Christiansen, A., Hu, L., Wang, H., <b>Lu, X.</b>, Alexander, B., and Jacob, D. J.: Particulate Nitrate Photolysis as a Possible Driver of Rising Tropospheric Ozone,  <b><em>Geophys. Res. Lett./em></b>, 51, 2024. [[link]](http://doi.org/10.1029/2023gl107980).
 
 <b>Sun, R.</b>, <b>Lu, X.* </b>, Gao, M.*, Du, Y., Lin, H., Wright, C., <b>He, C., and Yin, K.</b>: The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, <b><em>Environmental Research Letters</em></b>, 19, 2024. [[link]](http://doi.org/10.1088/1748-9326/ad2aba).
 
