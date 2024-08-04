@@ -26,7 +26,7 @@
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2016-2020), Chengdu University of Information Technology
   education3: Research interest： Ozone air quality, inverse modeling of GHGs 
-  education4: <a href="https://acp.copernicus.org/articles/22/15243/2022/">ACP2022</a>
+  education4: <a href="https://acp.copernicus.org/articles/22/15243/2022/">ACP2022</a> <a href="https://www.sciencedirect.com/science/article/pii/S0034425724002104?via%3Dihub">RSE2024</a>
 
 - name: Guowen He (何国文)
   photo: Guowen He.jpg
@@ -115,11 +115,11 @@
   photo: Shuai Li.jpg
   info: Master student
   email:
-  number_educ: 3
+  number_educ: 4
   education1: Master student, Sun Yat-sen University
   education2: BS (2019-2023), Sun Yat-sen University
   education3: Research interest： Modeling of atmospheric chemistry
-  education4:
+  education4: <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1889/">ACPD2024</a>
 
 - name: Yangyang Cao (曹扬杨)
   photo: YangyangCao.jpg
