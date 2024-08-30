@@ -1,3 +1,31 @@
+- name: Nanxi Liu (刘南希)
+  photo: NanxiLiu.jpg
+  duration: Master student, 2021-2024
+  email:
+  number_educ: 3
+  education1: MS (2021-2024), SYSU
+  education2: now at regional Meteorological Bureau
+  education3: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1001074223004230">JES2023</a>
+
+- name: Meng Qu (曲梦)
+  photo: MengQu.jpg
+  duration: Undergraduate student, 2021-2022
+  email: 
+  number_educ: 2
+  education1: BS(2018-2022), SYSU 
+  education2: now Ph.D. student at PKU
+  education3:
+  education4:
+
+- name: Fengyi Zhang (张丰翼)
+  photo: FengyiZhang.jpg
+  duration: Undergraduate student, 2021 - 2022
+  email: 
+  number_educ: 2
+  education1: BS(2018-2022), SYSU
+  education2: now master student at CAS
+  education3: 
+
 - name: Ruize Sun (孙瑞泽)
   photo: RuizeSun.jpg
   duration: Undergraduate student, 2021-2023
@@ -17,23 +45,12 @@
   education2: now Ph.D. student at PKU
   education3: <a href="https://pubs.acs.org/doi/10.1021/acs.est.3c01823?ref=PDF">EST2023</a>
   education4:
-  
-- name: Meng Qu (曲梦)
-  photo: MengQu.jpg
-  duration: Undergraduate student, 2021-2022
-  email: 
-  number_educ: 2
-  education1: BS(2018-2022), SYSU 
-  education2: now Ph.D. student at PKU
-  education3:
-  education4:
 
-- name: Fengyi Zhang (张丰翼)
-  photo: FengyiZhang.jpg
-  duration: Undergraduate student, 2021 - 2022
-  email: 
-  number_educ: 2
-  education1: BS(2018-2022), SYSU
-  education2: now master student at CAS
-  education3: 
+- name: Siyi Liu (刘思怡)
+  photo: SiyiLiu.jpg
+  duration: Undergraduate student, 2022-2024
+  email:
+  number_educ: 3
+  education1: BS(2020-2024), SYSU 
+  education2: now Ph.D. student at PKU
 
