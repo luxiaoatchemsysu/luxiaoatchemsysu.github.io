@@ -100,6 +100,8 @@ Reference
 
 He et al. Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ.</em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research-PointCO2.jpg){: style="width: 90%; float: center; margin: 10px"}
+
 
 **——————————————————3. Chemistry-Climate-Ecosystem interactions and model development——————————————————**
 
