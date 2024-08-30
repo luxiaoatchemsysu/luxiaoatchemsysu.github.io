@@ -131,21 +131,14 @@
   education3: Research interest： Greenhouse gas
   education4:
 
-- name: Siyi Liu (刘思怡)
-  photo: SiyiLiu.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 2
-  education1: Undergraduate student (2020-), Sun Yat-sen University
-  education2: Research interest： Aerosol chemistry and air quality
-
 - name: Xiyao Bai (白熙瑶)
   photo: XiyaoBai.jpg
-  info: Undergraduate student
+  info: Master student
   email:
-  number_educ: 2
-  education1: Undergraduate student (2020-), Sun Yat-sen University
-  education2: Research interest： Greenhouse gas
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2019-2023), Sun Yat-sen University
+  education3: Research interest： Greenhouse gas
   
 - name: "This could be you !"
   photo: Pikaqiu.jpg
