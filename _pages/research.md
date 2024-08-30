@@ -9,8 +9,8 @@ permalink: /research/
 
 # Research
 **Our research group focuses on a wide range of topics on atmospheric chemistry, greenhouse gases, and climate change, including:**
-- **Source, chemistry, transport, and sink of air pollutants**
-  **大气污染物（活性氮、臭氧、细颗粒物）的排放、化学、传输、沉降过程**
+- **Source, chemistry, transport, and sink of air components**
+  **大气组分（活性氮、臭氧、细颗粒物、自由基）的排放、化学、传输、沉降过程**
 - **Greenhouse gases budgets from bottom-up and top-down methods**
   **温室气体收支：结合自上而下及自下而上方法**
 - **Chemistry-Climate-Ecosystem interactions and model development**
@@ -28,7 +28,7 @@ We are continuously tracking ozone trends from surface to troposphere, using mul
 
 Reference
 
-Wang, H. et al. submitted
+Wang, H. et al. Deciphering decadal urban ozone trends from historical records since 1980, <b><em>Natutional Science Reivew </em></b>, in press
 
 Wang, H. et al. Increased night-time oxidation over China despite widespread decrease across the globe, <b><em>Nature Geoscience</em></b>, 2023. [[link]](http://doi.org/10.1038/s41561-022-01122-x)
 
@@ -98,7 +98,7 @@ We have developed new methods for quantifying CO2 emissions from point-source po
 
 Reference
 
-He et al. submitted
+He et al. Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ.</em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
 
 
 **——————————————————3. Chemistry-Climate-Ecosystem interactions and model development——————————————————**
