@@ -8,6 +8,14 @@
   education3: BS (2010-2014), Sun Yat-sen University
   education4: <a href="https://atmos.sysu.edu.cn/teacher/2887">学院教师主页</a>
 
+- name: Yunbo Lu (陆云波)
+  photo: Minions.jpg
+  info: Postdoctoral Fellow
+  email: wanghlin25@mail2.sysu.edu.cn
+  number_educ: 2
+  education1: Ph.D., 2024, China University of Geosciences (Wuhan)
+  education2: Research interest： Atmospheric Radiation and air quality
+ 
 - name: Haolin Wang (王浩霖)
   photo: HaolinWang.jpg
   info: Ph.D. candidate (co-supervised)
@@ -21,7 +29,6 @@
 - name: Cheng He (何成)
   photo: ChengHe2.JPG
   info: Ph.D. candidate (co-supervised)
-  email: hech58@mail2.sysu.edu.cn
   number_educ: 4
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2016-2020), Chengdu University of Information Technology
@@ -44,7 +51,7 @@
   number_educ: 2
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: BS (2015-2019), Chengdu University of Information Technology
-  education3: Research interest： Air Pollution and solar energy
+  education3: Research interest： Atmospheric Radiation and air quality
 
 - name: Haofan Wang (王浩帆)
   photo: HaofanWang.jpg
@@ -56,7 +63,7 @@
 
 - name: Jingyu Li (李婧宇)
   photo: JingyuLi.jpg
-  info: Master student
+  info:  Ph.D. candidate (co-supervised)
   email:
   number_educ: 3
   education1: Master student, Sun Yat-sen University
@@ -65,7 +72,7 @@
 
 - name: Xiaodong Huang (黄晓东)
   photo: Xiaodong Huang.jpg
-  info: Master student (co-supervised)
+  info:  Ph.D. candidate (co-supervised)
   email:
   number_educ: 3
   education1: Master student, Sun Yat-sen University
@@ -74,7 +81,7 @@
 
 - name: Ganquan Zeng  (曾淦泉)
   photo: Minions.jpg
-  info: Master student
+  info:  Ph.D. candidate 
   email:
   number_educ: 3
   education1: Master student, Sun Yat-sen University
@@ -87,8 +94,9 @@
   email:
   number_educ: 3
   education1: Master student, Sun Yat-sen University
-  education2: BS (2018-2022)
+  education2: BS (2018-2022), Nanjing University of Information Science and Technology
   education3: Research interest：Wetland methane emissions
+  education3: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004794">Earth's Future2024</a>
 
 - name: Jiayin Su (苏嘉茵)
   photo: Jiayin Su.jpg
@@ -99,7 +107,6 @@
   education2: BS (2019-2023), Sun Yat-sen University
   education3: Research interest： Modeling of atmospheric chemistry
   education4:
-
 
 - name: Shuai Li (李帅)
   photo: Shuai Li.jpg
@@ -128,8 +135,49 @@
   number_educ: 3
   education1: Master student, Sun Yat-sen University
   education2: BS (2020-2024), Sun Yat-sen University
-  education3: Research interest： Greenhouse gas
-  
+  education3: Research interest： Greenhouse gas modeling
+
+- name: Shuai Li (李天泽)
+  photo: Minions.jpg
+  info: Master student  (co-supervised)
+  email:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2020-2024), Guangdong University of Technology
+  education3: Research interest： Greenhouse gas emissions
+
+- name: Xiao Deng (邓笑)
+  photo: Minions.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student, Sun Yat-sen University
+  education3: Research interest： Atmospheric chemistry modeling
+
+- name: Jingcheng Lai (赖菁程)
+  photo: Minions.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student,  Nanjing University of Information Science and Technology
+  education3: Research interest： AI in atmospheric chemistry
+
+- name: Xiao Yang (杨骁)
+  photo: Minions.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student, Sun Yat-sen University
+  education3: Research interest： Climate-Chemistry interactions
+
+- name: Xinyu Yin (殷昕雨)
+  photo: Minions.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student, Sun Yat-sen University
+  education3: Research interest： Atmospheric chemistry modeling
+
 - name: "This could be you !"
   photo: Pikaqiu.jpg
   info: Be who you wanna be
