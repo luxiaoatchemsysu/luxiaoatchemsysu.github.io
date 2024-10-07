@@ -39,7 +39,7 @@ Huang, M., Tao, S., Zhu, K., Feng, H., <b>Lu, X.</b>, Hang, J., and Wang, X.: Ap
 
 Jin, Y., Liu, Y., <b>Lu, X.</b>, Chen, X., Shen, A., Wang, H., Cui, Y., Xu, Y., Li, S., Liu, J., Zhang, M., Ma, Y., and Fan, Q.: Measurement report: Assessing the impacts of emission uncertainty on aerosol optical properties and radiative forcing from biomass burning in peninsular Southeast Asia, <b><em>Atmos. Chem. Phys.</em></b>, 24, 367-395, 2024 [[link]](https://doi.org/10.5194/acp-24-367-2024)
 
-Nesser, H., Jacob, D. J., Maasakkers, J. D., Lorente, A., Chen, Z., <b>Lu, X.</b>, Shen, L., Qu, Z., Sulprizio, M. P., Winter, M., Ma, S., Bloom, A. A., Worden, J. R., Stavins, R. N., and Randles, C. A.: High-resolution US methane emissions inferred from an inversion of 2019 TROPOMI satellite data: contributions from individual states, urban areas, and landfills,  <b><em>Atmos. Chem. Phys., 24, 5069-5091, 2024. [[link]](http://doi.org/10.5194/acp-24-5069-2024).
+Nesser, H., Jacob, D. J., Maasakkers, J. D., Lorente, A., Chen, Z., <b>Lu, X.</b>, Shen, L., Qu, Z., Sulprizio, M. P., Winter, M., Ma, S., Bloom, A. A., Worden, J. R., Stavins, R. N., and Randles, C. A.: High-resolution US methane emissions inferred from an inversion of 2019 TROPOMI satellite data: contributions from individual states, urban areas, and landfills,  <b><em>Atmos. Chem. Phys.</em></b>, 24, 5069-5091, 2024. [[link]](http://doi.org/10.5194/acp-24-5069-2024).
 
 Qin, Y., Wang, H., Wang, Y., <b>Lu, X.</b>, Tang, H., Zhang, J., Li, L., and Fan, S.: Wildfires in Southeast Asia pollute the atmosphere in the northern South China Sea, <b><em>Sci Bull</em></b>, 2024.[[link]](http://doi.org/10.1016/j.scib.2024.02.026)
 
