@@ -17,7 +17,7 @@ permalink: /publications/
 **Publication list**
 <p></p>
 
-**2024 (14)**
+**2024 (17)**
 
 <b>He, C.</b>, <b>Lu, X.* </b>, Zhang, Y., Liu, Z., Jiang, F., Sun, Y., Gao, M., Liu, Y., Lin, H., Yang, J., Lin, X., Wang, Y., Hu, C., and Fan, S.*: Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ.</em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
 
@@ -27,7 +27,11 @@ permalink: /publications/
 
 Zhang, X., <b>Lu, X. * </b>, Wang, F., Zhou, W., Wang, P., and Gao, M.*: Enhanced Late Spring Ozone in Southern China by Early Onset of the South China Sea Summer Monsoon, <b><em>J. Geophys. Res.</em></b>, 129, 2024.[[link]](http://doi.org/10.1029/2023jd039029)
 
+<b>Xiao, H.</b>, Song, C., Li, S., <b>Lu, X.</b>, Liang, M., Xia, X., and Yuan, W.: Global Wetland Methane Emissions From 2001 to 2020: Magnitude, Dynamics and Controls, <b><em>Earth's Future</em></b>, 12,  2024. [[link]](http://doi.org/10.1029/2024ef004794)
+
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
+
+Chen, H., <b>Lu, X.</b>, Wang, H., Pei, C., Qiu, X., Gao, R., Wang, C., and Fan, S.: Vertical distribution of ozone in spring based on two high tower observations over the Pearl River Delta, China, <b><em>Atmos. Environ.</em></b>, 337, 2024 [[link]](http://doi.org/10.1016/j.atmosenv.2024.120772)
 
 He, Y., Fan, S., Wang, Y., Liu, Y., <b>Lu, X.</b>, Wang, H., He, C., Mai, C., and Du, Y.: Influence of boundary layer jets on the vertical distribution of ozone in Guangdong, China,  <b><em>Sci. Total Environ.</em></b>, 927, 171874, 2024. [[link]](http://doi.org/10.1016/j.scitotenv.2024.171874).
 
@@ -46,6 +50,8 @@ Wang, Y., Wang, H., Qin, Y., Xu, X., He, G., Liu, N., Miao, S., <b>Lu, X.</b>, W
 Ye, X., Zhang, L., Wang, X., <b>Lu, X.</b>, Jiang, Z., Lu, N., Li, D., and Xu, J.: Spatial and temporal variations of surface background ozone in China analyzed with the grid-stretching capability of GEOS-Chem High Performance, <b><em>Sci. Total Environ.</em></b>, 169909, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2024.169909)
 
 Zhu, Y., Liu, Y., Li, S., Wang, H., <b>Lu, X.</b>, Wang, H., Shen, C., Chen, X., Chan, P., Shen, A., Wang, H., Jin, Y., Xu, Y., Fan, S., and Fan, Q.: Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions, <b><em>Sci. Total Environ.</em></b>, 906, 167485, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2023.167485)
+
+Zhang, J., Shen, A., Jin, Y. B., Cui, Y. P., Xu, Y. F., <b>Lu, X.</b>, Liu, Y. M., and Fan, Q.: Evolution of ozone formation regimes during different periods in representative regions of China, <b><em>Atmos. Environ.</em></b>, 338, 2024. [[link]](http://doi.org/10.1016/j.atmosenv.2024.120830)
 
 **2023 (18)**
 
