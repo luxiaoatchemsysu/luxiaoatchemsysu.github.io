@@ -9,7 +9,7 @@
   education4: <a href="https://atmos.sysu.edu.cn/teacher/2887">学院教师主页</a>
 
 - name: Yunbo Lu (陆云波)
-  photo: Minions.jpg
+  photo: YunboLu.jpg
   info: Postdoctoral Fellow
   email: wanghlin25@mail2.sysu.edu.cn
   number_educ: 2
@@ -151,32 +151,32 @@
   info: Undergraduate student
   email:
   number_educ: 2
-  education1: Undergraduate student, Sun Yat-sen University
-  education3: Research interest： Atmospheric chemistry modeling
+  education1: Undergraduate student (2021-), Sun Yat-sen University
+  education2: Research interest： Atmospheric chemistry modeling
 
 - name: Jingcheng Lai (赖菁程)
-  photo: Minions.jpg
+  photo: JingchengLai.jpg
   info: Undergraduate student
   email:
   number_educ: 2
-  education1: Undergraduate student,  Nanjing University of Information Science and Technology
-  education3: Research interest： AI in atmospheric chemistry
+  education1: Undergraduate student (2021-),  Nanjing University of Information Science and Technology
+  education2: Research interest： AI in atmospheric chemistry
 
 - name: Xiao Yang (杨骁)
   photo: Minions.jpg
   info: Undergraduate student
   email:
   number_educ: 2
-  education1: Undergraduate student, Sun Yat-sen University
-  education3: Research interest： Climate-Chemistry interactions
+  education1: Undergraduate student(2021-), Sun Yat-sen University
+  education2: Research interest： Climate-Chemistry interactions
 
 - name: Xinyu Yin (殷昕雨)
   photo: Minions.jpg
   info: Undergraduate student
   email:
   number_educ: 2
-  education1: Undergraduate student, Sun Yat-sen University
-  education3: Research interest： Atmospheric chemistry modeling
+  education1: Undergraduate student(2021-), Sun Yat-sen University
+  education2: Research interest： Atmospheric chemistry modeling
 
 - name: "This could be you !"
   photo: Pikaqiu.jpg
