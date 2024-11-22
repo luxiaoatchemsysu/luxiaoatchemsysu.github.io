@@ -70,5 +70,5 @@ Our research group will be focusing on a wide range of topics on atmospheric che
 See our research here (see [Research](research) [Publications](publications)).
 
 
- **We are  looking for passionate Rearch Fellow, Postdocs, Master students, and Undergrate students to our group!** [(more info)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
+ **We are  looking for passionate Rearch Fellow, Postdocs, Ph.D. and master students, and undergrate students to join our group!** [(more info)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
 
