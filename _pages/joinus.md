@@ -9,7 +9,7 @@ permalink: /joinus/
 
 Please contact luxiao25@mail.sysu.edu.cn if you have interests in any position in the group.
 
-**欢迎对大气化学、空气质量、气候变化感兴趣的同行（专职科研岗）和同学们（博士后，硕士生，本科生）加入我们！**
+**欢迎对大气化学、空气质量、气候变化感兴趣的同行（专职科研岗）和同学们（博士后，博士生，硕士生，本科生）加入我们！**
 
 **联系方式**
 
