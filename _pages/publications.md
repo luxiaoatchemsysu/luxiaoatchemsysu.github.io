@@ -19,7 +19,7 @@ permalink: /publications/
 
 **2024 (22)**
 
-<b>Wang, H., Lu, X.*</b>, Palmer, P. I., Zhang, L., Lu, K., Li, K., Nagashima, T., Koo, J.-H., Tanimoto, H., Wang, H., Gao, M., <b>He, C.</b>, Wu, K., Fan, S.*, and Zhang, Y.*: Deciphering decadal urban ozone trends from historical records since 1980, <b><em>National Science Review</em></b>, 2024. [[link]](https://doi.org/10.1093/nsr/nwae369).
+<b>Wang, H., Lu, X.* </b>, Palmer, P. I., Zhang, L., Lu, K., Li, K., Nagashima, T., Koo, J.-H., Tanimoto, H., Wang, H., Gao, M., <b>He, C.</b>, Wu, K., Fan, S.*, and Zhang, Y.*: Deciphering decadal urban ozone trends from historical records since 1980, <b><em>National Science Review</em></b>, 2024. [[link]](https://doi.org/10.1093/nsr/nwae369).
 
 <b>He, C.</b>, <b>Lu, X.* </b>, Zhang, Y., Liu, Z., Jiang, F., Sun, Y., Gao, M., Liu, Y., Lin, H., Yang, J., Lin, X., Wang, Y., Hu, C., and Fan, S.*: Revisiting the quantification of power plant CO2 emissions in the United States and China from satellite: A comparative study using three top-down approaches, <b><em>Remote Sens. Environ.</em></b>, 308, 2024. [[link]](http://doi.org/10.1016/j.rse.2024.114192).
 
