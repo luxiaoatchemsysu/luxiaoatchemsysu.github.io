@@ -65,10 +65,11 @@
   photo: JingyuLi.jpg
   info:  Ph.D. candidate (co-supervised)
   email:
-  number_educ: 3
+  number_educ: 4
   education1: Master student, Sun Yat-sen University
   education2: BS (2018-2022), Sun Yat-sen University
   education3: Research interest： Climate-chemistry interactions 
+  education4: <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-782/">ACPD2025</a>
 
 - name: Xiaodong Huang (黄晓东)
   photo: Xiaodong Huang.jpg
@@ -116,7 +117,7 @@
   education1: Master student, Sun Yat-sen University
   education2: BS (2019-2023), Sun Yat-sen University
   education3: Research interest： Modeling of atmospheric chemistry
-  education4: <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1889/">ACPD2024</a>
+  education4: <a href="https://acp.copernicus.org/articles/25/2725/2025/">ACP2025</a>
 
 - name: Yangyang Cao (曹扬杨)
   photo: YangyangCao.jpg
