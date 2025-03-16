@@ -10,14 +10,33 @@ permalink: /publications/
 <p></p>
 **ACCM group has published 18 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
 
-**Xiao Lu has published over 100 peer-reviewed research articles (27 as first/corresponding author, 23 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 100 peer-reviewed research articles (28 as first/corresponding author, 25 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
 **Publication list**
 <p></p>
 
-**2024 (22)**
+**2025 (8)**
+
+<b>Li, S., Wang, H., and Lu, X.*</b>: Anthropogenic emission controls reduce summertime ozone–temperature sensitivity in the United States, <b><em>Atmos. Chem. Phys.</em></b>, 25, 2725-2743, 2025 [[link]](https://doi.org/10.5194/acp-25-2725-2025)
+
+<b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2025.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
+
+Huang, Y., <b>Li, S.</b>, Zhu, Y., Liu, Y., Hong, Y., Chen, X., Deng, W., Xi, X., <b>Lu, X.</b>, and Fan, Q.: Increasing Sea‐Land Breeze Frequencies Over Coastal Areas of China in the Past Five Decades, <b><em>Geophys. Res. Lett.</em></b>, 52, 2025 [[link]](https://doi.org/10.1029/2024gl112480)
+
+Liu, Z., Zhou, M., Li, D., Song, T., Yue, X., <b>Lu, X.</b>, Zhao, Y., and Zhang, L.: Co-benefit of forestation on ozone air quality and carbon storage in South China, <b><em>Nature Communications</em></b>, 16, 2025 [[link]](https://doi.org/10.1038/s41467-025-57548-5)
+
+Lou, Z., Zhang, H., Zhao, X., Liu, Q., Liang, M., Wang, H., Yang, H., Cai, B., Lu, J., Cui, Y., Wu, J., Teng, F., <b>Lu, X.</b>, Yuan, W., and Liu, M.: High-resolution mapping of CH4/N2O emissions from industrialization-related anthropogenic sources in China, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwae481)
+
+Wang, Y., Zhang, Y., Tian, X., Wang, X., Yuan, W., Ding, J., Jiang, F., Jin, Z., Ju, W., Liang, R., <b>Lu, X.</b>, Shen, L., Sun, S., Wang, T., Zhang, H., Zhao, M., and Piao, S.: Towards verifying and improving estimations of China's CO2 and CH4 budgets using atmospheric inversions, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwaf090).
+
+Yuan, W., Liang, M., Gao, Y., Huang, L., Dan, L., Duan, H., Hong, S., Jiang, F., Ju, W., Li, T., Lou, Z., Luan, S., <b>Lu, X.</b>, Qin, Z., Ran, L., Shen, L., Teng, F., Tian, X., Wang, Y., Wei, J., Xia, J., Xia, X., Yu, L., Yue, X., Zhang, H., Zhang, W., Zhang, Y., Zhao, X., Zhu, Q., Piao, S., and Wang, X.: China's greenhouse gas budget during 2000-2023, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwaf069)
+
+Zhao, Y., Su, Z., Chen, Y., Hou, S., <b>Lu, X.</b>, Zheng, B., Liu, L., Pan, Y., Xu, W., Liu, X., and Zhang, L.: Rising importance of agricultural nitrogen oxide emissions in China’s future PM2.5 pollution mitigation, <b><em>npj Climate and Atmospheric Science</em></b>, 8, 2025 [[link]](https://doi.org/10.1038/s41612-025-00976-3)
+
+
+**2024 (23)**
 
 <b>Wang, H., Lu, X.* </b>, Palmer, P. I., Zhang, L., Lu, K., Li, K., Nagashima, T., Koo, J.-H., Tanimoto, H., Wang, H., Gao, M., <b>He, C.</b>, Wu, K., Fan, S.*, and Zhang, Y.*: Deciphering decadal urban ozone trends from historical records since 1980, <b><em>National Science Review</em></b>, 2024. [[link]](https://doi.org/10.1093/nsr/nwae369).
 
@@ -25,15 +44,17 @@ permalink: /publications/
 
 <b>Sun, R.</b>, <b>Lu, X.* </b>, Gao, M.*, Du, Y., Lin, H., Wright, C., <b>He, C., and Yin, K.</b>: The impacts of shipping emissions on lightning: roles of aerosol-radiation-interactions and aerosol-cloud-interactions, <b><em>Environmental Research Letters</em></b>, 19, 2024. [[link]](http://doi.org/10.1088/1748-9326/ad2aba).
 
-<b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2025.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
-
 Zhang, X., <b>Lu, X. * </b>, Wang, F., Zhou, W., Wang, P., and Gao, M.*: Enhanced Late Spring Ozone in Southern China by Early Onset of the South China Sea Summer Monsoon, <b><em>J. Geophys. Res.</em></b>, 129, 2024.[[link]](http://doi.org/10.1029/2023jd039029)
 
 <b>Xiao, H.</b>, Song, C., Li, S., <b>Lu, X.</b>, Liang, M., Xia, X., and Yuan, W.: Global Wetland Methane Emissions From 2001 to 2020: Magnitude, Dynamics and Controls, <b><em>Earth's Future</em></b>, 12,  2024. [[link]](http://doi.org/10.1029/2024ef004794)
 
+Cao, T., Wang, H., Chen, X., Li, L., <b>Lu, X.</b>, Lu, K., and Fan, S.: Rapid increase in spring ozone in the Pearl River Delta, China during 2013-2022, <b><em>npj Climate and Atmospheric Science</em></b>, 7, 2024 [[link]](https://doi.org/10.1038/s41612-024-00847-3)
+
 Cao, T.; Wang, H.; Li, L.; <b>Lu, X.</b>; Liu, Y.; Fan, S.: Fast spreading of surface ozone in both temporal and spatial scale in Pearl River Delta. <b><em>Journal of Environmental Sciences</em></b>,  137, 540-552, 2024 [[link]](https://doi.org/10.1016/j.jes.2023.02.025)
 
 Chen, H., <b>Lu, X.</b>, Wang, H., Pei, C., Qiu, X., Gao, R., Wang, C., and Fan, S.: Vertical distribution of ozone in spring based on two high tower observations over the Pearl River Delta, China, <b><em>Atmos. Environ.</em></b>, 337, 2024 [[link]](http://doi.org/10.1016/j.atmosenv.2024.120772)
+
+Gao, M., Wang, F., Xu, Y., Chen, J., <b>Lu, X.</b>, and Carmichael, G. R.: Future intensification of co-occurrences of heat, PM2.5 and O3 extremes in China and India despite stringent air pollution controls, <b><em>Environmental Research Letters</em></b>, 20, 2024 [[link]](https://doi.org/10.1088/1748-9326/ad961d)
 
 Han, H., Zhang, L., Wang, X., and Lu, X.: Contrasting Domestic and Global Impacts of Emission Reductions in China on Tropospheric Ozone, <b><em>J. Geophys. Res.</em></b>, 129, 2024 [[link]](https://doi.org/10.1029/2024jd041453).
 
