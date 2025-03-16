@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <p></p>
-**ACCM group has published 18 peer-reviewed research articles (team members as first/corresponding author) since its born from May 2021.**
+**ACCM group has published 13 peer-reviewed SCI research articles (team members as first/corresponding author) since 2022.**
 
 **Xiao Lu has published over 100 peer-reviewed research articles (28 as first/corresponding author, 25 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
