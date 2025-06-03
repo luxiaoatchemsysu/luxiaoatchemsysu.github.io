@@ -11,11 +11,17 @@
 - name: Yunbo Lu (陆云波)
   photo: YunboLu.jpg
   info: Postdoctoral Fellow
-  email: wanghlin25@mail2.sysu.edu.cn
   number_educ: 2
   education1: Ph.D. (2024), China University of Geosciences (Wuhan)
   education2: Research interest： Atmospheric Radiation and air quality
- 
+
+- name: Xiang Weng (翁翔)
+  photo: Pikaqiu.jpg
+  info: Postdoctoral Fellow 
+  number_educ: 2
+  education1: Ph.D. (2024), University of East Anglia
+  education2: Research interest： Atmospheric Chemistry modeling and machine learning
+
 - name: Haolin Wang (王浩霖)
   photo: HaolinWang.jpg
   info: Ph.D. 
@@ -57,9 +63,10 @@
   photo: HaofanWang.jpg
   info: Ph.D. candidate (co-supervised)
   email: 
-  number_educ: 2
+  number_educ: 3
   education1: Ph.D. candidate, Sun Yat-sen University
   education2: Research interest： Air quantily and carbon reduction
+  education3: <a href="https://acp.copernicus.org/articles/25/5233/2025/">ACP2025</a>
 
 - name: Jingyu Li (李婧宇)
   photo: JingyuLi.jpg
