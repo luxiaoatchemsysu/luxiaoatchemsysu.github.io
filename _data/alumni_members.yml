@@ -10,7 +10,6 @@
 - name: Cheng He (何成)
   photo: ChengHe2.JPG
   duration: Ph.D. student, 2020-2025
-  info: Ph.D. (co-supervised)
   number_educ: 3
   education1: Ph.D. (2019-2024), Sun Yat-sen University
   education2: Now Boya-postdoc at Peking Univerversity
@@ -27,7 +26,7 @@
   
 - name: Han Xiao  (肖涵)
   photo: HanXiao.jpg
-  info: Master student
+  duration: Master student, 2022-2025
   email:
   number_educ: 3
   education1: MS (2022-2025), SYSU
