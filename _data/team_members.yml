@@ -16,20 +16,11 @@
   education2: Research interest： Atmospheric Radiation and air quality
 
 - name: Xiang Weng (翁翔)
-  photo: Pikaqiu.jpg
+  photo: XiangWeng.jpg
   info: Postdoctoral Fellow 
   number_educ: 2
   education1: Ph.D. (2024), University of East Anglia
   education2: Research interest： Atmospheric Chemistry modeling and machine learning
-
-- name: Cheng He (何成)
-  photo: ChengHe2.JPG
-  info: Ph.D. (co-supervised)
-  number_educ: 4
-  education1: Ph.D. candidate, Sun Yat-sen University
-  education2: BS (2016-2020), Chengdu University of Information Technology
-  education3: Research interest： Ozone air quality, inverse modeling of GHGs 
-  education4: <a href="https://acp.copernicus.org/articles/22/15243/2022/">ACP2022</a> <a href="https://www.sciencedirect.com/science/article/pii/S0034425724002104?via%3Dihub">RSE2024</a>
 
 - name: Guowen He (何国文)
   photo: Guowen He.jpg
@@ -86,16 +77,6 @@
   education2: BS (2018-2022), Jinan University
   education3: Research interest：Machine Learning in Atmospheric Chemistry
 
-- name: Han Xiao  (肖涵)
-  photo: HanXiao.jpg
-  info: Master student
-  email:
-  number_educ: 3
-  education1: Master student, Sun Yat-sen University
-  education2: BS (2018-2022), Nanjing University of Information Science and Technology
-  education3: Research interest：Wetland methane emissions
-  education3: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004794">Earth's Future2024</a>
-
 - name: Jiayin Su (苏嘉茵)
   photo: Jiayin Su.jpg
   info: Ph.D. student (co-supervised)
@@ -143,14 +124,6 @@
   education1: Master student, Sun Yat-sen University
   education2: BS (2019-2024), Guangdong University of Technology
   education3: Research interest： Greenhouse gas emissions
-
-- name: Xiao Deng (邓笑)
-  photo: XiaoDeng.jpg
-  info: Undergraduate student
-  email:
-  number_educ: 2
-  education1: Undergraduate student (2021-), Sun Yat-sen University
-  education2: Research interest： Atmospheric chemistry modeling
 
 - name: Jingcheng Lai (赖菁程)
   photo: JingchengLai.jpg
