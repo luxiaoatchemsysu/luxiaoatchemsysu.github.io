@@ -4,8 +4,17 @@
   email:
   number_educ: 3
   education1: Ph.D. (2019-2024), Sun Yat-sen University
-  education2: Now postdoc at HKBU
+  education2: Now postdoc at U. of Edinburgh (UK)
   education3: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD034317">JGR2021</a> <a href="https://doi.org/10.5194/acp-22-13753-2022">ACP2022</a> <a href="https://www.nature.com/articles/s41561-022-01122-x">NG2023</a> <a href="https://doi.org/10.1093/nsr/nwae369">NSR2024</a>  
+
+- name: Cheng He (何成)
+  photo: ChengHe2.JPG
+  duration: Ph.D. student, 2020-2025
+  info: Ph.D. (co-supervised)
+  number_educ: 3
+  education1: Ph.D. (2019-2024), Sun Yat-sen University
+  education2: Now Boya-postdoc at Peking Univerversity
+  education4: <a href="https://acp.copernicus.org/articles/22/15243/2022/">ACP2022</a> <a href="https://www.sciencedirect.com/science/article/pii/S0034425724002104?via%3Dihub">RSE2024</a>
 
 - name: Nanxi Liu (刘南希)
   photo: NanxiLiu.jpg
@@ -15,6 +24,16 @@
   education1: MS (2021-2024), SYSU
   education2: now at regional Meteorological Bureau
   education3: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1001074223004230">JES2023</a>
+  
+- name: Han Xiao  (肖涵)
+  photo: HanXiao.jpg
+  info: Master student
+  email:
+  number_educ: 3
+  education1: MS (2022-2025), SYSU
+  education2: now at regional Meteorological Bureau
+  education3: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004794">Earth's Future2024</a>
+
 
 - name: Meng Qu (曲梦)
   photo: MengQu.jpg
@@ -32,7 +51,7 @@
   email: 
   number_educ: 2
   education1: BS(2018-2022), SYSU
-  education2: now master student at CAS
+  education2: M.S. from CAS
   education3: 
 
 - name: Ruize Sun (孙瑞泽)
@@ -63,3 +82,10 @@
   education1: BS(2020-2024), SYSU 
   education2: now Ph.D. student at PKU
 
+- name: Xiao Deng (邓笑)
+  photo: XiaoDeng.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: BS(2021-2025), SYSU 
+  education2: now Ph.D. student at PKU
