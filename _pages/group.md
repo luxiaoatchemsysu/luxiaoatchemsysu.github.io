@@ -125,12 +125,12 @@ permalink: /group/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2025summer1.png){: style="width: 80%; float: center; margin: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2025Summer2.JPG){: style="width: 80%; float: center; margin: 10px"}
 
-**May 2025 Group Re-union at GEOS-Chem Asia meeting (GCA2)**
+**May 2025 Group reunion at GEOS-Chem Asia meeting (GCA2)**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/202505GCA2.jpg){: style="width: 80%; float: center; margin: 10px"}
 
 
-**June 2024 SYSU 100yr Anniversiry**
+**June 2024 SYSU 100yr Anniversary**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/202411SYSU100yr.jpg){: style="width: 80%; float: center; margin: 10px"}
 
