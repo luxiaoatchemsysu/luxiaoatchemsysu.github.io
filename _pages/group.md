@@ -120,19 +120,33 @@ permalink: /group/
 {% endif %}
 
 ## Group Photos
-**June 2024**
+**June 2025 Graduation season**
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2025summer1.jpg){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2025Summer2.jpg){: style="width: 80%; float: center; margin: 10px"}
+
+**May 2025 Group Re-union at GEOS-Chem Asia meeting (GCA2)**
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/2025GCA2.jpg){: style="width: 80%; float: center; margin: 10px"}
+
+
+**June 2024 SYSU 100yr Anniversiry**
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/202411SYSU100yr.jpg){: style="width: 80%; float: center; margin: 10px"}
+
+**June 2024 Graduation season**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2024P1.jpg){: style="width: 80%; float: center; margin: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2024P3.jpg){: style="width: 80%; float: center; margin: 10px"}
 
-**June 2023**
+**June 2023 Graduation season**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2023summer1.jpg){: style="width: 80%; float: center; margin: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2023summer2.jpg){: style="width: 80%; float: center; margin: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2023summer3.jpg){: style="width: 80%; float: center; margin: 10px"}
 
 
-**June 2022**
+**June 2022 Graduation season**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2022summer3.JPG){: style="width: 80%; float: center; margin: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/2022summer1.JPG){: style="width: 80%; float: center; margin: 10px"}
