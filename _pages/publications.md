@@ -8,16 +8,18 @@ permalink: /publications/
 
 
 <p></p>
-**ACCM group has published 13 peer-reviewed SCI research articles (team members as first/corresponding author) since 2022.**
+**ACCM group has published 14 peer-reviewed SCI research articles (team members as first/corresponding author) since 2022.**
 
-**Xiao Lu has published over 100 peer-reviewed research articles (28 as first/corresponding author, 25 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 100 peer-reviewed research articles (30 as first/corresponding author, 26 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
-**Publication list**
+**Publication list (First or Corres. Author/All)**
 <p></p>
 
-**2025 (8)**
+**2025 (3/12)**
+
+<b>Lu, X.#*</b>, Liu, Y.#, <b>Su, J.#, Weng, X.#</b>, Ansari, T.#, Zhang, Y.#, <b>He, G.</b>, Zhu, Y.,<b> Wang, H., Zeng, G., Li, J., He, C., Li, S.</b>, Amnuaylojaroen, T., Butler, T., Fan, Q., Fan, S., Forster, G. L., Gao, M., Hu, J., Kanaya, Y., Latif, M. T., Lu, K., Nédélec, P., Nowack, P., Sauvage, B., Xu, X., Zhang, L., Li, K., Koo, J.-H., and Nagashima, T.: Tropospheric ozone trends and attributions over East and Southeast Asia in 1995–2019: an integrated assessment using statistical methods, machine learning models, and multiple chemical transport models,<b><em> Atmos. Chem. Phys.</em></b>, 25, 7991-8028, 2025 [[link]](https://doi.org/10.5194/acp-25-7991-2025)
 
 <b>Li, S., Wang, H., and Lu, X.*</b>: Anthropogenic emission controls reduce summertime ozone–temperature sensitivity in the United States, <b><em>Atmos. Chem. Phys.</em></b>, 25, 2725-2743, 2025 [[link]](https://doi.org/10.5194/acp-25-2725-2025)
 
@@ -25,9 +27,13 @@ permalink: /publications/
 
 Huang, Y., <b>Li, S.</b>, Zhu, Y., Liu, Y., Hong, Y., Chen, X., Deng, W., Xi, X., <b>Lu, X.</b>, and Fan, Q.: Increasing Sea‐Land Breeze Frequencies Over Coastal Areas of China in the Past Five Decades, <b><em>Geophys. Res. Lett.</em></b>, 52, 2025 [[link]](https://doi.org/10.1029/2024gl112480)
 
+Liu, C., Wang, H., Li, L., Chen, X., <b>Lu, X.</b>, and Fan, S.: Impacts of sea-land breeze on the coastal ozone in the Pearl River Delta, China, <b><em>Journal of Environmental Sciences</em></b>, 2025 [[link]](https://doi.org/10.1016/j.jes.2025.08.037)
+
 Liu, Z., Zhou, M., Li, D., Song, T., Yue, X., <b>Lu, X.</b>, Zhao, Y., and Zhang, L.: Co-benefit of forestation on ozone air quality and carbon storage in South China, <b><em>Nature Communications</em></b>, 16, 2025 [[link]](https://doi.org/10.1038/s41467-025-57548-5)
 
 Lou, Z., Zhang, H., Zhao, X., Liu, Q., Liang, M., Wang, H., Yang, H., Cai, B., Lu, J., Cui, Y., Wu, J., Teng, F., <b>Lu, X.</b>, Yuan, W., and Liu, M.: High-resolution mapping of CH4/N2O emissions from industrialization-related anthropogenic sources in China, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwae481)
+
+<b>Wang, H.</b>, Li, Y., Liu, Y., <b>Lu, X.</b>, Zhang, Y., Fan, Q., Shen, C., Lai, S., Zhou, Y., Zhang, T., and Yue, D.: Underappreciated contributions of biogenic volatile organic compounds from urban green spaces to ozone pollution, <b><em> Atmos. Chem. Phys.</em></b>, 25, 5233-5250, 2025 [[link]](https://doi.org/10.5194/acp-25-5233-2025)
 
 Wang, Y., Zhang, Y., Tian, X., Wang, X., Yuan, W., Ding, J., Jiang, F., Jin, Z., Ju, W., Liang, R., <b>Lu, X.</b>, Shen, L., Sun, S., Wang, T., Zhang, H., Zhao, M., and Piao, S.: Towards verifying and improving estimations of China's CO2 and CH4 budgets using atmospheric inversions, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwaf090).
 
@@ -35,8 +41,9 @@ Yuan, W., Liang, M., Gao, Y., Huang, L., Dan, L., Duan, H., Hong, S., Jiang, F.,
 
 Zhao, Y., Su, Z., Chen, Y., Hou, S., <b>Lu, X.</b>, Zheng, B., Liu, L., Pan, Y., Xu, W., Liu, X., and Zhang, L.: Rising importance of agricultural nitrogen oxide emissions in China’s future PM2.5 pollution mitigation, <b><em>npj Climate and Atmospheric Science</em></b>, 8, 2025 [[link]](https://doi.org/10.1038/s41612-025-00976-3)
 
+Xiong, Y., Yang, Q., Gao, Y., Li, K., Yang, Y., Lin, G., Lu, X., Wang, Z., Zhang, H., and Gao, M.: Modeling the formation of aerosols and their interactions with weather and climate: critical review and future perspectives, <b><em>Frontiers of Environmental Science & Engineering</em></b>, 19, 2025 [[link]](https://doi.org/10.1007/s11783-025-2063-y)
 
-**2024 (23)**
+**2024 (4/23)**
 
 <b>Wang, H., Lu, X.* </b>, Palmer, P. I., Zhang, L., Lu, K., Li, K., Nagashima, T., Koo, J.-H., Tanimoto, H., Wang, H., Gao, M., <b>He, C.</b>, Wu, K., Fan, S.*, and Zhang, Y.*: Deciphering decadal urban ozone trends from historical records since 1980, <b><em>National Science Review</em></b>, 2024. [[link]](https://doi.org/10.1093/nsr/nwae369).
 
@@ -84,7 +91,7 @@ Zhang, J., Shen, A., Jin, Y. B., Cui, Y. P., Xu, Y. F., <b>Lu, X.</b>, Liu, Y. M
 
 Zhu, Y., Liu, Y., Li, S., Wang, H., <b>Lu, X.</b>, Wang, H., Shen, C., Chen, X., Chan, P., Shen, A., Wang, H., Jin, Y., Xu, Y., Fan, S., and Fan, Q.: Assessment of tropospheric ozone simulations in a regional chemical transport model using GEOS-Chem outputs as chemical boundary conditions, <b><em>Sci. Total Environ.</em></b>, 906, 167485, 2024 [[link]](https://doi.org/10.1016/j.scitotenv.2023.167485)
 
-**2023 (18)**
+**2023 (4/18)**
 
 <b>Lu, X.* </b>, Jacob, D. J.*, Zhang, Y., Shen, L., Sulprizio, M. P., Maasakkers, J. D., Varon, D. J., Qu, Z., Chen, Z., Hmiel, B., Parker, R. J., Boesch, H., <b>Wang, H.</b>, <b>He, C.</b>, and Fan, S.: Observation-derived 2010-2019 trends in methane emissions and intensities from US oil and gas fields tied to activity metrics, <b><em>Proc. Natl. Acad. Sci. U. S. A.</em></b>, 120, e2217900120,  2023.  [[link]](https://doi.org/10.1073/pnas.2217900120)
 
@@ -123,7 +130,7 @@ Zhang, X., Zhou, C., Zhang, Y., <b>Lu, X.</b>, Xiao, X., Wang, F., Song, J., Guo
 Zhang, Y., Wang, H., <b>Lu, X.</b>, Li, L., He, Y., Wang, H., He, G., He, C., Wang, J., and Fan, S.: Evolution of summer surface ozone pollution patterns in China during 2015–2020, <b><em>Atmospheric Research</em></b>, 291, 2023 [[link]](https://doi.org/10.1016/j.atmosres.2023.106836)
 
 
-**2022 (18)**
+**2022 (3/18)**
 
 <b>He, C.</b>, <b>Lu, X.*</b>, <b>Wang, H.</b>, Wang, H., Li, Y., He, G., He, Y., Wang, Y., Zhang, Y., Liu, Y., Fan, Q., and Fan, S.<b>*</b>: The unexpected high frequency of nocturnal surface ozone enhancement events over China: Characteristics and mechanisms, <b><em>Atmospheric Chemistry and Physics</em></b>, 22, 15243-15261, 2022  [[link]](http://doi.org/10.5194/acp-2022-310)
 
@@ -161,7 +168,7 @@ Zhang, Y., Fang, S., Chen, J., Lin, Y., Chen, Y., Liang, R., Jiang, K., Parker, 
 
 Zhou, C., Gao, M., Li, J., Bai, K., Tang, X., <b>Lu, X.</b>, Liu, C., Wang, Z., and Guo, Y.: Optimal Planning of Air Quality-Monitoring Sites for Better Depiction of PM2.5 Pollution across China, <b><em>ACS Environmental Au</em></b>, 2022,  [[link]](http://doi.org/10.1021/acsenvironau.1c00051)
 
-**2021 (20)**
+**2021 (4/20)**
 
 <b>Lu, X.</b>, Ye, X., Zhou, M., Zhao, Y., Weng, H., Kong, H., Li, K., Gao, M., Zheng, B., Lin, J., Zhou, F., Zhang, Q., Wu, D., Zhang, L.*, and Zhang, Y.*: The underappreciated role of agricultural soil nitrogen oxide emissions in ozone pollution regulation in North China, <b><em>Nature Communications</em></b>, 12, 2021 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://www.nature.com/articles/s41467-021-25147-9) 
 
@@ -204,7 +211,7 @@ Wang, X., Fu, T.-M., Zhang, L., Cao, H., Zhang, Q., Ma, H., Shen, L., Evans, M. 
 Zhang, Y., Jacob, D. J., <b>Lu, X. </b>, Maasakkers, J. D., Scarpelli, T. R., Sheng, J.-X., Shen, L., Qu, Z., Sulprizio, M. P., Chang, J., Bloom, A. A., Ma, S., Worden, J., Parker, R. J., and Boesch, H.: Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations, <b><em>Atmospheric Chemistry and Physics</em></b>, 21, 3643–3666,2021 [[link]](https://acp.copernicus.org/articles/21/3643/2021/acp-21-3643-2021.html)
 
 
-**2020 (8)**
+**2020 (2/8)**
 
 <b>Lu, X. </b>, Zhang, L.*, Wu, T.*, Long, M., Wang, J., Jacob, D., Zhang F., Zhang, J., Eastham, S., Hu, L., Zhu, L., Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, <b><em>Geoscientific Model Development</em></b>, 13, 3817-3838, 2020 [[link]](https://gmd.copernicus.org/articles/13/3817/2020/gmd-13-3817-2020.html)
 
@@ -222,7 +229,7 @@ Wu, T., Zhang, F., Zhang, J., Jie, W., Zhang, Y., Wu, F., Li, L., Yan, J., Liu, 
 
 Yin, H., Sun, Y., Liu, C., <b>Lu, X. </b>, Smale, D., Blumenstock, T., Nagahama, T., Wang, W., Tian, Y., Hu, Q., Shan, C., Zhang, H., and Liu, J.: Ground-based FTIR observation of hydrogen chloride (HCl) over Hefei, China, and comparisons with GEOS-Chem model data and other ground-based FTIR stations data, <b><em>Optics Express</em></b>, 28, 8041, 2020 [[link]](https://doi.org/10.1364/OE.384377)
 
-**2019 (7)**
+**2019 (3/7)**
 
 <b>Lu, X. *</b>, Zhang, L.<b>*</b>, Chen, Y., Zhou, M., Zheng, B., Li, K., Liu, Y., Lin, J., Fu, T.-M., and Zhang, Q.: Exploring 2016–2017 surface ozone pollution over China: source contributions and meteorological influences, <b><em>Atmospheric Chemistry and Physics</em></b>, 19, 8339-8361, 2019 <b>[ESI 1% Highly Cited Paper]</b> [[link]](https://acp.copernicus.org/articles/19/8339/2019/acp-19-8339-2019.html)
 
@@ -238,7 +245,7 @@ Zhao, Y., Zhang, L., Zhou, M., Chen, D., <b>Lu, X. </b>, Tao, W., Liu, J., Tian,
   
 Zhou, M., Zhang, L., Chen, D., Gu, Y., Fu, T.-M., Gao, M., Zhao, Y., <b>Lu, X. </b>, and Zhao, B., The impact of aerosol-radiation interactions on the effectiveness of emission control measures, <b><em>Environmental Research Letters</em></b>, 14, 024002, 2019 [[link]](https://iopscience.iop.org/article/10.1088/1748-9326/aaf27d)
 
-**2018 (4)**
+**2018 (2/4)**
 
 <b>Lu, X. </b>, Hong, J., Zhang, L.*, Cooper, O. R., Schultz, M. G., Xu, X., Wang, T., Gao, M., Zhao, Y., and Zhang, Y.*: Severe Surface Ozone Pollution in China: A Global Perspective, <b><em>Environmental Science & Technology Letters</em></b>, 5, 487-494, 2018. <b>[ESI 0.1% Hot Paper] [ESI 1% Highly Cited Paper]</b> [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.8b00366)
 
@@ -248,17 +255,20 @@ Gao, M., Ding, Y., Song, S., <b>Lu, X. </b>, Chen, X., and McElroy, M. B.: Secul
 
 Gao, M., Beig, G., Song, S., Zhang, H., Hu, J., Ying, Q., Liang, F., Liu, Y., Wang, H., <b>Lu, X. </b>, Zhu, T., Carmichael, G. R., Nielsen, C. P., and McElroy, M. B.: The impact of power generation emissions on ambient PM2.5 pollution and human health in China and India, <b><em>Environmental International</em></b>, 121, 250-259, 2018 [[link]](https://www.sciencedirect.com/science/article/pii/S0160412018313369)
 
-**2017 (1)**
+**2017 (0/1)**
 
 Gao, M., Liu, Z., Wang, Y., <b>Lu, X. </b>, Ji, D., Wang, L., Li, M., Wang, Z., Zhang, Q., and Carmichael, G. R.: Distinguishing the roles of meteorology, emission control measures, regional transport, and co-benefits of reduced aerosol feedbacks in “APEC Blue”, <b><em>Atmospheric Environment</em></b>, 167, 476-486, 2017 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1352231017305678)
 
-**2016 (2)**
+**2016 (1/2)**
 
 <b>Lu, X. </b>, Zhang, L.*, Yue, X., Zhang, J., Jaffe, D. A., Stohl, A., Zhao, Y., and Shao, J.: Wildfire influences on the variability and trend of summer surface ozone in the mountainous western United States, <b><em>Atmospheric Chemistry and Physics</em></b>, 16, 14687-14702, 2016 [[link]](https://acp.copernicus.org/articles/16/14687/2016/)
 
 Zhang, L., Shao, J., <b>Lu, X. </b>, Zhao, Y., Hu, Y., Henze, D. K., Liao, H., Gong, S., and Zhang, Q.: Sources and Processes Affecting Fine Particulate Matter Pollution over North China: An Adjoint Analysis of the Beijing APEC Period, <b><em>Environmental Science & Technology</em></b>, 50, 8731-8740, 2016 [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.est.6b03010)
 
-**In Chinese (8)** 
+**In Chinese (4 with correspondent author)** 
+（通讯作者）刘南希，曾鉴慧，王浩帆，等. 2025 副热带高压和热带气旋外围下沉气流诱发的广州市持续臭氧污染的数值模拟研究［J］.环境科学学报
+LIU Nanxi，ZENG Jianhui，WANG Haofan，et al.Numerical simulation study on sustained ozone pollution in Guangzhou induced by subtropical
+high and peripheral subsidence airflow of tropical cyclone［J］.Acta Scientiae Circumstantiae
   
 （通讯作者）何成，何国文，刘晨曦， 等.2023.广州暖季夜间臭氧增加事件的特征及一次水平输送个例分析［J］.环境科学学报，43（1）：76-86
 HE Cheng，HE Guowen，LIU Chenxi，et al.2023.Characteristics of nocturnal ozone enhancement events and a case study of horizontal transport in Guangzhou during warm season［J］.Acta Scientiae Circumstantiae，43（1）：76-86
