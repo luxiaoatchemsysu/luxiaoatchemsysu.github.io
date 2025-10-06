@@ -89,20 +89,20 @@
 
 - name: Shuai Li (李帅)
   photo: Shuai Li.jpg
-  info: Master student
+  info: Ph.D. student
   email:
   number_educ: 4
-  education1: Master student, Sun Yat-sen University
+  education1: Ph.D. student, Sun Yat-sen University
   education2: BS (2019-2023), Sun Yat-sen University
   education3: Research interest： Modeling of atmospheric chemistry
   education4: <a href="https://acp.copernicus.org/articles/25/2725/2025/">ACP2025</a>
 
 - name: Yangyang Cao (曹扬杨)
   photo: YangyangCao.jpg
-  info: Master student (co-supervised)
+  info: Ph.D. student (co-supervised)
   email:
   number_educ: 3
-  education1: Master student, Sun Yat-sen University
+  education1: Ph.D. student, Sun Yat-sen University
   education2: BS (2019-2023), Sun Yat-sen University
   education3: Research interest： Greenhouse gas
   education4:
@@ -127,26 +127,53 @@
 
 - name: Jingcheng Lai (赖菁程)
   photo: JingchengLai.jpg
-  info: Undergraduate student
+  info: Master student
   email:
-  number_educ: 2
-  education1: Undergraduate student (2021-),  Nanjing University of Information Science and Technology
-  education2: Research interest： AI in atmospheric chemistry
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2021-2025),  Nanjing University of Information Science and Technology
+  education3: Research interest： AI in atmospheric chemistry
 
 - name: Xiao Yang (杨骁)
   photo: XiaoYang.jpg
-  info: Undergraduate student
+  info: Master student
   email:
-  number_educ: 2
-  education1: Undergraduate student(2021-), Sun Yat-sen University
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education1: BS(2021-2025), Sun Yat-sen University
   education2: Research interest： Climate-Chemistry interactions
 
 - name: Xinyu Yin (殷昕雨)
   photo: XinyuYin.jpg
+  info: Master student
+  email:
+  number_educ: 3
+  education1: Master student, Sun Yat-sen University
+  education2: BS (2021-2025), Sun Yat-sen University
+  education3: Research interest： Atmospheric chemistry modeling
+
+- name: Houzhi Ding (丁厚之)
+  photo: HouzhiDing.jpg
   info: Undergraduate student
   email:
   number_educ: 2
-  education1: Undergraduate student(2021-), Sun Yat-sen University
+  education1: Undergraduate student(2022-), Sun Yat-sen University
+  education2: Research interest：Inverse modeling
+
+- name: Ji Fang (方姬)
+  photo: JiFang.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student(2022-), Sun Yat-sen University
+  education2: Research interest： Greenhouse gas emissions
+
+- name: Zifeng Rao (饶梓丰)
+  photo: ZifengRao.jpg
+  info: Undergraduate student
+  email:
+  number_educ: 2
+  education1: Undergraduate student(2022-), Nanjing University of Information Science and Technology
   education2: Research interest： Atmospheric chemistry modeling
 
 - name: "This could be you !"
