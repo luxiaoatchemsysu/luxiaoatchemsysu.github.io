@@ -34,13 +34,13 @@ Our research group will be focusing on a wide range of topics on atmospheric che
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-       <div class="item active">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiJY2025ACP.png" alt="Slide 0" />
         </div>
-              <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2025ACP.png" alt="Slide 1" />
         </div>
-       <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiShuai2025ACP.png" alt="Slide 2" />
         </div>
         <div class="item">
