@@ -27,7 +27,7 @@ permalink: /publications/
 
 <b>Liu, N., He, G., Wang, H., He, C.</b>, Wang, H., Liu, C., Wang, Y., Wang, H., Li, L., <b>Lu, X. * </b>, and Fan, S.*: Rising frequency of ozone-favorable synoptic weather patterns contributes to 2015–2022 ozone increase in Guangzhou, <b><em>Journal of Environmental Sciences</em></b>, 2025.[[link]](http://doi.org/10.1016/j.jes.2023.09.024)
 
-<b>Wang, H.</b>, Maslanka, W., Palmer, P. I.*, Wooster, M. J., Wang, H., Yao, F., Feng, L., Wu, K., <b>Lu, X.* </b>, and Fan, S.*: Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone, <b><em>Atmos. Chem. Phys.</em></b>,, 25, 17501-17526, 2025 [[link]](https://doi.org/10.5194/acp-25-17501-2025)
+<b>Wang, H.</b>, Maslanka, W., Palmer, P. I.* , Wooster, M. J., Wang, H., Yao, F., Feng, L., Wu, K., <b>Lu, X.* </b>, and Fan, S.*: Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone, <b><em>Atmos. Chem. Phys.</em></b>,, 25, 17501-17526, 2025 [[link]](https://doi.org/10.5194/acp-25-17501-2025)
 
 Huang, Y., <b>Li, S.</b>, Zhu, Y., Liu, Y., Hong, Y., Chen, X., Deng, W., Xi, X., <b>Lu, X.</b>, and Fan, Q.: Increasing Sea‐Land Breeze Frequencies Over Coastal Areas of China in the Past Five Decades, <b><em>Geophys. Res. Lett.</em></b>, 52, 2025 [[link]](https://doi.org/10.1029/2024gl112480)
 
@@ -53,7 +53,7 @@ Wang, S., Gao, M., Wang, Z., Ding, Y., Luo, J., Wu, Z., Li, Q., <b>Lu, X.</b>, Y
 
 Wang, Y., Zhang, Y., Tian, X., Wang, X., Yuan, W., Ding, J., Jiang, F., Jin, Z., Ju, W., Liang, R., <b>Lu, X.</b>, Shen, L., Sun, S., Wang, T., Zhang, H., Zhao, M., and Piao, S.: Towards verifying and improving estimations of China's CO2 and CH4 budgets using atmospheric inversions, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwaf090).
 
-Xiong, Y., Yang, Q., Gao, Y., Li, K., Yang, Y., Lin, G., Lu, X., Wang, Z., Zhang, H., and Gao, M.: Modeling the formation of aerosols and their interactions with weather and climate: critical review and future perspectives, <b><em>Frontiers of Environmental Science & Engineering</em></b>, 19, 2025 [[link]](https://doi.org/10.1007/s11783-025-2063-y)
+Xiong, Y., Yang, Q., Gao, Y., Li, K., Yang, Y., Lin, G., <b>Lu, X.</b>, Wang, Z., Zhang, H., and Gao, M.: Modeling the formation of aerosols and their interactions with weather and climate: critical review and future perspectives, <b><em>Frontiers of Environmental Science & Engineering</em></b>, 19, 2025 [[link]](https://doi.org/10.1007/s11783-025-2063-y)
 
 Yuan, W., Liang, M., Gao, Y., Huang, L., Dan, L., Duan, H., Hong, S., Jiang, F., Ju, W., Li, T., Lou, Z., Luan, S., <b>Lu, X.</b>, Qin, Z., Ran, L., Shen, L., Teng, F., Tian, X., Wang, Y., Wei, J., Xia, J., Xia, X., Yu, L., Yue, X., Zhang, H., Zhang, W., Zhang, Y., Zhao, X., Zhu, Q., Piao, S., and Wang, X.: China's greenhouse gas budget during 2000-2023, <b><em>National Science Review</em></b>, 2025 [[link]](https://doi.org/10.1093/nsr/nwaf069)
 
