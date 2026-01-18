@@ -1,7 +1,6 @@
 - name: Xiao Lu (卢骁)
   photo: XiaoLu1.jpg
-  info: Associate Professor, started May 2021
-  email: xiaolu@g.harvard.edu
+  info: Professor
   number_educ: 4
   education1: Postdoc (2019-2021), Harvard Univerisity
   education2: PhD (2014-2019), Peking Univerisity
@@ -18,13 +17,14 @@
 - name: Xiang Weng (翁翔)
   photo: XiangWeng.jpg
   info: Postdoctoral Fellow 
-  number_educ: 2
+  number_educ: 3
   education1: Ph.D. (2024), University of East Anglia
   education2: Research interest： Atmospheric Chemistry modeling and machine learning
+  education3: <a href="https://pubs.acs.org/doi/10.1021/acs.est.5c10697">ES&T2026</a>
 
 - name: Guowen He (何国文)
   photo: Guowen He.jpg
-  info: Ph.D. candidate (co-supervised)
+  info: Ph.D. (co-supervised)
   email: 
   number_educ: 3
   education1: Ph.D. candidate, Sun Yat-sen University
@@ -37,8 +37,8 @@
   email: 
   number_educ: 3
   education1: Ph.D. candidate, Sun Yat-sen University
-  education2: BS (2015-2019), Chengdu University of Information Technology
-  education3: Research interest： Atmospheric Radiation and air quality
+  education2: Research interest： Atmospheric Radiation and air quality
+  education3: <a href="https://doi.org/10.1038/s43247-025-03123-1">CEE2026</a>
 
 - name: Haofan Wang (王浩帆)
   photo: HaofanWang.jpg
