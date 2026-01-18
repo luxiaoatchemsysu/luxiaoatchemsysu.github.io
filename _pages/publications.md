@@ -19,9 +19,9 @@ permalink: /publications/
 
 **2025 (2/2)**
 
-<b>Weng, X.</b>, Li, J., <b>Zeng, G., <b>Lu, X.*</b>, Forster, G., and Nowack, P.: Divergent Ozone Predictions in China Under Carbon Neutrality: Why Chemical Mechanisms Disagree, <b><em>Environ. Sci. Technol.</em></b>, 2026， [[link]](https://doi.org/10.1021/acs.est.5c10697)
+<b>Weng, X.</b>, Li, J., <b>Zeng, G.</b>, <b>Lu, X.*</b>, Forster, G., and Nowack, P.: Divergent Ozone Predictions in China Under Carbon Neutrality: Why Chemical Mechanisms Disagree, <b><em>Environ. Sci. Technol.</em></b>, 2026， [[link]](https://doi.org/10.1021/acs.est.5c10697)
 
-<b>Yin, K.</b>, Yao, F., Luo, N., Gao, M., <b>Lu, X.*</b>, and Yi, B.*: Substantial reduction of solar photovoltaic potential in China by an extreme dust event, <b><em>Communications Earth & Environment</em></b>, 7, 2026, [[link]](https://doi.org/10.1038/s43247-025-03123-1)
+<b>Yin, K.</b>, Yao, F., Luo, N., Gao, M., <b>Lu, X.* </b>, and Yi, B.*: Substantial reduction of solar photovoltaic potential in China by an extreme dust event, <b><em>Communications Earth & Environment</em></b>, 7, 2026, [[link]](https://doi.org/10.1038/s43247-025-03123-1)
 
 **2025 (5/21)**
 
