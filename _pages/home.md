@@ -1,15 +1,15 @@
 ---
-title: "ACCM Group - Home"
+title: "ACEM Group - Home"
 layout: homelay
-excerpt: "Atmospheric Chemistry and Climate Modeling Group at SYSU"
+excerpt: "Atmospheric Chemistry and Earth System Modeling Group at SYSU"
 sitemap: false
 permalink: /
 ---
-**Welcome to the Atmospheric Chemistry and Climate Modeling Group at [School of Atmoshpheric Sciences, Sun Yat-sen University](https://atmos.sysu.edu.cn/)**
+**Welcome to the Atmospheric Chemistry and Earth System Modeling Group at [School of Atmoshpheric Sciences, Sun Yat-sen University](https://atmos.sysu.edu.cn/)**
 
 The group is led by **Prof. Xiao Lu (luxiao25@mail.sysu.edu.cn)**.
 
-Our research group will be focusing on a wide range of topics on atmospheric chemistry and climate modeling, including:
+Our research group will be focusing on a wide range of topics on atmospheric chemistry and Earth system modeling, including:
 - Source, chemistry, transport, and sink of air pollutants
 - Greenhouse gases budgets from bottom-up and top-down methods
 - Chemistry-Climate-Ecosystem interactions and model development
