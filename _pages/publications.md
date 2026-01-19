@@ -290,7 +290,7 @@ Gao, M., Liu, Z., Wang, Y., <b>Lu, X. </b>, Ji, D., Wang, L., Li, M., Wang, Z., 
 
 Zhang, L., Shao, J., <b>Lu, X. </b>, Zhao, Y., Hu, Y., Henze, D. K., Liao, H., Gong, S., and Zhang, Q.: Sources and Processes Affecting Fine Particulate Matter Pollution over North China: An Adjoint Analysis of the Beijing APEC Period, <b><em>Environmental Science & Technology</em></b>, 50, 8731-8740, 2016 [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.est.6b03010)
 
-**In Chinese (4 with correspondent author)** 
+**In Chinese (4 as correspondent author)** 
 
 （通讯作者）刘南希，曾鉴慧，王浩帆，等. 2025 副热带高压和热带气旋外围下沉气流诱发的广州市持续臭氧污染的数值模拟研究［J］.环境科学学报
 LIU Nanxi，ZENG Jianhui，WANG Haofan，et al.Numerical simulation study on sustained ozone pollution in Guangzhou induced by subtropical
