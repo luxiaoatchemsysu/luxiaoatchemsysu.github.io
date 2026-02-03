@@ -1,4 +1,4 @@
-- name: Xiao Lu (卢骁)
+- name: PI: Xiao Lu (卢骁)
   photo: XiaoLu1.jpg
   info: Professor
   number_educ: 4
@@ -24,11 +24,11 @@
 
 - name: Guowen He (何国文)
   photo: Guowen He.jpg
-  info: Ph.D. (co-supervised)
+  info:  Postdoctoral Fellow 
   email: 
   number_educ: 3
-  education1: Ph.D. candidate, Sun Yat-sen University
-  education2: Research interest： Ozone air quality
+  education1: Ph.D. (2025), Sun Yat-sen University
+  education2: Research interest： Atmospheric Chemistry modeling
   education3: <a href="https://acp.copernicus.org/articles/23/13107/2023/">ACP2023</a>
   
 - name: Ke Yin (尹柯)
@@ -46,7 +46,7 @@
   email: 
   number_educ: 3
   education1: Ph.D. candidate, Sun Yat-sen University
-  education2: Research interest： Air quantily and carbon reduction
+  education2: Research interest： Air quantily and Earth System Modeling
   education3: <a href="https://acp.copernicus.org/articles/25/5233/2025/">ACP2025</a>
 
 - name: Jingyu Li (李婧宇)
@@ -104,7 +104,7 @@
   number_educ: 3
   education1: Ph.D. student, Sun Yat-sen University
   education2: BS (2019-2023), Sun Yat-sen University
-  education3: Research interest： Greenhouse gas
+  education3: Research interest： Air quality
   education4:
 
 - name: Xiyao Bai (白熙瑶)
