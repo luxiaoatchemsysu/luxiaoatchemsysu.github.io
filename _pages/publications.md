@@ -8,20 +8,23 @@ permalink: /publications/
 
 
 <p></p>
-**ACCM group has published 18 peer-reviewed SCI research articles (team members as first/corresponding author) since 2022.**
+**ACCM group has published 19 peer-reviewed SCI research articles (team members as first/corresponding author) since 2022.**
 
-**Xiao Lu has published over 100 peer-reviewed research articles (34 as first/corresponding author, 30 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
+**Xiao Lu has published over 100 peer-reviewed research articles (35 as first/corresponding author, 31 SCI, including PNAS(1), Nature Communications(1), and Nature Geoscience(1), ESI 0.1% hot paper(1), and ESI 1% highly cited papers(5)). [[Google Scholar]](https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Xiao-Lu-5).**
 
 (<b>*</b> Corresponding author; <b>#</b> co-first author；Group members are shown in <b>bold</b> )
 
 **Publication list (First or Corres. Author/All)**
 <p></p>
 
-**2025 (2/2)**
+**2025 (3/3)**
 
 <b>Weng, X.</b>, Li, J., <b>Zeng, G.</b>, <b>Lu, X.*</b>, Forster, G., and Nowack, P.: Divergent Ozone Predictions in China Under Carbon Neutrality: Why Chemical Mechanisms Disagree, <b><em>Environ. Sci. Technol.</em></b>, 2026 [[link]](https://doi.org/10.1021/acs.est.5c10697)
 
 <b>Yin, K.</b>, Yao, F., Luo, N., Gao, M., <b>Lu, X.* </b>, and Yi, B.*: Substantial reduction of solar photovoltaic potential in China by an extreme dust event, <b><em>Communications Earth & Environment</em></b>, 7, 2026 [[link]](https://doi.org/10.1038/s43247-025-03123-1)
+
+Liu, J., Ran, Z., Hu, Y., He, D., Ye, C., Lu, K., Wang, H., <b>Li, S.</b>, <b>Lu, X.* </b>, Zhang, J., Huang, Z., Zheng, J., Wang, X., Luo, Y.*, and Gligorovski, S.*: Aqueous photochemistry of neonicotinoids unveils a major source of atmospheric reactive nitrogen impacting global climate, <b><em>npj Climate and Atmospheric Science</em></b>, 9, 2026 [[link]](https://doi.org/10.1038/s41612-025-01286-4)
+
 
 **2025 (5/21)**
 
