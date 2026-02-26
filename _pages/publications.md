@@ -17,7 +17,7 @@ permalink: /publications/
 **Publication list (First or Corres. Author/All)**
 <p></p>
 
-**2025 (3/3)**
+**2026 (3/3)**
 
 <b>Weng, X.</b>, Li, J., <b>Zeng, G.</b>, <b>Lu, X.*</b>, Forster, G., and Nowack, P.: Divergent Ozone Predictions in China Under Carbon Neutrality: Why Chemical Mechanisms Disagree, <b><em>Environ. Sci. Technol.</em></b>, 2026 [[link]](https://doi.org/10.1021/acs.est.5c10697)
 
