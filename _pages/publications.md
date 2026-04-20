@@ -25,7 +25,7 @@ permalink: /publications/
 
 <b>Sun, R.#</b>, <b>Lu, X.#</b>, Lin, H., Wu, T., Ye, X., Shen, L., Wang, X., <b>Wang, H.</b>, <b>Li, J.</b>, Lu, N., <b>Su, J.</b>, Zhang, J., Zhang, F., Xin, X., Liu, X., <b>Yang, X.</b>, and Zhang, L.*: Development of the global chemistry-climate coupled model BCC-GEOS-Chem v2.0: improved atmospheric chemistry performance and new capability of chemistry-climate interactions,  <b><em>Geoscientific Model Development, 19, 2111-2136, 2026 [[link]](https://doi.org/10.5194/gmd-19-2111-2026)
 
-<b>He, C.</b>, <b>Lu, X.*</b>, Li, S., <b>Huang, X.</b>, <b>Xiao, H.</b>, Song, C., <b>Li, T.</b>, Yuan, W., and Fan, S.*: Reconciling Bottom–Up and Top–Down Approaches to Quantify Sub-Regional Methane Emissions with Improved Inventory and Three-Year High-Resolution Satellite Measurements,  <b><em>ACS ES&T Air</em></b>, 3, 1097-1109, 2026 [[link]](https://doi.org/10.1021/acsestair.5c00446)
+<b>He, C.</b>, <b>Lu, X.* </b>, Li, S., <b>Huang, X.</b>, <b>Xiao, H.</b>, Song, C., <b>Li, T.</b>, Yuan, W., and Fan, S.*: Reconciling Bottom–Up and Top–Down Approaches to Quantify Sub-Regional Methane Emissions with Improved Inventory and Three-Year High-Resolution Satellite Measurements,  <b><em>ACS ES&T Air</em></b>, 3, 1097-1109, 2026 [[link]](https://doi.org/10.1021/acsestair.5c00446)
 
 Liu, J., Ran, Z., Hu, Y., He, D., Ye, C., Lu, K., Wang, H., <b>Li, S.</b>, <b>Lu, X.* </b>, Zhang, J., Huang, Z., Zheng, J., Wang, X., Luo, Y.*, and Gligorovski, S.*: Aqueous photochemistry of neonicotinoids unveils a major source of atmospheric reactive nitrogen impacting global climate, <b><em>npj Climate and Atmospheric Science</em></b>, 9, 2026 [[link]](https://doi.org/10.1038/s41612-025-01286-4)
 
