@@ -30,49 +30,61 @@ Our research group will be focusing on a wide range of topics on atmospheric che
         <li data-target="#carousel" data-slide-to="10"></li> 
         <li data-target="#carousel" data-slide-to="11"></li>
         <li data-target="#carousel" data-slide-to="12"></li>
+        <li data-target="#carousel" data-slide-to="13"></li> 
+        <li data-target="#carousel" data-slide-to="14"></li>
+        <li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/YinK2026CEE.png" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SunRZ2026GMD.png" alt="Slide 0" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/HeC2026ESTAir.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiJY2025ACP.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/WengX2026EST.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2025ACP.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/YinK2026CEE.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiShuai2025ACP.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiJY2025ACP.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/WangHL2024NSR.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2025ACP.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiShuai2025ACP.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/WangHL2024NSR.png" alt="Slide 7" />
         </div> 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Reseach-He2024RSE.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Reseach-He2024RSE.png" alt="Slide 8" />
         </div> 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sun2024ERL.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sun2024ERL.jpg" alt="Slide 9" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiuNX2024JES.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LiuNX2024JES.jpg" alt="Slide 10" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/HeGW2023ACP.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/HeGW2023ACP.jpg" alt="Slide 11" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TanWS2023EST.jpg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TanWS2023EST.jpg" alt="Slide 12" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2023PNAS.jpg" alt="Slide 10" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LuX2023PNAS.jpg" alt="Slide 13" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He2022ACP.jpg" alt="Slide 11" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He2022ACP.jpg" alt="Slide 14" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Wang2022ACP.jpg" alt="Slide 12" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Wang2022ACP.jpg" alt="Slide 15" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
