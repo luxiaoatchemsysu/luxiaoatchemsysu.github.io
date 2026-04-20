@@ -23,13 +23,13 @@ permalink: /publications/
 
 <b>Weng, X.</b>, Li, J., <b>Zeng, G.</b>, <b>Lu, X.*</b>, Forster, G., and Nowack, P.: Divergent Ozone Predictions in China Under Carbon Neutrality: Why Chemical Mechanisms Disagree, <b><em>Environ. Sci. Technol.</em></b>, 2026 [[link]](https://doi.org/10.1021/acs.est.5c10697)
 
-<b>Sun, R.#</b>, <b>Lu, X.#</b>, Lin, H., Wu, T., Ye, X., Shen, L., Wang, X., <b>Wang, H.</b>, <b>Li, J.</b>, Lu, N., <b>Su, J.</b>, Zhang, J., Zhang, F., Xin, X., Liu, X., <b>Yang, X.</b>, and Zhang, L.*: Development of the global chemistry-climate coupled model BCC-GEOS-Chem v2.0: improved atmospheric chemistry performance and new capability of chemistry-climate interactions,  <b><em>Geoscientific Model Development, 19, 2111-2136, 2026 [[link]](https://doi.org/10.5194/gmd-19-2111-2026)
+<b>Sun, R.#</b>, <b>Lu, X.#</b>, Lin, H., Wu, T., Ye, X., Shen, L., Wang, X., <b>Wang, H.</b>, <b>Li, J.</b>, Lu, N., <b>Su, J.</b>, Zhang, J., Zhang, F., Xin, X., Liu, X., <b>Yang, X.</b>, and Zhang, L.*: Development of the global chemistry-climate coupled model BCC-GEOS-Chem v2.0: improved atmospheric chemistry performance and new capability of chemistry-climate interactions,  <b><em>Geoscientific Model Development</em></b>, 19, 2111-2136, 2026 [[link]](https://doi.org/10.5194/gmd-19-2111-2026)
 
 <b>He, C.</b>, <b>Lu, X.* </b>, Li, S., <b>Huang, X.</b>, <b>Xiao, H.</b>, Song, C., <b>Li, T.</b>, Yuan, W., and Fan, S.*: Reconciling Bottom–Up and Top–Down Approaches to Quantify Sub-Regional Methane Emissions with Improved Inventory and Three-Year High-Resolution Satellite Measurements,  <b><em>ACS ES&T Air</em></b>, 3, 1097-1109, 2026 [[link]](https://doi.org/10.1021/acsestair.5c00446)
 
 Liu, J., Ran, Z., Hu, Y., He, D., Ye, C., Lu, K., Wang, H., <b>Li, S.</b>, <b>Lu, X.* </b>, Zhang, J., Huang, Z., Zheng, J., Wang, X., Luo, Y.*, and Gligorovski, S.*: Aqueous photochemistry of neonicotinoids unveils a major source of atmospheric reactive nitrogen impacting global climate, <b><em>npj Climate and Atmospheric Science</em></b>, 9, 2026 [[link]](https://doi.org/10.1038/s41612-025-01286-4)
 
-Liu, R., Li, S., Zhang, G., Liu, M., Lu, X., Peng, S., Shen, L., Zhang, Y., Zhuang, M., Zuo, X., and Dong, J.: Recent advances in TROPOMI-based methane source detection: a systematic review,  <b><em>GIScience & Remote Sensing</em></b>, 63, 2026 [[link]](https://doi.org/10.1080/15481603.2026.2650822)
+Liu, R., Li, S., Zhang, G., Liu, M., Lu, X.*, Peng, S., Shen, L., Zhang, Y., Zhuang, M., Zuo, X., and Dong, J.: Recent advances in TROPOMI-based methane source detection: a systematic review,  <b><em>GIScience & Remote Sensing</em></b>, 63, 2026 [[link]](https://doi.org/10.1080/15481603.2026.2650822)
 
 Wang, H., Qin, Y., Li, L., Pei, C., Tang, G., Chen, X., Lu, X., Liu, Y., Shi, Z., Yuan, B., Tham, Y. J., Qin, M., Fan, S., Zhang, Y., Brown, S. S., and Lu, K.: Anthropogenic Emission Largely Enhances Nocturnal Oxidation Chemistry in the Upper Mixing Layer of Megacities,  <b><em>Environ. Sci. Technol.</em></b>, 60, 7326-7336, 2026 [[link]](https://doi.org/10.1021/acs.est.5c18041)
 
