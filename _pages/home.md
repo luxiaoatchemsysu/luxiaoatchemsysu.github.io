@@ -5,7 +5,9 @@ excerpt: "Atmospheric Chemistry and Earth System Modeling Group at SYSU"
 sitemap: false
 permalink: /
 ---
+**2026/08: This page is no longer renewed. Please visit our [new group page](https://lux.labid.cn/)**
 **Welcome to the Atmospheric Chemistry and Earth System Modeling Group at [School of Atmoshpheric Sciences, Sun Yat-sen University](https://atmos.sysu.edu.cn/)**
+
 
 The group is led by **Prof. Xiao Lu (luxiao25@mail.sysu.edu.cn)**.
 
